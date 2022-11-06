@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-11-07 | [Marathoniens traversant le pont Verrazano-Narrows à  New York, États-Unis (© David Madison/Getty Images)](https://global.bing.com/th?id=OHR.MarathonSunday_FR-CA0718239693_UHD.jpg) 
+
 2022-11-06 | [Château de Tigh Mor sur le loch Achray, Écosse (© Fortunato Gatto/eStock Photo)](https://global.bing.com/th?id=OHR.Trossachs_FR-CA9368427438_UHD.jpg) 
 
 2022-11-05 | [Représentation de déités de la tombe de Toutankhamon, musée égyptien du Caire, Egypte (© Stefan Lippmann/Universal Images Group via Getty Images)](https://global.bing.com/th?id=OHR.Deities_FR-CA9415810034_UHD.jpg) 
