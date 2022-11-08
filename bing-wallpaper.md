@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-11-09 | [Lanternes s’envolant lors du festival Yi Peng à Chiang Mai, Thaïlande (© Suttipong Sutiratanachai/Getty Images)](https://global.bing.com/th?id=OHR.YiPeng_FR-CA9943051763_UHD.jpg) 
+
 2022-11-08 | [Éclipse lunaire au-dessus de Mount Crested Butte, Colorado, États-Unis (© Mengzhonghua Photography/Getty Images)](https://global.bing.com/th?id=OHR.CrestedButteEclispe_FR-CA9523060616_UHD.jpg) 
 
 2022-11-07 | [Marathoniens traversant le pont Verrazano-Narrows à  New York, États-Unis (© David Madison/Getty Images)](https://global.bing.com/th?id=OHR.MarathonSunday_FR-CA0718239693_UHD.jpg) 
