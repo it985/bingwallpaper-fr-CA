@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-11-11 | [Formations de glace sur le lac Peyto dans le parc national de Banff, Alberta (© Ben Girardi/Cavan Images)](https://global.bing.com/th?id=OHR.PeytoIce_FR-CA1078672406_UHD.jpg) 
+
 2022-11-10 | [Hérisson dans le Sussex, Angleterre (© Jules Cox/Minden Pictures)](https://global.bing.com/th?id=OHR.HedgehogNest_FR-CA9987206596_UHD.jpg) 
 
 2022-11-09 | [Lanternes s’envolant lors du festival Yi Peng à Chiang Mai, Thaïlande (© Suttipong Sutiratanachai/Getty Images)](https://global.bing.com/th?id=OHR.YiPeng_FR-CA9943051763_UHD.jpg) 
