@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-11-17 | [Habitations troglodytes dans le parc national de Mesa Verde, Colorado, États-Unis (© Brad McGinley Photography/Getty Images)](https://global.bing.com/th?id=OHR.Unesco50_FR-CA0628216636_UHD.jpg) 
+
 2022-11-16 | [Loutres de rivière nageant dans le parc national d’Acadia, Maine, États-Unis (© George Sanker/Minden Pictures)](https://global.bing.com/th?id=OHR.LontraCanadensis_FR-CA0260110421_UHD.jpg) 
 
 2022-11-15 | [Ruines du château médiéval construit par l’ordre de Saint-Jean de Jérusalem au-dessus du village de Chorio, Hálki, Grèce (© Massimo Ripani/eStock Photo)](https://global.bing.com/th?id=OHR.SanGiovanni_FR-CA0563431178_UHD.jpg) 
