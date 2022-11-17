@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-11-18 | [Pont sur le sentier Mckenzie River, forêt nationale de Willamette, Oregon, États-Unis (© Don Paulson/Danita Delimont)](https://global.bing.com/th?id=OHR.McKenzieRiverTrail_FR-CA9894516223_UHD.jpg) 
+
 2022-11-17 | [Habitations troglodytes dans le parc national de Mesa Verde, Colorado, États-Unis (© Brad McGinley Photography/Getty Images)](https://global.bing.com/th?id=OHR.Unesco50_FR-CA0628216636_UHD.jpg) 
 
 2022-11-16 | [Loutres de rivière nageant dans le parc national d’Acadia, Maine, États-Unis (© George Sanker/Minden Pictures)](https://global.bing.com/th?id=OHR.LontraCanadensis_FR-CA0260110421_UHD.jpg) 
