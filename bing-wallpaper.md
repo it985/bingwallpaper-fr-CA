@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-11-20 | [La rivière Virgin dans le parc national de Zion, Utah (© Jonathan Ross/Getty Images)](https://global.bing.com/th?id=OHR.ZNPVR_FR-CA1697257096_UHD.jpg) 
+
 2022-11-19 | [Les portes du palais royal de Fès (Dar El Makhzen), Maroc (© Adam Smigielski/Getty Images)](https://global.bing.com/th?id=OHR.IslamicArt_FR-CA5207661974_UHD.jpg) 
 
 2022-11-18 | [Pont sur le sentier Mckenzie River, forêt nationale de Willamette, Oregon, États-Unis (© Don Paulson/Danita Delimont)](https://global.bing.com/th?id=OHR.McKenzieRiverTrail_FR-CA9894516223_UHD.jpg) 
