@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-11-25 | [Gorge de Preveli avec rivière et forêt de palmiers, La Canée du Sud, Crète, Grèce (© borchee/Getty Images)](https://global.bing.com/th?id=OHR.PreveliGorge_FR-CA2683385955_UHD.jpg) 
+
 2022-11-24 | [Tournesol (© Dileep Chandran/Alamy)](https://global.bing.com/th?id=OHR.HelianthusAnnuus_FR-CA2914361934_UHD.jpg) 
 
 2022-11-23 | [Renard roux dans la réserve naturelle Amsterdamse Waterleidingduinen aux Pays-Bas (© Edwin Giesbers/Minden Pictures)](https://global.bing.com/th?id=OHR.Waterleidingduinen_FR-CA5619739294_UHD.jpg) 
