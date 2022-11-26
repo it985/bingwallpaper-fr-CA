@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-11-27 | [People watch the Christmas lights and fireworks at the Nathan Phillips Square in Toronto, Canada on November 30, 2013 (© Canadapanda/Shutterstock)](https://global.bing.com/th?id=OHR.CavalcadeNathans_FR-CA7586902095_UHD.jpg) 
+
 2022-11-26 | [Juniper Springs dans la forêt nationale d’Ocala, Floride, États-Unis (© Michael Warren/Getty Images)](https://global.bing.com/th?id=OHR.OcalaNF_FR-CA3783644305_UHD.jpg) 
 
 2022-11-25 | [Gorge de Preveli avec rivière et forêt de palmiers, La Canée du Sud, Crète, Grèce (© borchee/Getty Images)](https://global.bing.com/th?id=OHR.PreveliGorge_FR-CA2683385955_UHD.jpg) 
