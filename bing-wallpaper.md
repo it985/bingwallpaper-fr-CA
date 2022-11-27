@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-11-28 | [Feuille de cécropie et pétales en forme de pinces de homard, Mexique (© Gerry Ellis/Minden Pictures)](https://global.bing.com/th?id=OHR.Cecropia_FR-CA6363283449_UHD.jpg) 
+
 2022-11-27 | [People watch the Christmas lights and fireworks at the Nathan Phillips Square in Toronto, Canada on November 30, 2013 (© Canadapanda/Shutterstock)](https://global.bing.com/th?id=OHR.CavalcadeNathans_FR-CA7586902095_UHD.jpg) 
 
 2022-11-26 | [Juniper Springs dans la forêt nationale d’Ocala, Floride, États-Unis (© Michael Warren/Getty Images)](https://global.bing.com/th?id=OHR.OcalaNF_FR-CA3783644305_UHD.jpg) 
