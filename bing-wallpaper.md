@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-11 | [Salar d’Uyuni en Bolivie (© Theo Allofs/Minden Pictures)](https://global.bing.com/th?id=OHR.SaltDesert_FR-CA7874818642_UHD.jpg) 
+
 2022-12-10 | [Maman bœuf musqué et son petit dans le parc national de Dovre-Sunndalsfjella, Norvège (© Robert Haasmann/Minden Pictures)](https://global.bing.com/th?id=OHR.NorwayMuskox_FR-CA7842752958_UHD.jpg) 
 
 2022-12-09 | [La cathédrale de Florence, Italie (© Alexander Baert/Amazing Aerial Agency)](https://global.bing.com/th?id=OHR.FlorenceAerial_FR-CA7584647036_UHD.jpg) 
