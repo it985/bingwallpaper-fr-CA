@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-12 | [Winter themed hand painted mail boxes for 'Sea Village' floating home residents, Granville Island, Vancouver (© Michael Wheatley/Alamy Stock Photo)](https://global.bing.com/th?id=OHR.WinterMail_FR-CA7757938098_UHD.jpg) 
+
 2022-12-11 | [Salar d’Uyuni en Bolivie (© Theo Allofs/Minden Pictures)](https://global.bing.com/th?id=OHR.SaltDesert_FR-CA7874818642_UHD.jpg) 
 
 2022-12-10 | [Maman bœuf musqué et son petit dans le parc national de Dovre-Sunndalsfjella, Norvège (© Robert Haasmann/Minden Pictures)](https://global.bing.com/th?id=OHR.NorwayMuskox_FR-CA7842752958_UHD.jpg) 
