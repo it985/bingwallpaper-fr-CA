@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-13 | [Feuilles de poinsettia (© Elizabeth Fernandez/Getty Images)](https://global.bing.com/th?id=OHR.PoinsettiaDay_FR-CA7961049956_UHD.jpg) 
+
 2022-12-12 | [Winter themed hand painted mail boxes for 'Sea Village' floating home residents, Granville Island, Vancouver (© Michael Wheatley/Alamy Stock Photo)](https://global.bing.com/th?id=OHR.WinterMail_FR-CA7757938098_UHD.jpg) 
 
 2022-12-11 | [Salar d’Uyuni en Bolivie (© Theo Allofs/Minden Pictures)](https://global.bing.com/th?id=OHR.SaltDesert_FR-CA7874818642_UHD.jpg) 
