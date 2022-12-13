@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-14 | [Hallstatt, Autriche (© Jon Arnold Images Ltd/Alamy)](https://global.bing.com/th?id=OHR.InstagramHallstatt_FR-CA8988785255_UHD.jpg) 
+
 2022-12-13 | [Feuilles de poinsettia (© Elizabeth Fernandez/Getty Images)](https://global.bing.com/th?id=OHR.PoinsettiaDay_FR-CA7961049956_UHD.jpg) 
 
 2022-12-12 | [Winter themed hand painted mail boxes for 'Sea Village' floating home residents, Granville Island, Vancouver (© Michael Wheatley/Alamy Stock Photo)](https://global.bing.com/th?id=OHR.WinterMail_FR-CA7757938098_UHD.jpg) 
