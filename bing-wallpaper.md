@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-15 | [Les 12 Jours de Noël dans les Butchart Gardens, Vancouver, B.C (© Michael Wheatley/Alamy Stock Photo)](https://global.bing.com/th?id=OHR.ButchartDisplay_FR-CA8386590883_UHD.jpg) 
+
 2022-12-14 | [Hallstatt, Autriche (© Jon Arnold Images Ltd/Alamy)](https://global.bing.com/th?id=OHR.InstagramHallstatt_FR-CA8988785255_UHD.jpg) 
 
 2022-12-13 | [Feuilles de poinsettia (© Elizabeth Fernandez/Getty Images)](https://global.bing.com/th?id=OHR.PoinsettiaDay_FR-CA7961049956_UHD.jpg) 
