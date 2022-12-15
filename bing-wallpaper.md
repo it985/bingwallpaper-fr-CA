@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-16 | [Borovets, Bulgaria (© Grigor Ivanov/Cavan Images)](https://global.bing.com/th?id=OHR.Borovets_FR-CA8952034838_UHD.jpg) 
+
 2022-12-15 | [Les 12 Jours de Noël dans les Butchart Gardens, Vancouver, B.C (© Michael Wheatley/Alamy Stock Photo)](https://global.bing.com/th?id=OHR.ButchartDisplay_FR-CA8386590883_UHD.jpg) 
 
 2022-12-14 | [Hallstatt, Autriche (© Jon Arnold Images Ltd/Alamy)](https://global.bing.com/th?id=OHR.InstagramHallstatt_FR-CA8988785255_UHD.jpg) 
