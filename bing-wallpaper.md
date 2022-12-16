@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-17 | [Le Jardin botanique d’Atlanta illuminé pour les fêtes de fin d’année, Géorgie, États-Unis (© Natalia Kuzmina/Alamy)](https://global.bing.com/th?id=OHR.AtlantaLights_FR-CA8902467447_UHD.jpg) 
+
 2022-12-16 | [Borovets, Bulgaria (© Grigor Ivanov/Cavan Images)](https://global.bing.com/th?id=OHR.Borovets_FR-CA8952034838_UHD.jpg) 
 
 2022-12-15 | [Les 12 Jours de Noël dans les Butchart Gardens, Vancouver, B.C (© Michael Wheatley/Alamy Stock Photo)](https://global.bing.com/th?id=OHR.ButchartDisplay_FR-CA8386590883_UHD.jpg) 
