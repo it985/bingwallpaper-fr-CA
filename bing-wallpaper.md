@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-19 | [South Beach, Miami, Floride, États-Unis (© Claudia Uripos/eStock Photo)](https://global.bing.com/th?id=OHR.SouthBeach_FR-CA9046426342_UHD.jpg) 
+
 2022-12-18 | [Chèvres des montagnes rocheuses dans le parc national de Glacier, Montana, États-Unis (© Sumio Harada/Minden Pictures)](https://global.bing.com/th?id=OHR.GlacierGoats_FR-CA4346498421_UHD.jpg) 
 
 2022-12-17 | [Le Jardin botanique d’Atlanta illuminé pour les fêtes de fin d’année, Géorgie, États-Unis (© Natalia Kuzmina/Alamy)](https://global.bing.com/th?id=OHR.AtlantaLights_FR-CA8902467447_UHD.jpg) 
