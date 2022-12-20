@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-21 | [Le marché de Noël devant le palais du Belvédère à Vienne, Autriche (© Diyana Dimitrova/Alamy)](https://global.bing.com/th?id=OHR.PalaceBelvedere_FR-CA9162222925_UHD.jpg) 
+
 2022-12-20 | [Un cardinal nordique perché dans un buisson d’hiver commun dans le comté de Marion, Illinois (© Richard and Susan Day/Danita Delimont)](https://global.bing.com/th?id=OHR.WinterberryBush_FR-CA9110569957_UHD.jpg) 
 
 2022-12-19 | [South Beach, Miami, Floride, États-Unis (© Claudia Uripos/eStock Photo)](https://global.bing.com/th?id=OHR.SouthBeach_FR-CA9046426342_UHD.jpg) 
