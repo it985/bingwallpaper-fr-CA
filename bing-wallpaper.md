@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-23 | [Le sapin des Galeries Lafayette à Paris (© Geoffroy Van der Hasselt/AFP via Getty Images)](https://global.bing.com/th?id=OHR.TreeGaleriesLafayette_FR-CA9283663629_UHD.jpg) 
+
 2022-12-22 | [Halo solaire au-dessus du lac Antermoia dans les Dolomites d’Italie (© Walter Donega/Getty Images)](https://global.bing.com/th?id=OHR.SolarHalo_FR-CA9232827321_UHD.jpg) 
 
 2022-12-21 | [Le marché de Noël devant le palais du Belvédère à Vienne, Autriche (© Diyana Dimitrova/Alamy)](https://global.bing.com/th?id=OHR.PalaceBelvedere_FR-CA9162222925_UHD.jpg) 
