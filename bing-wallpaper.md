@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-25 | [Port d’Amalga, Alaska, États-Unis (© Mark Kelley/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.AmalgaTree_FR-CA9334629575_UHD.jpg) 
+
 2022-12-24 | [Manchots papou en Antarctique (© Nature Picture Library/Alamy)](https://global.bing.com/th?id=OHR.GentooGrievances_FR-CA9383210910_UHD.jpg) 
 
 2022-12-23 | [Le sapin des Galeries Lafayette à Paris (© Geoffroy Van der Hasselt/AFP via Getty Images)](https://global.bing.com/th?id=OHR.TreeGaleriesLafayette_FR-CA9283663629_UHD.jpg) 
