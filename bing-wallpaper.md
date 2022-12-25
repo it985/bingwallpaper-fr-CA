@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-26 | [Scène de Noël à Strasbourg (© Kavalenkava Volha/Alamy)](https://global.bing.com/th?id=OHR.ChristmasSouvenir_FR-CA9463869373_UHD.jpg) 
+
 2022-12-25 | [Port d’Amalga, Alaska, États-Unis (© Mark Kelley/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.AmalgaTree_FR-CA9334629575_UHD.jpg) 
 
 2022-12-24 | [Manchots papou en Antarctique (© Nature Picture Library/Alamy)](https://global.bing.com/th?id=OHR.GentooGrievances_FR-CA9383210910_UHD.jpg) 
