@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-27 | [Parc près de Beverly, Yorkshire, Angleterre (© Les Gibbon/Alamy)](https://global.bing.com/th?id=OHR.BeverleyWestwood_FR-CA9532317945_UHD.jpg) 
+
 2022-12-26 | [Scène de Noël à Strasbourg (© Kavalenkava Volha/Alamy)](https://global.bing.com/th?id=OHR.ChristmasSouvenir_FR-CA9463869373_UHD.jpg) 
 
 2022-12-25 | [Port d’Amalga, Alaska, États-Unis (© Mark Kelley/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.AmalgaTree_FR-CA9334629575_UHD.jpg) 
