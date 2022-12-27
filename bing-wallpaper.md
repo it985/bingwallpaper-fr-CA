@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-28 | [Lagon Bleu, Grindavík, Islande (© Westend61/Getty Images)](https://global.bing.com/th?id=OHR.BlueLagoon_FR-CA9587558667_UHD.jpg) 
+
 2022-12-27 | [Parc près de Beverly, Yorkshire, Angleterre (© Les Gibbon/Alamy)](https://global.bing.com/th?id=OHR.BeverleyWestwood_FR-CA9532317945_UHD.jpg) 
 
 2022-12-26 | [Scène de Noël à Strasbourg (© Kavalenkava Volha/Alamy)](https://global.bing.com/th?id=OHR.ChristmasSouvenir_FR-CA9463869373_UHD.jpg) 
