@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-31 | [Formations rocheuses dans le désert blanc, Égypte (© Anton Petrus/Getty Images)](https://global.bing.com/th?id=OHR.ChalkRock_FR-CA9030356335_UHD.jpg) 
+
 2022-12-30 | [Couple de papillons Petits Argus (© Misja Smits/Minden Pictures)](https://global.bing.com/th?id=OHR.ButterflyEffect_FR-CA9740735792_UHD.jpg) 
 
 2022-12-29 | [La Maloja, Suisse (© Roberto Moiola/Getty)](https://global.bing.com/th?id=OHR.ChiesaBianca_FR-CA9665662649_UHD.jpg) 
