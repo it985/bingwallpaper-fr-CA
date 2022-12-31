@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-01 | [Feux d’artifice du Nouvel An, Harbor Bridge, Sydney, Australie (© Wendell Teodoro/Getty Images)](https://global.bing.com/th?id=OHR.SydneyNYE_FR-CA9125191528_UHD.jpg) 
+
 2022-12-31 | [Formations rocheuses dans le désert blanc, Égypte (© Anton Petrus/Getty Images)](https://global.bing.com/th?id=OHR.ChalkRock_FR-CA9030356335_UHD.jpg) 
 
 2022-12-30 | [Couple de papillons Petits Argus (© Misja Smits/Minden Pictures)](https://global.bing.com/th?id=OHR.ButterflyEffect_FR-CA9740735792_UHD.jpg) 
