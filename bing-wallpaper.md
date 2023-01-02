@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-03 | [Château de Hohenzollern, Allemagne (© Sahara Prince/Shutterstock)](https://global.bing.com/th?id=OHR.HohenzollernBurg_FR-CA9324924981_UHD.jpg) 
+
 2023-01-02 | [Ours blanc dans le Svalbard, Norvège (© Dennis Stogsdill/Getty Images)](https://global.bing.com/th?id=OHR.NorwayNYD_FR-CA9224898504_UHD.jpg) 
 
 2023-01-01 | [Feux d’artifice du Nouvel An, Harbor Bridge, Sydney, Australie (© Wendell Teodoro/Getty Images)](https://global.bing.com/th?id=OHR.SydneyNYE_FR-CA9125191528_UHD.jpg) 
