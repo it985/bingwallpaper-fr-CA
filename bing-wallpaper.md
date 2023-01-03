@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-04 | [Grues du Canada dans le refuge faunique national de Bosque del Apache, Nouveau Mexique, États-Unis (© Jay Goodrich/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.SandhillSleeping_FR-CA9377660994_UHD.jpg) 
+
 2023-01-03 | [Château de Hohenzollern, Allemagne (© Sahara Prince/Shutterstock)](https://global.bing.com/th?id=OHR.HohenzollernBurg_FR-CA9324924981_UHD.jpg) 
 
 2023-01-02 | [Ours blanc dans le Svalbard, Norvège (© Dennis Stogsdill/Getty Images)](https://global.bing.com/th?id=OHR.NorwayNYD_FR-CA9224898504_UHD.jpg) 
