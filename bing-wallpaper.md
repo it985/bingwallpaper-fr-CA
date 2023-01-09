@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-10 | [Bisons d’Amérique dans le parc national de Wind Cave, Dakota du Sud, États-Unis (© Charlie Summers/Minden Pictures)](https://global.bing.com/th?id=OHR.BisonWindCave_FR-CA9936246307_UHD.jpg) 
+
 2023-01-09 | [Breckenridge, Colorado, États-Unis (© Sean Pavone/Shutterstock)](https://global.bing.com/th?id=OHR.Breckenridge_FR-CA9882993339_UHD.jpg) 
 
 2023-01-08 | [Pelotes de laine et de mohair (© Jurate Buiviene/Alamy)](https://global.bing.com/th?id=OHR.Mohair_FR-CA9754021185_UHD.jpg) 
