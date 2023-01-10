@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-11 | [Glace sur le lac Peïpous en Estonie (© Sven Zacek/Minden Pictures)](https://global.bing.com/th?id=OHR.HummockIce_FR-CA0046120816_UHD.jpg) 
+
 2023-01-10 | [Bisons d’Amérique dans le parc national de Wind Cave, Dakota du Sud, États-Unis (© Charlie Summers/Minden Pictures)](https://global.bing.com/th?id=OHR.BisonWindCave_FR-CA9936246307_UHD.jpg) 
 
 2023-01-09 | [Breckenridge, Colorado, États-Unis (© Sean Pavone/Shutterstock)](https://global.bing.com/th?id=OHR.Breckenridge_FR-CA9882993339_UHD.jpg) 
