@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-12 | ['Umschreibung' par l’artiste Olafur Eliasson à Munich (© Manfred Bail/Alamy)](https://global.bing.com/th?id=OHR.Umschreibung_FR-CA0084825631_UHD.jpg) 
+
 2023-01-11 | [Glace sur le lac Peïpous en Estonie (© Sven Zacek/Minden Pictures)](https://global.bing.com/th?id=OHR.HummockIce_FR-CA0046120816_UHD.jpg) 
 
 2023-01-10 | [Bisons d’Amérique dans le parc national de Wind Cave, Dakota du Sud, États-Unis (© Charlie Summers/Minden Pictures)](https://global.bing.com/th?id=OHR.BisonWindCave_FR-CA9936246307_UHD.jpg) 
