@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-14 | [Varech géant dans le sanctuaire marin des Channels Island, Californie, USA (© Brandon Cole Images/Shutterstock)](https://global.bing.com/th?id=OHR.Pneumatocysts_FR-CA5015796556_UHD.jpg) 
+
 2023-01-13 | [Rumeli Hisarı sur le Bosphore, Istanbul, Turquie (© Drone in Wonderland/Amazing Aerial Agency)](https://global.bing.com/th?id=OHR.RumeliHisari_FR-CA0207811248_UHD.jpg) 
 
 2023-01-12 | ['Umschreibung' par l’artiste Olafur Eliasson à Munich (© Manfred Bail/Alamy)](https://global.bing.com/th?id=OHR.Umschreibung_FR-CA0084825631_UHD.jpg) 
