@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-16 | [Aura River in Turku, Finland (© Jarmo Piironen/Alamy)](https://global.bing.com/th?id=OHR.Turku_FR-CA4176128086_UHD.jpg) 
+
 2023-01-15 | [Âne domestique se nourrissant de brindilles de cerisier (© Juniors Bildarchiv GmbH/Alamy)](https://global.bing.com/th?id=OHR.DonkeyFeast_FR-CA7437144206_UHD.jpg) 
 
 2023-01-14 | [Varech géant dans le sanctuaire marin des Channels Island, Californie, USA (© Brandon Cole Images/Shutterstock)](https://global.bing.com/th?id=OHR.Pneumatocysts_FR-CA5015796556_UHD.jpg) 
