@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-17 | [Le Mont Michener et le lac Abraham dans l'Alberta, Canada (© Tom Mackie/plainpicture)](https://global.bing.com/th?id=OHR.FrozenBubblesAlberta_FR-CA0954602944_UHD.jpg) 
+
 2023-01-16 | [Aura River in Turku, Finland (© Jarmo Piironen/Alamy)](https://global.bing.com/th?id=OHR.Turku_FR-CA4176128086_UHD.jpg) 
 
 2023-01-15 | [Âne domestique se nourrissant de brindilles de cerisier (© Juniors Bildarchiv GmbH/Alamy)](https://global.bing.com/th?id=OHR.DonkeyFeast_FR-CA7437144206_UHD.jpg) 
