@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-18 | [Réserve naturelle de Muniellos, Asturies, Espagne (© Andres M. Dominguez/Minden Pictures)](https://global.bing.com/th?id=OHR.SessileOaks_FR-CA5293207662_UHD.jpg) 
+
 2023-01-17 | [Le Mont Michener et le lac Abraham dans l'Alberta, Canada (© Tom Mackie/plainpicture)](https://global.bing.com/th?id=OHR.FrozenBubblesAlberta_FR-CA0954602944_UHD.jpg) 
 
 2023-01-16 | [Aura River in Turku, Finland (© Jarmo Piironen/Alamy)](https://global.bing.com/th?id=OHR.Turku_FR-CA4176128086_UHD.jpg) 
