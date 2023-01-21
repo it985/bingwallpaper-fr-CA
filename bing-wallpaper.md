@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-22 | [Maman kangourou et son bébé (© Belle Ciezak/Shutterstock)](https://global.bing.com/th?id=OHR.HuggingKanga_FR-CA0428423620_UHD.jpg) 
+
 2023-01-21 | [Les manchots royaux des îles Malouines (© Elmar Weiss/Getty Images)](https://global.bing.com/th?id=OHR.FalklandKings_FR-CA8224860783_UHD.jpg) 
 
 2023-01-20 | [Park City, Utah, USA (© Kruck20/Getty Images)](https://global.bing.com/th?id=OHR.SFFParkCity_FR-CA6880275980_UHD.jpg) 
