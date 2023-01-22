@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-23 | [Lapin blanc dans le Derbyshire, Angleterre (© Ben Hall/Minden Pictures)](https://global.bing.com/th?id=OHR.YearRabbit_FR-CA1143695873_UHD.jpg) 
+
 2023-01-22 | [Maman kangourou et son bébé (© Belle Ciezak/Shutterstock)](https://global.bing.com/th?id=OHR.HuggingKanga_FR-CA0428423620_UHD.jpg) 
 
 2023-01-21 | [Les manchots royaux des îles Malouines (© Elmar Weiss/Getty Images)](https://global.bing.com/th?id=OHR.FalklandKings_FR-CA8224860783_UHD.jpg) 
