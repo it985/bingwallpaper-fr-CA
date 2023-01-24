@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-25 | [Colle Santa Lucia dans les Dolomites, Italie (© mauritius images GmbH/Alamy)](https://global.bing.com/th?id=OHR.ColleSantaLucia_FR-CA3215108863_UHD.jpg) 
+
 2023-01-24 | [Les statues Moaï de l’Île de Pâques, Chili (© Karine Aigner/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.SunriseMoai_FR-CA2134654370_UHD.jpg) 
 
 2023-01-23 | [Lapin blanc dans le Derbyshire, Angleterre (© Ben Hall/Minden Pictures)](https://global.bing.com/th?id=OHR.YearRabbit_FR-CA1143695873_UHD.jpg) 
