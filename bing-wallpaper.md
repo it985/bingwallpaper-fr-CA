@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-29 | [Eaux bleues-vertes autour des Bahamas, vues depuis la Station spatiale internationale (© NASA)](https://global.bing.com/th?id=OHR.BlueBahamas_FR-CA9849961200_UHD.jpg) 
+
 2023-01-28 | [Mangrove rouge, Parque Guanahacabibes, Cuba (© Claudio Contreras/Minden Pictures)](https://global.bing.com/th?id=OHR.RedMangrove_FR-CA8801636411_UHD.jpg) 
 
 2023-01-27 | [La Porte du Ciel dans le parc national de la montagne Tianmen, Chine (© Shane P. White/Minden Pictures)](https://global.bing.com/th?id=OHR.HighArchChina_FR-CA4910282325_UHD.jpg) 
