@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-02-06 | [Monarques à Pismo Beach, Californie, États-Unis (© Mimi Ditchie/Getty Images)](https://global.bing.com/th?id=OHR.MonarchPismo_FR-CA0845248620_UHD.jpg) 
+
 2023-02-05 | [Tour Feldberg Tower, Forêt Noire, Baden-Württemberg, Allemagne (© Hemis/Alamy)](https://global.bing.com/th?id=OHR.FeldbergSchnee_FR-CA2909704523_UHD.jpg) 
 
 2023-02-04 | [Chateau Frontenac, Ville de Québec, Canada (© Romiana Lee/Shutterstock)](https://global.bing.com/th?id=OHR.QuebecFrontenac_FR-CA0148794819_UHD.jpg) 
