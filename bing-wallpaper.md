@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-02-07 | [Parc national de Fiordland, Nouvelle-Zélande (© WitR/Adobe Stock)](https://global.bing.com/th?id=OHR.WaitangiFjordlandNP_FR-CA1856211187_UHD.jpg) 
+
 2023-02-06 | [Monarques à Pismo Beach, Californie, États-Unis (© Mimi Ditchie/Getty Images)](https://global.bing.com/th?id=OHR.MonarchPismo_FR-CA0845248620_UHD.jpg) 
 
 2023-02-05 | [Tour Feldberg Tower, Forêt Noire, Baden-Württemberg, Allemagne (© Hemis/Alamy)](https://global.bing.com/th?id=OHR.FeldbergSchnee_FR-CA2909704523_UHD.jpg) 
