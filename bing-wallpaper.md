@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-02-17 | [Cascade de feu au chute de Horsetail, Yosemite, Califonie, États-Unis (© Jeff Lewis/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.FireFallYosemite_FR-CA1657083384_UHD.jpg) 
+
 2023-02-16 | [Une maman hippopotame et son bébé, parc national de Chobe, Botswana (© jacobeukman/Getty Images)](https://global.bing.com/th?id=OHR.HippoDayChobe_FR-CA1773539093_UHD.jpg) 
 
 2023-02-15 | [Igloo décoré pour le festival du chemin de neige et de lumière d’Otaru, Hokkaido, Japon (© T Photography/Shutterstock)](https://global.bing.com/th?id=OHR.OtaruIgloo_FR-CA1894219836_UHD.jpg) 
