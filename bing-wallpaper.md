@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-02-18 | [Canyon d'Itaimbezinho, Brésil (© NidoHuebl/Getty Images)](https://global.bing.com/th?id=OHR.Itaimbezinho_FR-CA7114230171_UHD.jpg) 
+
 2023-02-17 | [Cascade de feu au chute de Horsetail, Yosemite, Califonie, États-Unis (© Jeff Lewis/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.FireFallYosemite_FR-CA1657083384_UHD.jpg) 
 
 2023-02-16 | [Une maman hippopotame et son bébé, parc national de Chobe, Botswana (© jacobeukman/Getty Images)](https://global.bing.com/th?id=OHR.HippoDayChobe_FR-CA1773539093_UHD.jpg) 
