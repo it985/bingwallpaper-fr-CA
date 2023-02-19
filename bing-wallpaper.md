@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-02-20 | [Baleines à bosse, Île Maui, Hawaii, États-Unis (© Flip Nicklin/Minden Pictures)](https://global.bing.com/th?id=OHR.MauiWhale_FR-CA1414904810_UHD.jpg) 
+
 2023-02-19 | [Eben grotte de glace, Michigan, États-Unis (© Dean Pennala/Shutterstock)](https://global.bing.com/th?id=OHR.EbenIceCave_FR-CA1548006725_UHD.jpg) 
 
 2023-02-18 | [Canyon d'Itaimbezinho, Brésil (© NidoHuebl/Getty Images)](https://global.bing.com/th?id=OHR.Itaimbezinho_FR-CA7114230171_UHD.jpg) 
