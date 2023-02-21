@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-02-22 | [Quartier français, Nouvelle-Orléans, Louisiane, États-Unis (© f11photo/Getty Images)](https://global.bing.com/th?id=OHR.MardiGrasNOLA_FR-CA1284664706_UHD.jpg) 
+
 2023-02-21 | [Musée Guggenheim de Bilbao, Espagne (© Jeremy Horner/Getty Images)](https://global.bing.com/th?id=OHR.GB25Anni_FR-CA4423026548_UHD.jpg) 
 
 2023-02-20 | [Baleines à bosse, Île Maui, Hawaii, États-Unis (© Flip Nicklin/Minden Pictures)](https://global.bing.com/th?id=OHR.MauiWhale_FR-CA1414904810_UHD.jpg) 
