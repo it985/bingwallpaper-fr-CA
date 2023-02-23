@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-02-24 | [Paris, France (© somchaij/Shutterstock)](https://global.bing.com/th?id=OHR.ParisWinter_FR-CA1101744000_UHD.jpg) 
+
 2023-02-23 | [Pont couvert à Cabot dans le Vermont (© Alan Majchrowicz/Getty Images)](https://global.bing.com/th?id=OHR.FosterCoveredBridge_FR-CA3683040080_UHD.jpg) 
 
 2023-02-22 | [Quartier français, Nouvelle-Orléans, Louisiane, États-Unis (© f11photo/Getty Images)](https://global.bing.com/th?id=OHR.MardiGrasNOLA_FR-CA1284664706_UHD.jpg) 
