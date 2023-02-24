@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-02-25 | [Canard mandarin, Richmond Park, Londres, Royaume-Uni (© Oscar Dewhurst/Minden Pictures)](https://global.bing.com/th?id=OHR.RichmondParkDuck_FR-CA6852086037_UHD.jpg) 
+
 2023-02-24 | [Paris, France (© somchaij/Shutterstock)](https://global.bing.com/th?id=OHR.ParisWinter_FR-CA1101744000_UHD.jpg) 
 
 2023-02-23 | [Pont couvert à Cabot dans le Vermont (© Alan Majchrowicz/Getty Images)](https://global.bing.com/th?id=OHR.FosterCoveredBridge_FR-CA3683040080_UHD.jpg) 
