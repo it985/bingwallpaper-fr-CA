@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-02-28 | [Ours polaires endormis au Canada (© David Pike/Minden Pictures)](https://global.bing.com/th?id=OHR.PolarBearFrost_FR-CA8461034075_UHD.jpg) 
+
 2023-02-27 | [Aventure dans la canopée péruvienne, réserve naturelle de Tambopata, Pérou (© Pere Rubi/Getty Images)](https://global.bing.com/th?id=OHR.CanopyPeru_FR-CA7530382241_UHD.jpg) 
 
 2023-02-26 | [Hoodoos dans le parc national de Bryce Canyon, Utah, États-Unis (© Piriya Photography/Getty Images)](https://global.bing.com/th?id=OHR.BryceAnniv_FR-CA7258676675_UHD.jpg) 
