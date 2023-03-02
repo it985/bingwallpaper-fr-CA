@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-03-03 | [Lac Negratin, Grenade, Espagne (© Andres Martinez Olmedo/Getty Images)](https://global.bing.com/th?id=OHR.NegratinSpain_FR-CA1387071804_UHD.jpg) 
+
 2023-03-02 | [La chute du Voile de la Mariée, une cascade dans le parc national de Yosemite, Californie (© Jeff Foott/Minden Pictures)](https://global.bing.com/th?id=OHR.BridalVeilFalls_FR-CA0161127598_UHD.jpg) 
 
 2023-03-01 | [Atrani, Côte Amalfitaine, Italie (© Amazing Aerial/Shutterstock)](https://global.bing.com/th?id=OHR.AtraniAmalfi_FR-CA9061853835_UHD.jpg) 
