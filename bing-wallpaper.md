@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-03-05 | [Route sinueuse vers le Mont Pico, Portugal (© Marco Bottigelli/Getty Images)](https://global.bing.com/th?id=OHR.PicoVolcano_FR-CA2202227374_UHD.jpg) 
+
 2023-03-04 | [Orques à Spildra, Norvège (© Alex Mustard/Minden Pictures)](https://global.bing.com/th?id=OHR.OrcaNorway_FR-CA1942018184_UHD.jpg) 
 
 2023-03-03 | [Lac Negratin, Grenade, Espagne (© Andres Martinez Olmedo/Getty Images)](https://global.bing.com/th?id=OHR.NegratinSpain_FR-CA1387071804_UHD.jpg) 
