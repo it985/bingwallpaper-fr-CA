@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-03-06 | [Chouette effraie dans l'herbe blanche du matin, Angleterre (© Ondrej Prosicky/Getty Images)](https://global.bing.com/th?id=OHR.BarnOwlWinter_FR-CA2557954798_UHD.jpg) 
+
 2023-03-05 | [Route sinueuse vers le Mont Pico, Portugal (© Marco Bottigelli/Getty Images)](https://global.bing.com/th?id=OHR.PicoVolcano_FR-CA2202227374_UHD.jpg) 
 
 2023-03-04 | [Orques à Spildra, Norvège (© Alex Mustard/Minden Pictures)](https://global.bing.com/th?id=OHR.OrcaNorway_FR-CA1942018184_UHD.jpg) 
