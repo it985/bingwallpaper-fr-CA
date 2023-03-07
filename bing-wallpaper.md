@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-03-08 | [Cabanes dans le parc historique national de Valley Forge, Pennsylvanie (© Mark C. Morris/Shutterstock)](https://global.bing.com/th?id=OHR.ValleyForge_FR-CA2747000916_UHD.jpg) 
+
 2023-03-07 | [Chevaux islandais dans un champ enneigé, Islande (© Rodrigo Lourezini/Shutterstock)](https://global.bing.com/th?id=OHR.IcelandHorses_FR-CA3683523547_UHD.jpg) 
 
 2023-03-06 | [Chouette effraie dans l'herbe blanche du matin, Angleterre (© Ondrej Prosicky/Getty Images)](https://global.bing.com/th?id=OHR.BarnOwlWinter_FR-CA2557954798_UHD.jpg) 
