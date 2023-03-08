@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-03-09 | [Cibeles Fontaine et mairie de Madrid illuminées pour la Journée internationale de la femme, Madrid, Espagne (© dpa picture alliance/Alamy)](https://global.bing.com/th?id=OHR.IntlWomensDayChange_FR-CA4461120605_UHD.jpg) 
+
 2023-03-08 | [Cabanes dans le parc historique national de Valley Forge, Pennsylvanie (© Mark C. Morris/Shutterstock)](https://global.bing.com/th?id=OHR.ValleyForge_FR-CA2747000916_UHD.jpg) 
 
 2023-03-07 | [Chevaux islandais dans un champ enneigé, Islande (© Rodrigo Lourezini/Shutterstock)](https://global.bing.com/th?id=OHR.IcelandHorses_FR-CA3683523547_UHD.jpg) 
