@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-03-12 | [Marais, Gloucester, Massachusetts, États-Unis (© Thomas H. Mitchell/Getty Images)](https://global.bing.com/th?id=OHR.LongWharf_FR-CA2121385654_UHD.jpg) 
+
 2023-03-11 | [Vallée d'Edale, Peak District, Royaume-Uni (© John Finney/Getty Images)](https://global.bing.com/th?id=OHR.EdaleValley_FR-CA2006799799_UHD.jpg) 
 
 2023-03-10 | [Arc-en-ciel au-dessus du Grand Canyon du Pacifique, Hawaii, Etats-Unis (© Beverley Van Praagh/Getty Images)](https://global.bing.com/th?id=OHR.WaimeaRainbow_FR-CA4817200543_UHD.jpg) 
