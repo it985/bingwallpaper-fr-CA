@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-03-15 | [Parc botanique de Cyherbia, Chypre (© Tpopova/Getty Images)](https://global.bing.com/th?id=OHR.CyprusMaze_FR-CA2743924263_UHD.jpg) 
+
 2023-03-14 | [Drapeaux des nations du Commonwealth (© hamzehsh12/iStock/Getty Images Plus)](https://global.bing.com/th?id=OHR.CommonwealthDay_FR-CA2539705742_UHD.jpg) 
 
 2023-03-13 | [Théâtre national, Cluj-Napoca, Roumanie (© Thomas Mueller/Shutterstock)](https://global.bing.com/th?id=OHR.TheaterRomania_FR-CA2296762347_UHD.jpg) 
