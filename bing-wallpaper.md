@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-03-20 | [Aurore boréale au lac Two Jack, Alberta, Canada (© Jesús M. García/Getty Images)](https://global.bing.com/th?id=OHR.MilkyWayTwoJackLake_FR-CA4408551942_UHD.jpg) 
+
 2023-03-19 | [Cratère Gamboa, planète Mars (© NASA/JPL-Caltech/University of Arizona)](https://global.bing.com/th?id=OHR.MarsTars_FR-CA3966128142_UHD.jpg) 
 
 2023-03-18 | [Ballyvooney Cove, Copper Coast Geopark, Irlande (© Andrea Pistolesi/Getty Images)](https://global.bing.com/th?id=OHR.BallyvooneyCove_FR-CA3399864714_UHD.jpg) 
