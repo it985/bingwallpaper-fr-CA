@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-03-29 | [Voie lactée sur les Tre Cime di Lavaredo, Italie (© Juan Romero/Cavan Images)](https://global.bing.com/th?id=OHR.MWDolomites_FR-CA3704864834_UHD.jpg) 
+
 2023-03-28 | [New York dans les nuages (© Orbon Alija/Getty Images)](https://global.bing.com/th?id=OHR.NYCClouds_FR-CA3537202524_UHD.jpg) 
 
 2023-03-27 | [Fleurs sauvages dans le Désert d’Anza Borrego, Californie, États-Unis (© Ron and Patty Thomas/Getty Images)](https://global.bing.com/th?id=OHR.WildAnza_FR-CA3319811034_UHD.jpg) 
