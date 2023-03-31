@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-04-01 | [Rivière Steyr, Autriche (© guenterguni/Getty Images)](https://global.bing.com/th?id=OHR.SteyrRiver_FR-CA4654816165_UHD.jpg) 
+
 2023-03-31 | [Plumes de paon (© Sarayut Thaneerat/Getty Images)](https://global.bing.com/th?id=OHR.PeacockFeathers_FR-CA4269901196_UHD.jpg) 
 
 2023-03-30 | [Deux lamantins, Crystal River, Floride, États-Unis (© Gregory Sweeney/Getty Images)](https://global.bing.com/th?id=OHR.NuzzleManatee_FR-CA3926125178_UHD.jpg) 
