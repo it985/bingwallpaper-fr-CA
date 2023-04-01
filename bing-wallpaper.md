@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-04-02 | [Grenouille volante de Java (© kuritafsheen/Getty Images)](https://global.bing.com/th?id=OHR.FrogMonth_FR-CA0674435382_UHD.jpg) 
+
 2023-04-01 | [Rivière Steyr, Autriche (© guenterguni/Getty Images)](https://global.bing.com/th?id=OHR.SteyrRiver_FR-CA4654816165_UHD.jpg) 
 
 2023-03-31 | [Plumes de paon (© Sarayut Thaneerat/Getty Images)](https://global.bing.com/th?id=OHR.PeacockFeathers_FR-CA4269901196_UHD.jpg) 
