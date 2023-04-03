@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-04-04 | [Parc national de Honaunau, Grande Île, Hawaii (© Westend61/Getty Images)](https://global.bing.com/th?id=OHR.HonaunauNP_FR-CA5531332900_UHD.jpg) 
+
 2023-04-03 | [Mont Bromo, dans l’est de Java, Indonésie (© Bento Fotography/Getty Images)](https://global.bing.com/th?id=OHR.JavaBromo_FR-CA5024498453_UHD.jpg) 
 
 2023-04-02 | [Grenouille volante de Java (© kuritafsheen/Getty Images)](https://global.bing.com/th?id=OHR.FrogMonth_FR-CA0674435382_UHD.jpg) 
