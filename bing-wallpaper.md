@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-04-05 | [Musée canadien pour les droits de la personne, Winnipeg (© Cavan Images/Alamy Stock Photo)](https://global.bing.com/th?id=OHR.CanadianMuseumforHumanRights_FR-CA4557421860_UHD.jpg) 
+
 2023-04-04 | [Parc national de Honaunau, Grande Île, Hawaii (© Westend61/Getty Images)](https://global.bing.com/th?id=OHR.HonaunauNP_FR-CA5531332900_UHD.jpg) 
 
 2023-04-03 | [Mont Bromo, dans l’est de Java, Indonésie (© Bento Fotography/Getty Images)](https://global.bing.com/th?id=OHR.JavaBromo_FR-CA5024498453_UHD.jpg) 
