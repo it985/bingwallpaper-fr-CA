@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-04-08 | [Bébés castors d’Europe, Finlande (© Danny Green/Minden Pictures)](https://global.bing.com/th?id=OHR.KitsAspen_FR-CA3690821203_UHD.jpg) 
+
 2023-04-07 | [Pleine lune, Tucson, Arizona, États-Unis (© Tim Murphy/Shutterstock)](https://global.bing.com/th?id=OHR.ArizonaPinkMoon_FR-CA6374036259_UHD.jpg) 
 
 2023-04-06 | [Petits coqs de bruyère à Kuusamo, Finlande (© Markus Varesvuo/Minden Pictures)](https://global.bing.com/th?id=OHR.BlackGrouseLekking_FR-CA6154557355_UHD.jpg) 
