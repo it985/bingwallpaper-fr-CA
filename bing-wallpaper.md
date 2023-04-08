@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-04-09 | [Chaussée des Géants, Irlande du Nord, Royaume-Uni (© DieterMeyrl/Getty Images)](https://global.bing.com/th?id=OHR.NIrelandGiants_FR-CA9245085945_UHD.jpg) 
+
 2023-04-08 | [Bébés castors d’Europe, Finlande (© Danny Green/Minden Pictures)](https://global.bing.com/th?id=OHR.KitsAspen_FR-CA3690821203_UHD.jpg) 
 
 2023-04-07 | [Pleine lune, Tucson, Arizona, États-Unis (© Tim Murphy/Shutterstock)](https://global.bing.com/th?id=OHR.ArizonaPinkMoon_FR-CA6374036259_UHD.jpg) 
