@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-04-12 | [Ligne Continentale de partage des eaux, Parc National de Yoho, Canada (© Peter Essick/Cavan Images)](https://global.bing.com/th?id=OHR.CanadaContinentalDivide_FR-CA5032707772_UHD.jpg) 
+
 2023-04-11 | [Éléphants dans le Parc National d’Amboseli, Kenya (© Diana Robinson/Getty Images)](https://global.bing.com/th?id=OHR.ElephantTwins_FR-CA0794205497_UHD.jpg) 
 
 2023-04-10 | [Œufs de Pâques décorés (© fotomem/Getty Images)](https://global.bing.com/th?id=OHR.LithuanianEggs_FR-CA0858611657_UHD.jpg) 
