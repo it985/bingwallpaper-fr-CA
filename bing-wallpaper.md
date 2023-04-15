@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-04-16 | [Cerisiers du Japon en fleur de High Park, Toronto (© Oleksandra Korobova/Getty Images)](https://global.bing.com/th?id=OHR.Cherryblossomtrees_FR-CA3893894428_UHD.jpg) 
+
 2023-04-15 | [Étoile de mer rouge, Mer Méditerranée (© Hans Leijnse/Minden Pictures)](https://global.bing.com/th?id=OHR.RedSeaStars_FR-CA3795197536_UHD.jpg) 
 
 2023-04-14 | [Parc d’Hitsujiyama, Préfecture de Saitama, Japon (© Takashi Images/Shutterstock)](https://global.bing.com/th?id=OHR.PhloxSubulata_FR-CA0307903883_UHD.jpg) 
