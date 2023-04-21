@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-04-22 | [Procida, Italy (© Sean Pavone/Shutterstock)](https://global.bing.com/th?id=OHR.ProcidaItaly_FR-CA1475995566_UHD.jpg) 
+
 2023-04-21 | [Pont romain, Cordoue, Espagne (© Jeremy Woodhouse/Getty Images)](https://global.bing.com/th?id=OHR.RomanBridge_FR-CA2766913219_UHD.jpg) 
 
 2023-04-20 | [Yuhina de Taïwan, réserve nationale d’Alishan, Taïwan (© Staffan Widstrand/Minden Pictures)](https://global.bing.com/th?id=OHR.TaiwanYuhina_FR-CA3975850080_UHD.jpg) 
