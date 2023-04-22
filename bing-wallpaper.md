@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-04-23 | [Renard gris insulaire, archipel Channel Islands, Californie, États-Unis (© Ian Shive/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.EarthDayFox_FR-CA1422274903_UHD.jpg) 
+
 2023-04-22 | [Procida, Italy (© Sean Pavone/Shutterstock)](https://global.bing.com/th?id=OHR.ProcidaItaly_FR-CA1475995566_UHD.jpg) 
 
 2023-04-21 | [Pont romain, Cordoue, Espagne (© Jeremy Woodhouse/Getty Images)](https://global.bing.com/th?id=OHR.RomanBridge_FR-CA2766913219_UHD.jpg) 
