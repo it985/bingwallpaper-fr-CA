@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-04-26 | [Manchots Adélie en Antarctique (© David Merron Photography/Getty Images)](https://global.bing.com/th?id=OHR.AdelieWPD_FR-CA1180604116_UHD.jpg) 
+
 2023-04-24 | [Bibliothèque municipale de Stuttgart, Allemagne (© Axel Brunst/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.StuttgartPublicLibrary_FR-CA1361347014_UHD.jpg) 
 
 2023-04-23 | [Renard gris insulaire, archipel Channel Islands, Californie, États-Unis (© Ian Shive/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.EarthDayFox_FR-CA1422274903_UHD.jpg) 
