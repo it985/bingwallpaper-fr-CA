@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-04-27 | [Lieu Historique National Cave and Basin, Mont Sulphur, Parc National de Banff, Alberta (© Interfoto/DanitaDelimont.com)](https://global.bing.com/th?id=OHR.SulphurMountain_FR-CA9658353877_UHD.jpg) 
+
 2023-04-26 | [Manchots Adélie en Antarctique (© David Merron Photography/Getty Images)](https://global.bing.com/th?id=OHR.AdelieWPD_FR-CA1180604116_UHD.jpg) 
 
 2023-04-24 | [Bibliothèque municipale de Stuttgart, Allemagne (© Axel Brunst/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.StuttgartPublicLibrary_FR-CA1361347014_UHD.jpg) 
