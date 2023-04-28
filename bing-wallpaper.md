@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-04-29 | [Fôret de séquoias géants de Mariposa Grove, Yosemite, Californie, États-Unis (© Orbon Alija/Getty Images)](https://global.bing.com/th?id=OHR.MariposaGrove_FR-CA2354902853_UHD.jpg) 
+
 2023-04-28 | [Île de South Padre, Texas, États-Unis (© Jeff R Clow/Getty Images)](https://global.bing.com/th?id=OHR.SouthPadre_FR-CA1263180961_UHD.jpg) 
 
 2023-04-27 | [Lieu Historique National Cave and Basin, Mont Sulphur, Parc National de Banff, Alberta (© Interfoto/DanitaDelimont.com)](https://global.bing.com/th?id=OHR.SulphurMountain_FR-CA9658353877_UHD.jpg) 
