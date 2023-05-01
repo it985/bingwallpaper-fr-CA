@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-05-02 | [Le pont de Québec traversant le fleuve Saint-Laurent, Canada (© Ronald Santerre/Getty Images)](https://global.bing.com/th?id=OHR.QuebecCityBridge_FR-CA9625721926_UHD.jpg) 
+
 2023-05-01 | [Preservation Hall, Nouvelle-Orléans, Louisiane, États-Unis (© Cosmo Condina North America/Alamy)](https://global.bing.com/th?id=OHR.ExteriorPreservationHall_FR-CA0966427135_UHD.jpg) 
 
 2023-04-30 | [Voie lactée sur le Parc National de Joshua Tree, Californie, États-Unis (© Schroptschop/Getty Images)](https://global.bing.com/th?id=OHR.JTNPMilkyWay_FR-CA1115905295_UHD.jpg) 
