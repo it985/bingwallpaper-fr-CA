@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-05-06 | [Église Nuestra Señora de los Remedios, Puebla, Mexique (© Radius Images/Shutterstock)](https://global.bing.com/th?id=OHR.Popocatepetl_FR-CA4477017030_UHD.jpg) 
+
 2023-05-05 | [Ruines mayas à Tikal, Guatemala (© THP Creative/Getty Images)](https://global.bing.com/th?id=OHR.RebelBase_FR-CA0629555072_UHD.jpg) 
 
 2023-05-04 | [Gnous dans le Masaï Mara, Kenya (© Matt Polski/Getty Images)](https://global.bing.com/th?id=OHR.ThreeWildebeest_FR-CA0762418214_UHD.jpg) 
