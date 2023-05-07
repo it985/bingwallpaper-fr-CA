@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-05-08 | [Bébé phoque, île de Lundy, Angleterre (© Henley Spiers/Minden Pictures)](https://global.bing.com/th?id=OHR.SealLaughing_FR-CA5002988269_UHD.jpg) 
+
 2023-05-07 | [Azalées en fleurs, montagne Hwangmaesan, Corée du Sud (© Stock for you/Shutterstock)](https://global.bing.com/th?id=OHR.HwangmaesanAzaleas_FR-CA4728441490_UHD.jpg) 
 
 2023-05-06 | [Église Nuestra Señora de los Remedios, Puebla, Mexique (© Radius Images/Shutterstock)](https://global.bing.com/th?id=OHR.Popocatepetl_FR-CA4477017030_UHD.jpg) 
