@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-05-14 | [Sonny Bono Salton Sea National Wildlife Refuge, Californie (© David McNew/Getty Images)](https://global.bing.com/th?id=OHR.SonnyBonoPelicans_FR-CA7567817557_UHD.jpg) 
+
 2023-05-13 | [Festival canadien des tulipes, Ottawa, Canada (© Jean-Claude Caprara/iStock/Getty Images Plus)](https://global.bing.com/th?id=OHR.OttawaTulipFestival_FR-CA3418689058_UHD.jpg) 
 
 2023-05-12 | [Stade Henningsvær, Norvège (© Morten Falch Sortland/Getty Images)](https://global.bing.com/th?id=OHR.FootballField_FR-CA9823444907_UHD.jpg) 
