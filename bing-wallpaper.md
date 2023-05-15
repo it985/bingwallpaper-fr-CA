@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-05-16 | [Morro Jable et Playa del Matorral, Fuerteventura, Îles Canaries, Espagne (© Gavin Hellier/Getty Images)](https://global.bing.com/th?id=OHR.MorroJable_FR-CA7137863371_UHD.jpg) 
+
 2023-05-15 | [Cerf à queue blanche et son faon nouveau-né, Montana (© Donald M. Jones/Minden Pictures)](https://global.bing.com/th?id=OHR.OdocoileusVirginianus_FR-CA7349282436_UHD.jpg) 
 
 2023-05-14 | [Sonny Bono Salton Sea National Wildlife Refuge, Californie (© David McNew/Getty Images)](https://global.bing.com/th?id=OHR.SonnyBonoPelicans_FR-CA7567817557_UHD.jpg) 
