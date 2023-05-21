@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-05-22 | [Pont d’Arcole sur la Seine, Paris, France (© StockByM/Getty Images)](https://global.bing.com/th?id=OHR.PontdArcole_FR-CA2977507390_UHD.jpg) 
+
 2023-05-21 | [Abeilles mellifères européennes à Sheffield, Angleterre (© Deborah Vernon/Alamy)](https://global.bing.com/th?id=OHR.EuropeanHoneybee_FR-CA2629596325_UHD.jpg) 
 
 2023-05-20 | [Rhinocéros de Sumatra, parc national de Way Kambas, Indonésie (© Cyril Ruoso/Minden Pictures)](https://global.bing.com/th?id=OHR.SumatranRhino_FR-CA2352013373_UHD.jpg) 
