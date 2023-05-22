@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-05-23 | [Édifices du Parlement, Ottawa, Canada (© Serega/Getty Images)](https://global.bing.com/th?id=OHR.OttawaParliamentBuildings_FR-CA9828346205_UHD.jpg) 
+
 2023-05-22 | [Pont d’Arcole sur la Seine, Paris, France (© StockByM/Getty Images)](https://global.bing.com/th?id=OHR.PontdArcole_FR-CA2977507390_UHD.jpg) 
 
 2023-05-21 | [Abeilles mellifères européennes à Sheffield, Angleterre (© Deborah Vernon/Alamy)](https://global.bing.com/th?id=OHR.EuropeanHoneybee_FR-CA2629596325_UHD.jpg) 
