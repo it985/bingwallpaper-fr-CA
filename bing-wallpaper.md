@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-05-31 | [Playa del Amor, Îles Marietas, Puerto Vallarta, Mexique (© ferrantraite/Getty Images)](https://global.bing.com/th?id=OHR.HiddenBeach_FR-CA9181643133_UHD.jpg) 
+
 2023-05-30 | [Passerelle dans le Parc National du Gros-Morne (© Cavan Images - Offset/Shutterstock)](https://global.bing.com/th?id=OHR.WesternBrookPond_FR-CA0177161628_UHD.jpg) 
 
 2023-05-29 | [Grand Cul-de-Sac Marin, Guadeloupe National Park, Lesser Antilles (© Hemis/Alamy)](https://global.bing.com/th?id=OHR.Antilles_FR-CA0331900775_UHD.jpg) 
