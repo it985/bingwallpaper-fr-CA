@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-06-01 | [Petit de loutre de mer, Baie du Prince William, Alaska (© Donald M. Jones/Minden Pictures)](https://global.bing.com/th?id=OHR.WorldOtterDay_FR-CA2234387113_UHD.jpg) 
+
 2023-05-31 | [Playa del Amor, Îles Marietas, Puerto Vallarta, Mexique (© ferrantraite/Getty Images)](https://global.bing.com/th?id=OHR.HiddenBeach_FR-CA9181643133_UHD.jpg) 
 
 2023-05-30 | [Passerelle dans le Parc National du Gros-Morne (© Cavan Images - Offset/Shutterstock)](https://global.bing.com/th?id=OHR.WesternBrookPond_FR-CA0177161628_UHD.jpg) 
