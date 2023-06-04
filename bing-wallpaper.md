@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-06-05 | [Plage de sable noir du parc national Wai'anapanapa, Maui, Hawaii, États-Unis (© Matt Anderson Photography/Getty Images)](https://global.bing.com/th?id=OHR.MauiBeach_FR-CA8314858293_UHD.jpg) 
+
 2023-06-04 | [Sentier Kaibab Sud dans le Parc National du Grand Canyon, Arizona, États-Unis (© Roman Khomlyak/Getty Images)](https://global.bing.com/th?id=OHR.SouthKaibabTrail_FR-CA7975724655_UHD.jpg) 
 
 2023-06-03 | [Oryx gazelle dans les dunes de sable, Namibie (© Sergey Gorshkov/Minden)](https://global.bing.com/th?id=OHR.GemsbokNamibia_FR-CA2229051304_UHD.jpg) 
