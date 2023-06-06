@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-06-07 | [Les falaises d'Étretat, Normandie, France (© MarcelloLand/Getty Images)](https://global.bing.com/th?id=OHR.CliffsEtretat_FR-CA0084475836_UHD.jpg) 
+
 2023-06-06 | [Œuvre d'art ”Priscilla the Parrotfish", Como Park, St. Paul, Minnesota, États-Unis (© Michael Siluk/UCG/Universal Images Group via Getty Images)](https://global.bing.com/th?id=OHR.PlasticParrotfish_FR-CA9854794938_UHD.jpg) 
 
 2023-06-05 | [Plage de sable noir du parc national Wai'anapanapa, Maui, Hawaii, États-Unis (© Matt Anderson Photography/Getty Images)](https://global.bing.com/th?id=OHR.MauiBeach_FR-CA8314858293_UHD.jpg) 
