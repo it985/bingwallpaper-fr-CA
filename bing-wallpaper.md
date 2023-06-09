@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-06-10 | [Cappadoce, Turquie (© Anton Petrus/Getty Images)](https://global.bing.com/th?id=OHR.BalloonsTurkey_FR-CA2795693191_UHD.jpg) 
+
 2023-06-09 | [Baleine à bosse (© Philip Thurston/Getty Images)](https://global.bing.com/th?id=OHR.PlayfulHumpback_FR-CA2447950069_UHD.jpg) 
 
 2023-06-08 | [Pueblo Bonito, parc du Chaco Culture, Nouveau Mexique, États-Unis (© Ian Shive/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.ChacoCulture_FR-CA1924685199_UHD.jpg) 
