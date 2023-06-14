@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-06-15 | [Chutes Sunwapta, Parc National de Jasper, Canada (© Delpixart/Getty Images)](https://global.bing.com/th?id=OHR.WaterfallsSunwaptaValley_FR-CA8422525009_UHD.jpg) 
+
 2023-06-14 | [Mousse espagnole le long de la promenade dans le marais d'Okefenokee, Géorgie, États-Unis (© Emmer Photo/Alamy)](https://global.bing.com/th?id=OHR.OkefenokeeSwamp_FR-CA4746755467_UHD.jpg) 
 
 2023-06-13 | [Figuier de barbarie, Parc National de Big Bend, Texas, États-Unis (© Tim Fitzharris/Minden Pictures)](https://global.bing.com/th?id=OHR.BigBendAnniv_FR-CA4533982220_UHD.jpg) 
