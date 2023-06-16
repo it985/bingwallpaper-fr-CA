@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-06-17 | [Nage d’une tortue imbriquée près d'Akajima, Okinawa, Japon (© Robert Mallon/Getty Images)](https://global.bing.com/th?id=OHR.HawksbillTurtle_FR-CA3211752482_UHD.jpg) 
+
 2023-06-16 | [Lucioles synchrones, Parc national des Great Smoky Mountains, Tennessee, États-Unis (© Floris Van Bruegel/Minden Pictures)](https://global.bing.com/th?id=OHR.SmokyFireflies_FR-CA5093293666_UHD.jpg) 
 
 2023-06-15 | [Chutes Sunwapta, Parc National de Jasper, Canada (© Delpixart/Getty Images)](https://global.bing.com/th?id=OHR.WaterfallsSunwaptaValley_FR-CA8422525009_UHD.jpg) 
