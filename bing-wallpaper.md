@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-06-18 | [« Pagaie pour la solidarité » à San Diego, Californie, États-Unis (© Brandon Colbert Photography/Getty Images)](https://global.bing.com/th?id=OHR.SurfSanDiego_FR-CA2625133187_UHD.jpg) 
+
 2023-06-17 | [Nage d’une tortue imbriquée près d'Akajima, Okinawa, Japon (© Robert Mallon/Getty Images)](https://global.bing.com/th?id=OHR.HawksbillTurtle_FR-CA3211752482_UHD.jpg) 
 
 2023-06-16 | [Lucioles synchrones, Parc national des Great Smoky Mountains, Tennessee, États-Unis (© Floris Van Bruegel/Minden Pictures)](https://global.bing.com/th?id=OHR.SmokyFireflies_FR-CA5093293666_UHD.jpg) 
