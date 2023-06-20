@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-06-21 | [Pygargue à tête blanche, forêt nationale de Tongass, Alaska, États-Unis (© Jaynes Gallery/Shutterstock)](https://global.bing.com/th?id=OHR.EagleTree_FR-CA8848032641_UHD.jpg) 
+
 2023-06-20 | [Faon dans une prairie de Normandie, France (© Gerard Lacz/Minden)](https://global.bing.com/th?id=OHR.Fawn_FR-CA0574629540_UHD.jpg) 
 
 2023-06-19 | [Sterne pierregarin père avec son oisillon sur la plage de Nickerson, Long Island, New York, États-Unis (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](https://global.bing.com/th?id=OHR.TernFather_FR-CA2330968552_UHD.jpg) 
