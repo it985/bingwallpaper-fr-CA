@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-06-22 | [Gravures rupestres anciennes dans le parc provincial de Petroglyph à Nanaimo, Canada (© Chase Clausen/Shutterstock)](https://global.bing.com/th?id=OHR.NationalIndigenousPeoplesDay_FR-CA5400491267_UHD.jpg) 
+
 2023-06-21 | [Pygargue à tête blanche, forêt nationale de Tongass, Alaska, États-Unis (© Jaynes Gallery/Shutterstock)](https://global.bing.com/th?id=OHR.EagleTree_FR-CA8848032641_UHD.jpg) 
 
 2023-06-20 | [Faon dans une prairie de Normandie, France (© Gerard Lacz/Minden)](https://global.bing.com/th?id=OHR.Fawn_FR-CA0574629540_UHD.jpg) 
