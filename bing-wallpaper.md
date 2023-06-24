@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-06-25 | [Baie de Nha Phu, Nha Trang, Vietnam (© Thang Tat Nguyen/Getty Images)](https://global.bing.com/th?id=OHR.NhaTrang_FR-CA3860195638_UHD.jpg) 
+
 2023-06-24 | [Papillons monarques butinant des fleurs sauvages (© bookguy/Getty Images)](https://global.bing.com/th?id=OHR.PollinatorMonarch_FR-CA5375193913_UHD.jpg) 
 
 2023-06-23 | [Forêt amazonienne, Pérou (© Rhett Ayers Butler/Getty Images)](https://global.bing.com/th?id=OHR.PeruAmazon_FR-CA9068597794_UHD.jpg) 
