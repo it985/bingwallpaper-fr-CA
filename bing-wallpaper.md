@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-06-26 | [Khazneh, Pétra, Jordanie (© WitthayaP/Shutterstock)](https://global.bing.com/th?id=OHR.PetraTreasury_FR-CA3595661447_UHD.jpg) 
+
 2023-06-25 | [Baie de Nha Phu, Nha Trang, Vietnam (© Thang Tat Nguyen/Getty Images)](https://global.bing.com/th?id=OHR.NhaTrang_FR-CA3860195638_UHD.jpg) 
 
 2023-06-24 | [Papillons monarques butinant des fleurs sauvages (© bookguy/Getty Images)](https://global.bing.com/th?id=OHR.PollinatorMonarch_FR-CA5375193913_UHD.jpg) 
