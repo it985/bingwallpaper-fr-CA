@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-07-01 | [Grizzlis, parc national et réserve du Lake Clark, Alaska, États-Unis (© Carlos Carreno/Getty Images)](https://global.bing.com/th?id=OHR.ClamBears_FR-CA2710730151_UHD.jpg) 
+
 2023-06-30 | [Îles Banyak, Sumatra, Indonésie (© fbxx/Getty Images)](https://global.bing.com/th?id=OHR.BanyakIslands_FR-CA5862995087_UHD.jpg) 
 
 2023-06-29 | [Drapeaux arc-en-ciel et confettis (© Arctic-Images/Getty Images)](https://global.bing.com/th?id=OHR.PrideIceland_FR-CA6167251109_UHD.jpg) 
