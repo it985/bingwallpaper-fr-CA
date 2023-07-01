@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-07-02 | [Colline du Parlement à Ottawa, Ontario, Canada (© f11photo/Shutterstock)](https://global.bing.com/th?id=OHR.CanadaDay_FR-CA0818900775_UHD.jpg) 
+
 2023-07-01 | [Grizzlis, parc national et réserve du Lake Clark, Alaska, États-Unis (© Carlos Carreno/Getty Images)](https://global.bing.com/th?id=OHR.ClamBears_FR-CA2710730151_UHD.jpg) 
 
 2023-06-30 | [Îles Banyak, Sumatra, Indonésie (© fbxx/Getty Images)](https://global.bing.com/th?id=OHR.BanyakIslands_FR-CA5862995087_UHD.jpg) 
