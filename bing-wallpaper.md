@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-07-07 | [Gorfous sauteurs, îles Falkland (© Tony Beck/Getty Images)](https://global.bing.com/th?id=OHR.KissingPenguins_FR-CA6989356022_UHD.jpg) 
+
 2023-07-06 | [Plage de Porto Timoni, Corfou, Grèce (© nantonov/Getty Images)](https://global.bing.com/th?id=OHR.CorfuBeach_FR-CA6676352459_UHD.jpg) 
 
 2023-07-05 | [Parc National des Prairies, Saskatchewan, Canada (© Robert Postma/Getty Images)](https://global.bing.com/th?id=OHR.GrasslandsNationalParkSaskachewan_FR-CA6457394632_UHD.jpg) 
