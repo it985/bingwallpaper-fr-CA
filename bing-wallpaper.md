@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-07-10 | [Boucle de la Moselle près de Kröv, Allemagne (© Jorg Greuel/Getty Images)](https://global.bing.com/th?id=OHR.MoselleRiver_FR-CA8640631946_UHD.jpg) 
+
 2023-07-09 | [Chapelle commémorative Mildred B. Cooper, Bella Vista, Arkansas, États-Unis (© Eddie Brady/Getty Images)](https://global.bing.com/th?id=OHR.CooperChapel_FR-CA8390348843_UHD.jpg) 
 
 2023-07-08 | [Fèves de cacao d'Ambanja, Madagascar (© pierivb/Getty Images)](https://global.bing.com/th?id=OHR.CocoaPods_FR-CA7491584122_UHD.jpg) 
