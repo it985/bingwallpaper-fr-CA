@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-07-12 | [Panorama de la ville de Hong Kong (© leungchopan/Getty Images)](https://global.bing.com/th?id=OHR.WorldPopDay_FR-CA9433709818_UHD.jpg) 
+
 2023-07-11 | [Champ de lavande, Somerset, Angleterre (© Doug Chinnery/Getty Images)](https://global.bing.com/th?id=OHR.SomersetLavender_FR-CA9184657146_UHD.jpg) 
 
 2023-07-10 | [Boucle de la Moselle près de Kröv, Allemagne (© Jorg Greuel/Getty Images)](https://global.bing.com/th?id=OHR.MoselleRiver_FR-CA8640631946_UHD.jpg) 
