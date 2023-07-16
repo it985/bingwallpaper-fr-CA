@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-07-17 | [Ruisseau Bear Hole, montagnes Catskill, New York, États-Unis (© GummyBone/Getty Images)](https://global.bing.com/th?id=OHR.BearHoleBrook_FR-CA0976048560_UHD.jpg) 
+
 2023-07-16 | [Castelmezzano, Italie (© Rudy Balasko/Shutterstock)](https://global.bing.com/th?id=OHR.CastelmazzanoSunrise_FR-CA3717140799_UHD.jpg) 
 
 2023-07-15 | [Requins à pointe noire, Maldives (© Filippo Bacci/Getty Images)](https://global.bing.com/th?id=OHR.BlacktipSharks_FR-CA2629597949_UHD.jpg) 
