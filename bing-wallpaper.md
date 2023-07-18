@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-07-19 | [Calao bicorne, parc national de Khao Yai, Thaïlande (© kajornyot wildlife photography/Shutterstock)](https://global.bing.com/th?id=OHR.BucerosBicornis_FR-CA4672082831_UHD.jpg) 
+
 2023-07-18 | [Château de Cloughoughter à Lough Oughter, Irlande  (© 4H4 PH/Shutterstock)](https://global.bing.com/th?id=OHR.CavanCastle_FR-CA4414721678_UHD.jpg) 
 
 2023-07-17 | [Ruisseau Bear Hole, montagnes Catskill, New York, États-Unis (© GummyBone/Getty Images)](https://global.bing.com/th?id=OHR.BearHoleBrook_FR-CA0976048560_UHD.jpg) 
