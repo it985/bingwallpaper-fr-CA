@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-07-20 | [Lac Yueyaquan près de Dunhuang, province de Gansu, Chine (© R7 Photo/Shutterstock)](https://global.bing.com/th?id=OHR.CrescentLake_FR-CA8068688590_UHD.jpg) 
+
 2023-07-19 | [Calao bicorne, parc national de Khao Yai, Thaïlande (© kajornyot wildlife photography/Shutterstock)](https://global.bing.com/th?id=OHR.BucerosBicornis_FR-CA4672082831_UHD.jpg) 
 
 2023-07-18 | [Château de Cloughoughter à Lough Oughter, Irlande  (© 4H4 PH/Shutterstock)](https://global.bing.com/th?id=OHR.CavanCastle_FR-CA4414721678_UHD.jpg) 
