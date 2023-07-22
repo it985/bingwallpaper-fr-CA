@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-07-23 | [Nouvelle bibliothèque centrale de Calgary, Calgary, Canada (© Rick Rudnicki/Alamy Stock Photo)](https://global.bing.com/th?id=OHR.CalgaryCentralLibrary_FR-CA9256261204_UHD.jpg) 
+
 2023-07-22 | [Pont Storseisundet, route de l'océan Atlantique, Norvège (© Morten Falch Sortland/Getty Images)](https://global.bing.com/th?id=OHR.BridgeNorway_FR-CA8815175403_UHD.jpg) 
 
 2023-07-21 | [La lune vue depuis le vaisseau spatial Orion de la mission Artemis de la NASA (© NASA)](https://global.bing.com/th?id=OHR.MoonDayArtemis_FR-CA8595489255_UHD.jpg) 
