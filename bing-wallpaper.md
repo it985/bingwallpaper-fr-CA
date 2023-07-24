@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-07-25 | [Zèbres dans le parc national de Tarangire, Tanzanie (© cinoby/Getty Images)](https://global.bing.com/th?id=OHR.ZebraCousins_FR-CA9833948290_UHD.jpg) 
+
 2023-07-24 | [Plantation de thé, Nuwara Eliya, Sri Lanka (© Jeremy Woodhouse/Getty Images)](https://global.bing.com/th?id=OHR.TeaEstate_FR-CA9561860723_UHD.jpg) 
 
 2023-07-23 | [Nouvelle bibliothèque centrale de Calgary, Calgary, Canada (© Rick Rudnicki/Alamy Stock Photo)](https://global.bing.com/th?id=OHR.CalgaryCentralLibrary_FR-CA9256261204_UHD.jpg) 
