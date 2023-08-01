@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-02 | [Pont de la Confédération, Île-du-Prince-Édouard, Canada (© Henryk Sadura/Getty Images)](https://global.bing.com/th?id=OHR.ConfederationBridge_FR-CA7183379467_UHD.jpg) 
+
 2023-08-01 | [Rock House, Parc d’État de Hocking Hills, Ohio, États-Unis (© Kenneth Keifer/Getty Images)](https://global.bing.com/th?id=OHR.RockHouse_FR-CA1855600416_UHD.jpg) 
 
 2023-07-31 | [Terres agricoles dans la région de Palouse, Washington, États-Unis (© EJ-J/Getty Images)](https://global.bing.com/th?id=OHR.PalouseHills_FR-CA4883644400_UHD.jpg) 
