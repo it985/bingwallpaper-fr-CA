@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-03 | [Parc national de Capitol Reef, Utah, États-Unis (© Amazing Aerial Premium/Shutterstock)](https://global.bing.com/th?id=OHR.CapitolButte_FR-CA6201102521_UHD.jpg) 
+
 2023-08-02 | [Pont de la Confédération, Île-du-Prince-Édouard, Canada (© Henryk Sadura/Getty Images)](https://global.bing.com/th?id=OHR.ConfederationBridge_FR-CA7183379467_UHD.jpg) 
 
 2023-08-01 | [Rock House, Parc d’État de Hocking Hills, Ohio, États-Unis (© Kenneth Keifer/Getty Images)](https://global.bing.com/th?id=OHR.RockHouse_FR-CA1855600416_UHD.jpg) 
