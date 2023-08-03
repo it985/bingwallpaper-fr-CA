@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-04 | [Chutes Helmcken dans le parc provincial de Wells Gray, Colombie-Britannique, Canada (© Laurens Verhoeven/iStock/Getty Images)](https://global.bing.com/th?id=OHR.HelmckenWaterfall_FR-CA7961342650_UHD.jpg) 
+
 2023-08-03 | [Parc national de Capitol Reef, Utah, États-Unis (© Amazing Aerial Premium/Shutterstock)](https://global.bing.com/th?id=OHR.CapitolButte_FR-CA6201102521_UHD.jpg) 
 
 2023-08-02 | [Pont de la Confédération, Île-du-Prince-Édouard, Canada (© Henryk Sadura/Getty Images)](https://global.bing.com/th?id=OHR.ConfederationBridge_FR-CA7183379467_UHD.jpg) 
