@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-06 | [Macareux moine, Islande (© Peter Hering/Minden Pictures)](https://global.bing.com/th?id=OHR.AtlanticPuffin_FR-CA4002031456_UHD.jpg) 
+
 2023-08-05 | [Abbaye de Tintern, Pays de Galles (© matthibcn/Getty Images)](https://global.bing.com/th?id=OHR.GothicRuins_FR-CA1525531478_UHD.jpg) 
 
 2023-08-04 | [Chutes Helmcken dans le parc provincial de Wells Gray, Colombie-Britannique, Canada (© Laurens Verhoeven/iStock/Getty Images)](https://global.bing.com/th?id=OHR.HelmckenWaterfall_FR-CA7961342650_UHD.jpg) 
