@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-11 | [Lion au Masai Mara, Kenya (© Scott Davis/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.WorldLionDay_FR-CA5931612553_UHD.jpg) 
+
 2023-08-10 | [Œuvres d'art aborigènes, Centre d'art Ngaruwanajirri, Wurrumiyanga, île Bathurst, Australie (© Robert Wyatt/Alamy)](https://global.bing.com/th?id=OHR.BathurstArt_FR-CA5042727261_UHD.jpg) 
 
 2023-08-09 | [Autoroutes à Taipei, Taïwan (© Tavarius/Shutterstock)](https://global.bing.com/th?id=OHR.InfinityTaipei_FR-CA4799284385_UHD.jpg) 
