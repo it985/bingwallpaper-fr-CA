@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-12 | [Réserve de parc national et site du patrimoine haïda Gwaii Haanas, Colombie-Britannique, Canada (© Don Johnston_WC/Alamy Stock Photo)](https://global.bing.com/th?id=OHR.GwaiiHaanasNP_FR-CA0375458941_UHD.jpg) 
+
 2023-08-11 | [Lion au Masai Mara, Kenya (© Scott Davis/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.WorldLionDay_FR-CA5931612553_UHD.jpg) 
 
 2023-08-10 | [Œuvres d'art aborigènes, Centre d'art Ngaruwanajirri, Wurrumiyanga, île Bathurst, Australie (© Robert Wyatt/Alamy)](https://global.bing.com/th?id=OHR.BathurstArt_FR-CA5042727261_UHD.jpg) 
