@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-13 | [Famille d'éléphants dans le parc national d'Amboseli, Kenya (© Ibrahim Suha Derbent/Getty Images)](https://global.bing.com/th?id=OHR.ThreeElephants_FR-CA1889757265_UHD.jpg) 
+
 2023-08-12 | [Réserve de parc national et site du patrimoine haïda Gwaii Haanas, Colombie-Britannique, Canada (© Don Johnston_WC/Alamy Stock Photo)](https://global.bing.com/th?id=OHR.GwaiiHaanasNP_FR-CA0375458941_UHD.jpg) 
 
 2023-08-11 | [Lion au Masai Mara, Kenya (© Scott Davis/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.WorldLionDay_FR-CA5931612553_UHD.jpg) 
