@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-15 | [Montagnes du film “Avatar”, Parc national forestier de Zhangjiajie, Chine (© Amazing Aerial Premium/Shutterstock)](https://global.bing.com/th?id=OHR.AvatarMountain_FR-CA5107551817_UHD.jpg) 
+
 2023-08-14 | [Pluie d´étoiles filantes des Perséides, Cottonwood Canyon State Park, Oregon, États-Unis (© Joshua Meador/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.PerseidsOregon_FR-CA4851481325_UHD.jpg) 
 
 2023-08-13 | [Famille d'éléphants dans le parc national d'Amboseli, Kenya (© Ibrahim Suha Derbent/Getty Images)](https://global.bing.com/th?id=OHR.ThreeElephants_FR-CA1889757265_UHD.jpg) 
