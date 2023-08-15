@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-16 | [Place du IX Avril, Taormina, Sicile, Italie (© rudi1976/Alamy)](https://global.bing.com/th?id=OHR.TaorminaSquare_FR-CA5370881089_UHD.jpg) 
+
 2023-08-15 | [Montagnes du film “Avatar”, Parc national forestier de Zhangjiajie, Chine (© Amazing Aerial Premium/Shutterstock)](https://global.bing.com/th?id=OHR.AvatarMountain_FR-CA5107551817_UHD.jpg) 
 
 2023-08-14 | [Pluie d´étoiles filantes des Perséides, Cottonwood Canyon State Park, Oregon, États-Unis (© Joshua Meador/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.PerseidsOregon_FR-CA4851481325_UHD.jpg) 
