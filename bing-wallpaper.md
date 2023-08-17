@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-18 | [Petit gecko sur une feuille  (© Darren Greenwood/Alamy)](https://global.bing.com/th?id=OHR.GeckoLeaf_FR-CA6303740147_UHD.jpg) 
+
 2023-08-17 | [L’Overseas Highway des Keys de Floride (© Evgeny Vasenev/Cavan Images)](https://global.bing.com/th?id=OHR.KeyWestBridge_FR-CA5922360725_UHD.jpg) 
 
 2023-08-16 | [Place du IX Avril, Taormina, Sicile, Italie (© rudi1976/Alamy)](https://global.bing.com/th?id=OHR.TaorminaSquare_FR-CA5370881089_UHD.jpg) 
