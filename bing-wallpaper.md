@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-19 | [Spectacle International aérien du Canada, Toronto, Canada (© Melissa Renwick/Contributor/Getty Images)](https://global.bing.com/th?id=OHR.CanadianNationalExhibition_FR-CA0763766374_UHD.jpg) 
+
 2023-08-18 | [Petit gecko sur une feuille  (© Darren Greenwood/Alamy)](https://global.bing.com/th?id=OHR.GeckoLeaf_FR-CA6303740147_UHD.jpg) 
 
 2023-08-17 | [L’Overseas Highway des Keys de Floride (© Evgeny Vasenev/Cavan Images)](https://global.bing.com/th?id=OHR.KeyWestBridge_FR-CA5922360725_UHD.jpg) 
