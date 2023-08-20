@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-21 | [Phare de Start Point, Devon, Angleterre (© Guy Edwardes/Minden Pictures)](https://global.bing.com/th?id=OHR.StartPointLight_FR-CA7360302172_UHD.jpg) 
+
 2023-08-20 | [Écureuil regardant l'objectif d'un appareil photo (© Alfredo Piedrafita/Getty Images)](https://global.bing.com/th?id=OHR.CameraSquirrel_FR-CA6868729424_UHD.jpg) 
 
 2023-08-19 | [Spectacle International aérien du Canada, Toronto, Canada (© Melissa Renwick/Contributor/Getty Images)](https://global.bing.com/th?id=OHR.CanadianNationalExhibition_FR-CA0763766374_UHD.jpg) 
