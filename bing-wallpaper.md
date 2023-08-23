@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-24 | [Chutes de Skógafoss, Islande (© Maridav/Shutterstock)](https://global.bing.com/th?id=OHR.SkogafossWaterfall_FR-CA8092980830_UHD.jpg) 
+
 2023-08-23 | [Amphithéâtre d'El Jem, Tunisie (© Westend61/Getty Images)](https://global.bing.com/th?id=OHR.TunisiaAmphitheatre_FR-CA7849537174_UHD.jpg) 
 
 2023-08-22 | [Lac Emerald, route du Klondike Sud, Yukon, Canada (© artherng/Getty Images)](https://global.bing.com/th?id=OHR.EmeraldLakeYukon_FR-CA7580050863_UHD.jpg) 
