@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-25 | [Crique Shark Fin, Davenport, Californie, États-Unis (© Jeff Lewis/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.SharkFinCove_FR-CA8909566160_UHD.jpg) 
+
 2023-08-24 | [Chutes de Skógafoss, Islande (© Maridav/Shutterstock)](https://global.bing.com/th?id=OHR.SkogafossWaterfall_FR-CA8092980830_UHD.jpg) 
 
 2023-08-23 | [Amphithéâtre d'El Jem, Tunisie (© Westend61/Getty Images)](https://global.bing.com/th?id=OHR.TunisiaAmphitheatre_FR-CA7849537174_UHD.jpg) 
