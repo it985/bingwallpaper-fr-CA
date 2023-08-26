@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-27 | [Cathédrale et île aux musées, Berlin, Allemagne (© Rudy Balasko/Shutterstock)](https://global.bing.com/th?id=OHR.MuseumIsland_FR-CA1507104420_UHD.jpg) 
+
 2023-08-26 | [Chutes inférieures, parc national de Yellowstone, Wyoming, États-Unis (© Tim Fitzharris/Minden Pictures)](https://global.bing.com/th?id=OHR.YellowstoneFalls_FR-CA0933984187_UHD.jpg) 
 
 2023-08-25 | [Crique Shark Fin, Davenport, Californie, États-Unis (© Jeff Lewis/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.SharkFinCove_FR-CA8909566160_UHD.jpg) 
