@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-08-31 | [Requin-baleine, récif de Ningaloo, Australie occidentale (© Jason Edwards/Getty Images)](https://global.bing.com/th?id=OHR.NingalooShark_FR-CA2661288906_UHD.jpg) 
+
 2023-08-30 | [Piscine "Gateway" du parc d’Art Jupiter Artland, Édimbourg, Écosse (© Owen Humphreys/PA Images/Alamy)](https://global.bing.com/th?id=OHR.JupiterArtland_FR-CA8489592743_UHD.jpg) 
 
 2023-08-29 | [Fort Lovrijenac, Dubrovnik, Croatie (© Benny Marty/Shutterstock)](https://global.bing.com/th?id=OHR.DubrovnikHarbor_FR-CA2116285178_UHD.jpg) 
