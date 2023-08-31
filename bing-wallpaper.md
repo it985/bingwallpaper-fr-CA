@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-01 | [Cactus Saguaro, Ironwood National Monument, Arizona, États-Unis (© Jack Dykinga/Minden Pictures)](https://global.bing.com/th?id=OHR.IronwoodCactus_FR-CA2939591487_UHD.jpg) 
+
 2023-08-31 | [Requin-baleine, récif de Ningaloo, Australie occidentale (© Jason Edwards/Getty Images)](https://global.bing.com/th?id=OHR.NingalooShark_FR-CA2661288906_UHD.jpg) 
 
 2023-08-30 | [Piscine "Gateway" du parc d’Art Jupiter Artland, Édimbourg, Écosse (© Owen Humphreys/PA Images/Alamy)](https://global.bing.com/th?id=OHR.JupiterArtland_FR-CA8489592743_UHD.jpg) 
