@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-03 | [Colibri d'Allen, Santa Cruz, Californie, États-Unis (© mallardg500/Getty Images)](https://global.bing.com/th?id=OHR.TinyHummer_FR-CA3581077617_UHD.jpg) 
+
 2023-09-02 | [Chameaux dans le désert, Émirats Arabes Unis (© Amazing Aerial Premium/Shutterstock)](https://global.bing.com/th?id=OHR.CamelsAbove_FR-CA3229345898_UHD.jpg) 
 
 2023-09-01 | [Cactus Saguaro, Ironwood National Monument, Arizona, États-Unis (© Jack Dykinga/Minden Pictures)](https://global.bing.com/th?id=OHR.IronwoodCactus_FR-CA2939591487_UHD.jpg) 
