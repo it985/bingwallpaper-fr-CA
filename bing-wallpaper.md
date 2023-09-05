@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-06 | [Mont Segla, île de Senja, Troms et Finnmark, Norvège (© imageBROKER/Moritz Wolf/Getty Images)](https://global.bing.com/th?id=OHR.MountSegla_FR-CA3664443685_UHD.jpg) 
+
 2023-09-05 | [Marais de Bourges, Centre-Val de Loire, France (© Tuul & Bruno Morandi/Getty Images)](https://global.bing.com/th?id=OHR.BourgesMarsh_FR-CA3870062021_UHD.jpg) 
 
 2023-09-04 | [Vue aérienne de Manhattan, New York, États-Unis (© Wojtek Zagorski/Getty Images)](https://global.bing.com/th?id=OHR.ManhattanAerial_FR-CA3613326051_UHD.jpg) 
