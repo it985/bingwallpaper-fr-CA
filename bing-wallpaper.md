@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-10 | [Temple Wat Chaiwatthanaram, parc historique d'Ayutthaya, Thaïlande (© Weerasak Saeku/Getty Images)](https://global.bing.com/th?id=OHR.AyutthayaTemple_FR-CA5171816639_UHD.jpg) 
+
 2023-09-09 | [Maison géorgienne, The Circus, Bath, Somerset, Angleterre (© Gavin Hellier/Getty Images)](https://global.bing.com/th?id=OHR.BathCircus_FR-CA4493495972_UHD.jpg) 
 
 2023-09-08 | [Vue panoramique du front de mer de la ville de Toronto au coucher du soleil (© Elena Elisseeva/Shutterstock)](https://global.bing.com/th?id=OHR.TIFFCanada_FR-CA6161085752_UHD.jpg) 
