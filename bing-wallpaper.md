@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-12 | [Lever du soleil dans un vignoble à Bordeaux, France (© Esperanza33/Getty Images)](https://global.bing.com/th?id=OHR.MarathonMedoc_FR-CA2801007309_UHD.jpg) 
+
 2023-09-11 | [Rivière des Français, Ontario, Canada (© Tim Fitzharris/Minden)](https://global.bing.com/th?id=OHR.FrenchRiver_FR-CA2191056139_UHD.jpg) 
 
 2023-09-10 | [Temple Wat Chaiwatthanaram, parc historique d'Ayutthaya, Thaïlande (© Weerasak Saeku/Getty Images)](https://global.bing.com/th?id=OHR.AyutthayaTemple_FR-CA5171816639_UHD.jpg) 
