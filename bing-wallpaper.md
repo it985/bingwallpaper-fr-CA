@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-13 | [Mer du Nord au coucher du soleil, Norddorf, île d'Amrum, Allemagne (© Frederick Doerschem/Getty Images)](https://global.bing.com/th?id=OHR.NorthSeaStairs_FR-CA6219688531_UHD.jpg) 
+
 2023-09-12 | [Lever du soleil dans un vignoble à Bordeaux, France (© Esperanza33/Getty Images)](https://global.bing.com/th?id=OHR.MarathonMedoc_FR-CA2801007309_UHD.jpg) 
 
 2023-09-11 | [Rivière des Français, Ontario, Canada (© Tim Fitzharris/Minden)](https://global.bing.com/th?id=OHR.FrenchRiver_FR-CA2191056139_UHD.jpg) 
