@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-15 | [Chevaux de Przewalski, parc national de Hustai, Mongolie (© Ondrej Prosicky/Shutterstock)](https://global.bing.com/th?id=OHR.MongoliaHorses_FR-CA9678136106_UHD.jpg) 
+
 2023-09-14 | [Temples sur la colline Hemakuta, Hampi, Karnataka, Inde (© Images of india/Alamy)](https://global.bing.com/th?id=OHR.HemakutaHill_FR-CA9151313523_UHD.jpg) 
 
 2023-09-13 | [Mer du Nord au coucher du soleil, Norddorf, île d'Amrum, Allemagne (© Frederick Doerschem/Getty Images)](https://global.bing.com/th?id=OHR.NorthSeaStairs_FR-CA6219688531_UHD.jpg) 
