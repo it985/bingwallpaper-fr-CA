@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-17 | [Toile de fond historique dans une tente lors de l'Oktoberfest à Theresienwiese, Munich, Allemagne (© Peter Kneffel/picture alliance via Getty Images)](https://global.bing.com/th?id=OHR.OktoberfestWorkers_FR-CA8530887995_UHD.jpg) 
+
 2023-09-16 | [Coucher de soleil dans le parc forestier de Glenariff, comté d'Antrim, Irlande (© Peter Zelei/Getty Images)](https://global.bing.com/th?id=OHR.GlenariffForest_FR-CA0161825431_UHD.jpg) 
 
 2023-09-15 | [Chevaux de Przewalski, parc national de Hustai, Mongolie (© Ondrej Prosicky/Shutterstock)](https://global.bing.com/th?id=OHR.MongoliaHorses_FR-CA9678136106_UHD.jpg) 
