@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-20 | [Col de Splügen, Grisons, Suisse (© Roberto Moiola/Getty Images)](https://global.bing.com/th?id=OHR.SplugenPass_FR-CA8656085058_UHD.jpg) 
+
 2023-09-19 | [Voie lactée au-dessus du parc naturel du sud-ouest de l'Alentejo et de la côte vicentine, Portugal (© Daniel Garrido/Getty Images)](https://global.bing.com/th?id=OHR.MilkyWayPortugal_FR-CA1031072860_UHD.jpg) 
 
 2023-09-18 | [Todier de Cuba, Parc national Alejandro de Humboldt, Cuba (© Bruno D'Amicis/Minden Pictures)](https://global.bing.com/th?id=OHR.CubanTody_FR-CA0693781868_UHD.jpg) 
