@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-23 | [Rhinocéros blancs du Sud, réserve de Shamwari, Afrique du Sud (© David Silverman/Getty Images)](https://global.bing.com/th?id=OHR.ShamwariRhino_FR-CA2684928616_UHD.jpg) 
+
 2023-09-22 | [Centre Nobel de la Paix, Oslo, Norvège (© Ilyas Ayub/Alamy)](https://global.bing.com/th?id=OHR.NobelNorway_FR-CA1742023446_UHD.jpg) 
 
 2023-09-21 | [Aqueduc de style romain, parc d'Arkadia, Pologne (© PATSTOCK/Getty Images)](https://global.bing.com/th?id=OHR.ArkadiaPark_FR-CA1473824431_UHD.jpg) 
