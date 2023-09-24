@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-25 | [Le fleuve Fraser près du mont Robson, Colombie-Britannique, Canada (© phototropic/Getty Images)](https://global.bing.com/th?id=OHR.FraserRiverBC_FR-CA3269831192_UHD.jpg) 
+
 2023-09-24 | [L'installation lumineuse "Global Rainbow" de l'artiste Yvette Mattern (© David Cooper/Contributor/Getty Images)](https://global.bing.com/th?id=OHR.NuitBlanche_FR-CA0744648020_UHD.jpg) 
 
 2023-09-23 | [Rhinocéros blancs du Sud, réserve de Shamwari, Afrique du Sud (© David Silverman/Getty Images)](https://global.bing.com/th?id=OHR.ShamwariRhino_FR-CA2684928616_UHD.jpg) 
