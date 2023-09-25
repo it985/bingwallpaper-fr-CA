@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-26 | [Loutre de mer à Bartlett Cove, parc national et réserve de Glacier Bay, Alaska (© Andrew Peacock/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.GlacierBayOtter_FR-CA6259339997_UHD.jpg) 
+
 2023-09-25 | [Le fleuve Fraser près du mont Robson, Colombie-Britannique, Canada (© phototropic/Getty Images)](https://global.bing.com/th?id=OHR.FraserRiverBC_FR-CA3269831192_UHD.jpg) 
 
 2023-09-24 | [L'installation lumineuse "Global Rainbow" de l'artiste Yvette Mattern (© David Cooper/Contributor/Getty Images)](https://global.bing.com/th?id=OHR.NuitBlanche_FR-CA0744648020_UHD.jpg) 
