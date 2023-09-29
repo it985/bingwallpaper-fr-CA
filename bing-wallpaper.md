@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-09-30 | [Tour Jiaxiu à la pleine lune, Guiyang, province de Guizhou, Chine (© Wang Yukun/Getty Images)](https://global.bing.com/th?id=OHR.GuiyangMoon_FR-CA9250844272_UHD.jpg) 
+
 2023-09-29 | [Porte-conteneurs près d'un port commercial en Thaïlande (© Suriyapong Thongsawang/Getty Images)](https://global.bing.com/th?id=OHR.MaritimeDay_FR-CA6772590470_UHD.jpg) 
 
 2023-09-28 | [Via Krupp sur l’île de Capri, Italie (© Mikolaj Niemczewski/Shutterstock)](https://global.bing.com/th?id=OHR.CapriKrupp_FR-CA6621668582_UHD.jpg) 
