@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-01 | [Couleurs d'automne dans le parc national de Shenandoah, Virginie (© Michael Ver Sprill/Getty Images)](https://global.bing.com/th?id=OHR.ShenandoahFoliage_FR-CA9556023741_UHD.jpg) 
+
 2023-09-30 | [Tour Jiaxiu à la pleine lune, Guiyang, province de Guizhou, Chine (© Wang Yukun/Getty Images)](https://global.bing.com/th?id=OHR.GuiyangMoon_FR-CA9250844272_UHD.jpg) 
 
 2023-09-29 | [Porte-conteneurs près d'un port commercial en Thaïlande (© Suriyapong Thongsawang/Getty Images)](https://global.bing.com/th?id=OHR.MaritimeDay_FR-CA6772590470_UHD.jpg) 
