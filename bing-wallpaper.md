@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-08 | [Ours grizzly pêchant le saumon dans les chutes de Brooks, parc national de Katmai, Alaska, États-Unis (© oksana.perkins/Shutterstock)](https://global.bing.com/th?id=OHR.GrizzlyFalls_FR-CA5667931816_UHD.jpg) 
+
 2023-10-07 | [Parc d'État de la cascade de Taughannock à Trumansburg, dans l'État de New York, aux États-Unis (© Paul Massie Photography/Getty Images)](https://global.bing.com/th?id=OHR.TaughannockFalls_FR-CA5542512995_UHD.jpg) 
 
 2023-10-06 | [Manchots papous, Antarctique (© Art Wolfe/Getty Images)](https://global.bing.com/th?id=OHR.GentooJump_FR-CA1552519523_UHD.jpg) 
