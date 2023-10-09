@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-10 | [Un bol rempli de canneberges, Ontario, Canada (© plainpicture/Design Pics/Julie DeRoche)](https://global.bing.com/th?id=OHR.ThanksgivingDay_FR-CA0094476324_UHD.jpg) 
+
 2023-10-09 | [Pieuvre noix de coco dans une coquille de palourde géante, Mer de Célèbes, Indonésie (© Alex Mustard/Minden Pictures)](https://global.bing.com/th?id=OHR.OctoClam_FR-CA5864786299_UHD.jpg) 
 
 2023-10-08 | [Ours grizzly pêchant le saumon dans les chutes de Brooks, parc national de Katmai, Alaska, États-Unis (© oksana.perkins/Shutterstock)](https://global.bing.com/th?id=OHR.GrizzlyFalls_FR-CA5667931816_UHD.jpg) 
