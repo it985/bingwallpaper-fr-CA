@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-11 | [Mont Sopris, Colorado, États-Unis (© Jason Hatfield/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.SoprisSunrise_FR-CA5999894532_UHD.jpg) 
+
 2023-10-10 | [Un bol rempli de canneberges, Ontario, Canada (© plainpicture/Design Pics/Julie DeRoche)](https://global.bing.com/th?id=OHR.ThanksgivingDay_FR-CA0094476324_UHD.jpg) 
 
 2023-10-09 | [Pieuvre noix de coco dans une coquille de palourde géante, Mer de Célèbes, Indonésie (© Alex Mustard/Minden Pictures)](https://global.bing.com/th?id=OHR.OctoClam_FR-CA5864786299_UHD.jpg) 
