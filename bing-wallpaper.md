@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-12 | [Collines de Painted Hills dans le bassin de la John Day River National Monument, Oregon, États-Unis (© Ben Herndon/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.JohnDayFossil_FR-CA6129075559_UHD.jpg) 
+
 2023-10-11 | [Mont Sopris, Colorado, États-Unis (© Jason Hatfield/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.SoprisSunrise_FR-CA5999894532_UHD.jpg) 
 
 2023-10-10 | [Un bol rempli de canneberges, Ontario, Canada (© plainpicture/Design Pics/Julie DeRoche)](https://global.bing.com/th?id=OHR.ThanksgivingDay_FR-CA0094476324_UHD.jpg) 
