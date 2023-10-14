@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-15 | [Éclipse solaire annulaire "anneau de feu", Doha, Qatar (© Sorin Furcoi/Getty Images)](https://global.bing.com/th?id=OHR.RingEclipse_FR-CA6408238341_UHD.jpg) 
+
 2023-10-14 | [Voie lactée au-dessus du glacier Athabasca dans le parc national de Jasper, Canada (© Alan Dyer/Stocktrek Images/Getty Images)](https://global.bing.com/th?id=OHR.JasperDarkSky_FR-CA1010044700_UHD.jpg) 
 
 2023-10-13 | [Vieille grange et champ de colza, région de Palouse, Idaho, États-Unis (© Terry Eggers/Getty Images)](https://global.bing.com/th?id=OHR.IdahoBarn_FR-CA6251406821_UHD.jpg) 
