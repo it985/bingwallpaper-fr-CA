@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-16 | [Hérisson européen se réfugiant dans l'écorce d'un arbre, Sussex, Angleterre (© Jules Cox/Minden Pictures)](https://global.bing.com/th?id=OHR.AutumnHedgehog_FR-CA6537528455_UHD.jpg) 
+
 2023-10-15 | [Éclipse solaire annulaire "anneau de feu", Doha, Qatar (© Sorin Furcoi/Getty Images)](https://global.bing.com/th?id=OHR.RingEclipse_FR-CA6408238341_UHD.jpg) 
 
 2023-10-14 | [Voie lactée au-dessus du glacier Athabasca dans le parc national de Jasper, Canada (© Alan Dyer/Stocktrek Images/Getty Images)](https://global.bing.com/th?id=OHR.JasperDarkSky_FR-CA1010044700_UHD.jpg) 
