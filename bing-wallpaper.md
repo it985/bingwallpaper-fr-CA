@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-23 | [Pont Astoria-Megler sur le fleuve Columbia, Astoria, Oregon, États-Unis (© Dan Mihai/Getty Images)](https://global.bing.com/th?id=OHR.AstoriaBridge_FR-CA6366797852_UHD.jpg) 
+
 2023-10-22 | [Bas-reliefs, ancienne cité perse de Persépolis, Iran (© Ozbalci/Getty Images)](https://global.bing.com/th?id=OHR.PersepolisRelief_FR-CA6174028626_UHD.jpg) 
 
 2023-10-21 | [Bébé paresseux nain, île Escudo de Veraguas, Panama (© Suzi Eszterhas/Minden Pictures)](https://global.bing.com/th?id=OHR.PygmySloth_FR-CA0305105096_UHD.jpg) 
