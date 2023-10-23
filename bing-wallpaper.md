@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-24 | [Labyrinthe de maïs à Saylorsburg, Pennsylvanie, États-Unis (© Alex Potemkin/Getty Images)](https://global.bing.com/th?id=OHR.PoconosMaze_FR-CA6610174699_UHD.jpg) 
+
 2023-10-23 | [Pont Astoria-Megler sur le fleuve Columbia, Astoria, Oregon, États-Unis (© Dan Mihai/Getty Images)](https://global.bing.com/th?id=OHR.AstoriaBridge_FR-CA6366797852_UHD.jpg) 
 
 2023-10-22 | [Bas-reliefs, ancienne cité perse de Persépolis, Iran (© Ozbalci/Getty Images)](https://global.bing.com/th?id=OHR.PersepolisRelief_FR-CA6174028626_UHD.jpg) 
