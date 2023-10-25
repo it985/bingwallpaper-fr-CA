@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-26 | [Les peupliers deltoïdes dans le monument national de Grand Staircase-Escalante, Utah, États-Unis (© Jeff Foott/Minden Pictures)](https://global.bing.com/th?id=OHR.GrandStaircase_FR-CA6895096374_UHD.jpg) 
+
 2023-10-25 | [Château de Füzér dans les montagnes de Zemplén, Hongrie (© ZGPhotography/Alamy)](https://global.bing.com/th?id=OHR.FuzerCastle_FR-CA6749666735_UHD.jpg) 
 
 2023-10-24 | [Labyrinthe de maïs à Saylorsburg, Pennsylvanie, États-Unis (© Alex Potemkin/Getty Images)](https://global.bing.com/th?id=OHR.PoconosMaze_FR-CA6610174699_UHD.jpg) 
