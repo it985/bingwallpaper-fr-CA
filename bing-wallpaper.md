@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-28 | [Pont de sligachan, île de Skye, Écosse (© Aliaume Chapelle/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.OldBridgeSkye_FR-CA7225455953_UHD.jpg) 
+
 2023-10-27 | [Feuillage d'automne dans le parc du château de Schönbrunn, Vienne, Autriche (© rusm/Getty Images)](https://global.bing.com/th?id=OHR.ViennaAutumn_FR-CA7060863029_UHD.jpg) 
 
 2023-10-26 | [Les peupliers deltoïdes dans le monument national de Grand Staircase-Escalante, Utah, États-Unis (© Jeff Foott/Minden Pictures)](https://global.bing.com/th?id=OHR.GrandStaircase_FR-CA6895096374_UHD.jpg) 
