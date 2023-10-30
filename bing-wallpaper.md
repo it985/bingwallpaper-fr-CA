@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-10-31 | [Grand corbeau assis sur une branche (© WildMedia/Shutterstock)](https://global.bing.com/th?id=OHR.AutumnRaven_FR-CA7668123944_UHD.jpg) 
+
 2023-10-30 | [Lac Kenny à l'aube, Parc provincial du Lac-Supérieur, Ontario, Canada  (© Don Johnston/agefotostock)](https://global.bing.com/th?id=OHR.KennyLake_FR-CA9652787331_UHD.jpg) 
 
 2023-10-29 | [Moulins à vent dans la région de Castille-La Manche, Espagne (© Getty Images)](https://global.bing.com/th?id=OHR.FiveWinds_FR-CA7541007489_UHD.jpg) 
