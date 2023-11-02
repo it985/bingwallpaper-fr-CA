@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-11-03 | [Salines dans le bassin Badwater, parc national de la Vallée de la Mort, Californie, États-Unis (© Jim Patterson/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.DeathValleySalt_FR-CA8097089890_UHD.jpg) 
+
 2023-11-02 | [Château de Haut-Barr, Pays de Saverne, Vosges, France (© Andrea Pistolesi/Getty Images)](https://global.bing.com/th?id=OHR.HautBarr_FR-CA7955503325_UHD.jpg) 
 
 2023-11-01 | [Lanternes citrouilles d'Halloween sous un porche (© Bing Image Creator)](https://global.bing.com/th?id=OHR.HalloweenPorchAI_FR-CA7805975704_UHD.jpg) 
