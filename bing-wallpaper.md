@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-11-13 | [Lumières sur les rives de la rivière Sarayu à l'occasion de Diwali, Ayodhya, Inde (© SANJAY KANOJIA/AFP/Getty Images)](https://global.bing.com/th?id=OHR.DiwaliAyodhya_FR-CA9145636456_UHD.jpg) 
+
 2023-11-12 | [Forêt automnale et Youngs Peak, Colombie-Britannique, Canada (© David Noton/Minden)](https://global.bing.com/th?id=OHR.YoungPeaks_FR-CA0195616338_UHD.jpg) 
 
 2023-11-11 | [Parc national des Badlands, Dakota du Sud, États-Unis (© Grant Ordelheide/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.BadlandsSunrise_FR-CA8958948365_UHD.jpg) 
