@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-11-14 | [Vieille oliveraie dans la Serra de Tramuntana, Majorque, Espagne (© cinoby/Getty Images)](https://global.bing.com/th?id=OHR.OliveOrchard_FR-CA9360423614_UHD.jpg) 
+
 2023-11-13 | [Lumières sur les rives de la rivière Sarayu à l'occasion de Diwali, Ayodhya, Inde (© SANJAY KANOJIA/AFP/Getty Images)](https://global.bing.com/th?id=OHR.DiwaliAyodhya_FR-CA9145636456_UHD.jpg) 
 
 2023-11-12 | [Forêt automnale et Youngs Peak, Colombie-Britannique, Canada (© David Noton/Minden)](https://global.bing.com/th?id=OHR.YoungPeaks_FR-CA0195616338_UHD.jpg) 
