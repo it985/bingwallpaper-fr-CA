@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-11-16 | [Vallée de Rapa dans le parc national de Sarek, Suède (© Hans Strand/Getty Images)](https://global.bing.com/th?id=OHR.SarekSweden_FR-CA9782017040_UHD.jpg) 
+
 2023-11-15 | [Lupins de Russell sur le lac Tekapo, île du Sud, Nouvelle-Zélande (© Jeffrey Lewis/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.RussellLupines_FR-CA9551548817_UHD.jpg) 
 
 2023-11-14 | [Vieille oliveraie dans la Serra de Tramuntana, Majorque, Espagne (© cinoby/Getty Images)](https://global.bing.com/th?id=OHR.OliveOrchard_FR-CA9360423614_UHD.jpg) 
