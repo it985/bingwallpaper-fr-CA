@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-11-24 | [Coucher de soleil au parc national du Teide, Tenerife, îles Canaries, Espagne (© Javier Martínez Morán/Alamy)](https://global.bing.com/th?id=OHR.TeideNational_FR-CA6835615260_UHD.jpg) 
+
 2023-11-23 | [Parc national de Grand Teton, Wyoming, États-Unis (© Westend61/Getty Images)](https://global.bing.com/th?id=OHR.SnakeRiverTeton_FR-CA2257079713_UHD.jpg) 
 
 2023-11-22 | [Bébé phoque gris sur la plage de Norfolk, Angleterre (© Vince Burton/Minden Pictures)](https://global.bing.com/th?id=OHR.HelloSeal_FR-CA6312414583_UHD.jpg) 
