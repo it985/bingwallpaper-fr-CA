@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-11-25 | [Sentier "Hall of Mosses" dans la forêt pluviale de Hoh, Parc national olympique, Washington, États-Unis (© James Randklev/Getty Images)](https://global.bing.com/th?id=OHR.HallofMosses_FR-CA2672787492_UHD.jpg) 
+
 2023-11-24 | [Coucher de soleil au parc national du Teide, Tenerife, îles Canaries, Espagne (© Javier Martínez Morán/Alamy)](https://global.bing.com/th?id=OHR.TeideNational_FR-CA6835615260_UHD.jpg) 
 
 2023-11-23 | [Parc national de Grand Teton, Wyoming, États-Unis (© Westend61/Getty Images)](https://global.bing.com/th?id=OHR.SnakeRiverTeton_FR-CA2257079713_UHD.jpg) 
