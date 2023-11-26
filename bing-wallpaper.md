@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-11-27 | [Daim à Bradgate Park, Leicestershire, Angleterre (© Chris Bainbridge/Alamy)](https://global.bing.com/th?id=OHR.BradgateFallow_FR-CA3032300696_UHD.jpg) 
+
 2023-11-26 | [Mont Logan dans le parc national et la réserve de Kluane, Yukon, Canada (© A. Michael Brown/shutterstock)](https://global.bing.com/th?id=OHR.KluaneNationalPark_FR-CA7210033313_UHD.jpg) 
 
 2023-11-25 | [Sentier "Hall of Mosses" dans la forêt pluviale de Hoh, Parc national olympique, Washington, États-Unis (© James Randklev/Getty Images)](https://global.bing.com/th?id=OHR.HallofMosses_FR-CA2672787492_UHD.jpg) 
