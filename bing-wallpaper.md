@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-11-28 | [Rio Negro, bassin amazonien, Brésil (© Timothy Allen/Getty Images)](https://global.bing.com/th?id=OHR.RioNegro_FR-CA3404071331_UHD.jpg) 
+
 2023-11-27 | [Daim à Bradgate Park, Leicestershire, Angleterre (© Chris Bainbridge/Alamy)](https://global.bing.com/th?id=OHR.BradgateFallow_FR-CA3032300696_UHD.jpg) 
 
 2023-11-26 | [Mont Logan dans le parc national et la réserve de Kluane, Yukon, Canada (© A. Michael Brown/shutterstock)](https://global.bing.com/th?id=OHR.KluaneNationalPark_FR-CA7210033313_UHD.jpg) 
