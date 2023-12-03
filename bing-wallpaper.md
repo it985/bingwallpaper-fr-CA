@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-12-04 | [Formations rocheuses en grès, Monument national de Vermilion Cliffs, Arizona, États-Unis (© Yva Momatiuk and John Eastcott/Minden Pictures)](https://global.bing.com/th?id=OHR.VermilionCliffs_FR-CA8019740887_UHD.jpg) 
+
 2023-12-03 | [Porte nord d'Angkor Thom, Parc archéologique d'Angkor, Cambodge (© Amazing Travel Lifestyle/Shutterstock)](https://global.bing.com/th?id=OHR.AngkorPark_FR-CA7109393785_UHD.jpg) 
 
 2023-12-02 | [Iceberg, mer de Ross, Antarctique (© Michel Roggo/Minden Pictures)](https://global.bing.com/th?id=OHR.IcebergAntarctica_FR-CA0856401504_UHD.jpg) 
