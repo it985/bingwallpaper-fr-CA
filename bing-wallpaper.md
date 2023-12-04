@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-12-05 | [Une mère guépard et ses petits dans la réserve nationale du Masai Mara, au Kenya (© Scott Davis/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.CheetahDay_FR-CA9849641845_UHD.jpg) 
+
 2023-12-04 | [Formations rocheuses en grès, Monument national de Vermilion Cliffs, Arizona, États-Unis (© Yva Momatiuk and John Eastcott/Minden Pictures)](https://global.bing.com/th?id=OHR.VermilionCliffs_FR-CA8019740887_UHD.jpg) 
 
 2023-12-03 | [Porte nord d'Angkor Thom, Parc archéologique d'Angkor, Cambodge (© Amazing Travel Lifestyle/Shutterstock)](https://global.bing.com/th?id=OHR.AngkorPark_FR-CA7109393785_UHD.jpg) 
