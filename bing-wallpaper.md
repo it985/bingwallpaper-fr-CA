@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-12-07 | [Le siège du Globe de la science et de l'innovation, Meyrin, Suisse (© Deyan Baric/Alamy Stock Photo)](https://global.bing.com/th?id=OHR.CERNCenter_FR-CA0298339531_UHD.jpg) 
+
 2023-12-06 | [Châteaux de Neuschwanstein et de Hohenschwangau, Alpes bavaroises, Allemagne (© Harald Nachtmann/Getty Images)](https://global.bing.com/th?id=OHR.AlpsCastles_FR-CA9479125560_UHD.jpg) 
 
 2023-12-05 | [Une mère guépard et ses petits dans la réserve nationale du Masai Mara, au Kenya (© Scott Davis/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.CheetahDay_FR-CA9849641845_UHD.jpg) 
