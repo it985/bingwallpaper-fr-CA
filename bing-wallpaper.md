@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-12-10 | [Lac Minnewanka, Alberta, Canada (© Ken Phung/500px/Getty Images)](https://global.bing.com/th?id=OHR.MinnewankaLake_FR-CA8688185798_UHD.jpg) 
+
 2023-12-09 | [Guanacos, parc national Los Glaciares, Patagonie, Argentine (© Yva Momatiuk and John Eastcott/Minden Pictures)](https://global.bing.com/th?id=OHR.PatagoniaGuanaco_FR-CA8970277607_UHD.jpg) 
 
 2023-12-08 | [Un matin brumeux dans les gorges du Verdon dans les Alpes-de-Haute-Provence en France (© Hemis/Alamy)](https://global.bing.com/th?id=OHR.GrandCanyonVerdon_FR-CA0950574695_UHD.jpg) 
