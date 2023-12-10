@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-12-11 | [Derniers rayons du soleil de la journée sur des dunes, Sahara, Algérie (© AWL Images/DanitaDelimont.com)](https://global.bing.com/th?id=OHR.SaharaDunes_FR-CA1394245405_UHD.jpg) 
+
 2023-12-10 | [Lac Minnewanka, Alberta, Canada (© Ken Phung/500px/Getty Images)](https://global.bing.com/th?id=OHR.MinnewankaLake_FR-CA8688185798_UHD.jpg) 
 
 2023-12-09 | [Guanacos, parc national Los Glaciares, Patagonie, Argentine (© Yva Momatiuk and John Eastcott/Minden Pictures)](https://global.bing.com/th?id=OHR.PatagoniaGuanaco_FR-CA8970277607_UHD.jpg) 
