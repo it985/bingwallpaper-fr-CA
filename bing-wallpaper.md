@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-12-14 | [Cabanes de pêcheurs traditionnelles, Svolvaer, îles Lofoten, Norvège (© Roberto Moiola/Sysaworld/Getty Images)](https://global.bing.com/th?id=OHR.LofotenRorbu_FR-CA3353222427_UHD.jpg) 
+
 2023-12-13 | [Poinsettia rouge (© Yarygin/Getty Images)](https://global.bing.com/th?id=OHR.Poinsettia_FR-CA2984133627_UHD.jpg) 
 
 2023-12-12 | [Hiver dans les montagnes de Huangshan, Chine (© Hung Chung Chih/Shutterstock)](https://global.bing.com/th?id=OHR.MountainDayChina_FR-CA1944573919_UHD.jpg) 
