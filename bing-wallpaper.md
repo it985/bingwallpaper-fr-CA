@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-12-17 | [Maisons de guilde de la Grand-Place, Bruxelles, Belgique (© Richard Taylor/Sime/eStock Photo)](https://global.bing.com/th?id=OHR.GrandPlaceXmas_FR-CA6100089526_UHD.jpg) 
+
 2023-12-16 | [SantaPark à Rovaniemi, Laponie, Finlande (© lukutin77/Getty Images)](https://global.bing.com/th?id=OHR.SantaPark_FR-CA5919984348_UHD.jpg) 
 
 2023-12-15 | [Chouette Nyctale de Tengmalm, Saskatchewan, Canada (© Nick Saunders/Minden Pictures)](https://global.bing.com/th?id=OHR.BorealOwl_FR-CA3630029602_UHD.jpg) 
