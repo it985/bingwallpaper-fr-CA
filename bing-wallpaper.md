@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-12-21 | [Village de Val Gardena à Noël, Dolomites, Italie (© Ingus Kruklitis/Getty Images)](https://global.bing.com/th?id=OHR.ValGardenaItaly_FR-CA7284265167_UHD.jpg) 
+
 2023-12-20 | [Arbre de Noël sur la place du château, vieille ville, Varsovie, Pologne (© Panther Media GmbH/Alamy)](https://global.bing.com/th?id=OHR.WarsawChristmas_FR-CA7092278478_UHD.jpg) 
 
 2023-12-19 | [Parc national de Capitol Reef, Utah, États-Unis (© Jeff Clay/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.CapitolReefSnow_FR-CA6468080355_UHD.jpg) 
