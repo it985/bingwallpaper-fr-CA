@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-12-27 | [Lumières de Noël sur les arbres au crépuscule, Vancouver, Canada (© Stuart Dee/Getty Images)](https://global.bing.com/th?id=OHR.BoxingDayCA_FR-CA0734664319_UHD.jpg) 
+
 2023-12-26 | [Marché de Noël de Toronto dans le Distillery (© Praveen P.N/Moment/Getty Images)](https://global.bing.com/th?id=OHR.ChristmasCA_FR-CA3088980014_UHD.jpg) 
 
 2023-12-25 | [Place de l'hôtel de ville, Tartu, Estonie (© Westend61/Getty Images)](https://global.bing.com/th?id=OHR.EstoniaXmasEve_FR-CA7991687338_UHD.jpg) 
