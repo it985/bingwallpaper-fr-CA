@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-12-29 | [Baleine à bosse, baie de Disko, Groenland (© Paul Souders/DanitaDelimont.com)](https://global.bing.com/th?id=OHR.GreenlandHumpback_FR-CA8425871624_UHD.jpg) 
+
 2023-12-28 | [Kirkjufell, péninsule de Snæfellsnes, Islande (© Ratnakorn Piyasirisorost/Getty Images)](https://global.bing.com/th?id=OHR.KirkjufellAurora_FR-CA8140092219_UHD.jpg) 
 
 2023-12-27 | [Lumières de Noël sur les arbres au crépuscule, Vancouver, Canada (© Stuart Dee/Getty Images)](https://global.bing.com/th?id=OHR.BoxingDayCA_FR-CA0734664319_UHD.jpg) 
