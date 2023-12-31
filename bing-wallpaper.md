@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-01-01 | [Feux d'artifice sur Phra Nakhon Khiri, Phetchaburi, Thaïlande (© noomcpk/Shutterstock)](https://global.bing.com/th?id=OHR.ThailandNewYears_FR-CA3518368515_UHD.jpg) 
+
 2023-12-31 | [Pont de la rivière Daiichi Tadami, Fukushima, Japon (© DoctorEgg/Getty Images)](https://global.bing.com/th?id=OHR.TadamiWinter_FR-CA3172603926_UHD.jpg) 
 
 2023-12-30 | [Quartier Oud-West, Amsterdam, Pays-Bas (© George Pachantouris/Getty Images)](https://global.bing.com/th?id=OHR.BlueAmsterdam_FR-CA3010829913_UHD.jpg) 
