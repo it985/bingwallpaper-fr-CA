@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-01-22 | [Écureuil roux, Pays-Bas (© Ernst Dirksen/Minden Pictures)](https://global.bing.com/th?id=OHR.SquirrelNetherlands_FR-CA5904290241_UHD.jpg) 
+
 2024-01-21 | [Manchot gorfou doré, passage de Drake, Chili (© Paul Souders/Getty Images)](https://global.bing.com/th?id=OHR.MacaroniPenguins_FR-CA3166351888_UHD.jpg) 
 
 2024-01-20 | [Parc national des lacs de Plitvice, Croatie (© Massimo_S8/Getty Images)](https://global.bing.com/th?id=OHR.PlitviceWinter_FR-CA1797746438_UHD.jpg) 
