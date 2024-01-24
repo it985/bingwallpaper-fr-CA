@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-01-25 | [Plage de Diamant, Islande (© Rachid Dahnoun/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.IcelandBeach_FR-CA7069803263_UHD.jpg) 
+
 2024-01-24 | [Atolls de l'océan Indien, Maldives (© Amazing Aerial Premium/Shutterstock)](https://global.bing.com/th?id=OHR.MaldivesAtolls_FR-CA6454078758_UHD.jpg) 
 
 2024-01-23 | [Lever du soleil hivernal, phare de Santa Cruz, Californie, États-Unis (© Jeff Lewis/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.SantaCruzSunrise_FR-CA1920260402_UHD.jpg) 
