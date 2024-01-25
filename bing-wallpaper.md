@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-01-26 | [Un harfang des neiges sur un champ glacé, Québec, Canada (© Marco Pozzi Photographer/Moment/Getty Images)](https://global.bing.com/th?id=OHR.SnowyOwlQuebec_FR-CA3269766822_UHD.jpg) 
+
 2024-01-25 | [Plage de Diamant, Islande (© Rachid Dahnoun/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.IcelandBeach_FR-CA7069803263_UHD.jpg) 
 
 2024-01-24 | [Atolls de l'océan Indien, Maldives (© Amazing Aerial Premium/Shutterstock)](https://global.bing.com/th?id=OHR.MaldivesAtolls_FR-CA6454078758_UHD.jpg) 
