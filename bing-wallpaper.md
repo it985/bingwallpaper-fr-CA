@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-01-28 | [Palais de glace du Carnaval d’hiver de Saint Paul, Minnesota, États-Unis (© Joe Mamer Photography/Alamy)](https://global.bing.com/th?id=OHR.WinterCarnival_FR-CA8311310332_UHD.jpg) 
+
 2024-01-27 | [La chouette épervière (© Remo Savisaar/Alamy)](https://global.bing.com/th?id=OHR.HawkOwl_FR-CA2139519726_UHD.jpg) 
 
 2024-01-26 | [Un harfang des neiges sur un champ glacé, Québec, Canada (© Marco Pozzi Photographer/Moment/Getty Images)](https://global.bing.com/th?id=OHR.SnowyOwlQuebec_FR-CA3269766822_UHD.jpg) 
