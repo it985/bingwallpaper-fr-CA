@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-01-29 | [Channel Country, Outback Queensland, Australie (© Southern Lightscapes-Australia/Getty Images)](https://global.bing.com/th?id=OHR.ChannelOutback_FR-CA8543321231_UHD.jpg) 
+
 2024-01-28 | [Palais de glace du Carnaval d’hiver de Saint Paul, Minnesota, États-Unis (© Joe Mamer Photography/Alamy)](https://global.bing.com/th?id=OHR.WinterCarnival_FR-CA8311310332_UHD.jpg) 
 
 2024-01-27 | [La chouette épervière (© Remo Savisaar/Alamy)](https://global.bing.com/th?id=OHR.HawkOwl_FR-CA2139519726_UHD.jpg) 
