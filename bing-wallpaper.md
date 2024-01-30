@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-01-31 | [Ayna, Sierra del Segura, Albacete, Espagne (© Juan Maria Coy Vergara/Getty Images)](https://global.bing.com/th?id=OHR.AlbaceteSpain_FR-CA8897837933_UHD.jpg) 
+
 2024-01-30 | [Cascade de Gollinger, Tennengau, Salzbourg, Autriche (© Frank Fischbach/Alamy)](https://global.bing.com/th?id=OHR.GollingerFalls_FR-CA8735743106_UHD.jpg) 
 
 2024-01-29 | [Channel Country, Outback Queensland, Australie (© Southern Lightscapes-Australia/Getty Images)](https://global.bing.com/th?id=OHR.ChannelOutback_FR-CA8543321231_UHD.jpg) 
