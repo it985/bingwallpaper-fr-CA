@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-02-07 | [Bonsai Rock, lac Tahoe, États-Unis (© Jim Patterson/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.LakeTahoeRock_FR-CA1317270894_UHD.jpg) 
+
 2024-02-06 | [Papillons monarques, Goleta, Californie, États-Unis (© Craig Rademacher/500px/Getty Images)](https://global.bing.com/th?id=OHR.WesternMonarchs_FR-CA1142719903_UHD.jpg) 
 
 2024-02-05 | [Grotte de Devetashka, Devetaki, Bulgarie (© Jasmine_K/Shutterstock)](https://global.bing.com/th?id=OHR.DevetashkaCave_FR-CA0940185215_UHD.jpg) 
