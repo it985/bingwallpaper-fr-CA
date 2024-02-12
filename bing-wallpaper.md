@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-02-13 | [Tortues géantes, Volcan Alcedo, île d'Isabela, Galápagos, Équateur (© Tui De Roy/Minden Pictures)](https://global.bing.com/th?id=OHR.GiantTortoise_FR-CA7783159591_UHD.jpg) 
+
 2024-02-12 | [Chora, île de Folegandros, Cyclades, Grèce (© Francesco Riccardo Iacomino/Getty Images)](https://global.bing.com/th?id=OHR.FolegandrosGreece_FR-CA7633816931_UHD.jpg) 
 
 2024-02-11 | [Défilé du Nouvel An chinois, Vancouver, Colombie-Britannique, Canada (© Michael Wheatley/Alamy Stock Photo)](https://global.bing.com/th?id=OHR.ChineseNYParade_FR-CA8478352341_UHD.jpg) 
