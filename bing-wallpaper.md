@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-02-17 | [Oiseau cardinal pyrrhuloxia perché sur un cactus épineux au Texas, États-Unis (© outtakes/Getty Images)](https://global.bing.com/th?id=OHR.BackyardBird_FR-CA2494607716_UHD.jpg) 
+
 2024-02-16 | [Mère hippopotame et son petit, parc national de South Luangwa, Zambie (© Nature Picture Library/Alamy)](https://global.bing.com/th?id=OHR.HippopotamusDay_FR-CA8953449236_UHD.jpg) 
 
 2024-02-15 | [Grue du Japon s'inclinant devant son compagnon à Hokkaido, Japon (© Steve Bloom Images/Alamy)](https://global.bing.com/th?id=OHR.BowingCrane_FR-CA8809114758_UHD.jpg) 
