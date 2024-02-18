@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-02-19 | [Maisons colorées, Puerto de la Cruz, Tenerife, Espagne (© Marco Bottigelli/Getty Images)](https://global.bing.com/th?id=OHR.CarnavalTenerife_FR-CA9707802936_UHD.jpg) 
+
 2024-02-18 | [Phare de Sassnitz, Rügen, Mecklembourg-Poméranie-Occidentale,  Allemagne (© Christian Back/eStock)](https://global.bing.com/th?id=OHR.HalbinselJasmund_FR-CA9499898672_UHD.jpg) 
 
 2024-02-17 | [Oiseau cardinal pyrrhuloxia perché sur un cactus épineux au Texas, États-Unis (© outtakes/Getty Images)](https://global.bing.com/th?id=OHR.BackyardBird_FR-CA2494607716_UHD.jpg) 
