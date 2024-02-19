@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-02-20 | [Groupe de  grand cachalots, île de la Dominique (© Franco Banfi/Minden Pictures)](https://global.bing.com/th?id=OHR.DominicaWhales_FR-CA0090567562_UHD.jpg) 
+
 2024-02-19 | [Maisons colorées, Puerto de la Cruz, Tenerife, Espagne (© Marco Bottigelli/Getty Images)](https://global.bing.com/th?id=OHR.CarnavalTenerife_FR-CA9707802936_UHD.jpg) 
 
 2024-02-18 | [Phare de Sassnitz, Rügen, Mecklembourg-Poméranie-Occidentale,  Allemagne (© Christian Back/eStock)](https://global.bing.com/th?id=OHR.HalbinselJasmund_FR-CA9499898672_UHD.jpg) 
