@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-02-22 | [Cascade de feu Horsetail Fall, parc national de Yosemite, Californie, États-Unis (© Gregory B Cuvelier/Shutterstock)](https://global.bing.com/th?id=OHR.YosemiteFirefall_FR-CA1268289009_UHD.jpg) 
+
 2024-02-21 | [Sommet de Kinder Scout, Parc national du Peak District, Royaume-Uni (© john finney photography/Getty Images)](https://global.bing.com/th?id=OHR.PeakDistrictNP_FR-CA0904353347_UHD.jpg) 
 
 2024-02-20 | [Groupe de  grand cachalots, île de la Dominique (© Franco Banfi/Minden Pictures)](https://global.bing.com/th?id=OHR.DominicaWhales_FR-CA0090567562_UHD.jpg) 
