@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-02-24 | [Monastère de Haghartsin, parc national de Dilijan, Arménie (© Alexey Kharitonov/Shutterstock)](https://global.bing.com/th?id=OHR.HaghartsinMonastery_FR-CA8430145744_UHD.jpg) 
+
 2024-02-23 | [Cabines de bain, Brighton Beach, Melbourne, Victoria, Australie (© Prasit photo/Getty Images)](https://global.bing.com/th?id=OHR.BrightonBoxes_FR-CA2737885031_UHD.jpg) 
 
 2024-02-22 | [Cascade de feu Horsetail Fall, parc national de Yosemite, Californie, États-Unis (© Gregory B Cuvelier/Shutterstock)](https://global.bing.com/th?id=OHR.YosemiteFirefall_FR-CA1268289009_UHD.jpg) 
