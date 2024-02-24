@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-02-25 | [Amandiers en fleurs, Californie, États-Unis (© Jeffrey Lewis/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.AlmondBloom_FR-CA8709971386_UHD.jpg) 
+
 2024-02-24 | [Monastère de Haghartsin, parc national de Dilijan, Arménie (© Alexey Kharitonov/Shutterstock)](https://global.bing.com/th?id=OHR.HaghartsinMonastery_FR-CA8430145744_UHD.jpg) 
 
 2024-02-23 | [Cabines de bain, Brighton Beach, Melbourne, Victoria, Australie (© Prasit photo/Getty Images)](https://global.bing.com/th?id=OHR.BrightonBoxes_FR-CA2737885031_UHD.jpg) 
