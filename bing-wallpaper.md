@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-02-26 | [Brume dans la vallée de Cowichan depuis le mont Prevost, Duncan, île de Vancouver, Colombie-Britannique, Canada (© Kevin Oke/Alamy)](https://global.bing.com/th?id=OHR.MtPrevostDuncan_FR-CA9746512592_UHD.jpg) 
+
 2024-02-25 | [Amandiers en fleurs, Californie, États-Unis (© Jeffrey Lewis/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.AlmondBloom_FR-CA8709971386_UHD.jpg) 
 
 2024-02-24 | [Monastère de Haghartsin, parc national de Dilijan, Arménie (© Alexey Kharitonov/Shutterstock)](https://global.bing.com/th?id=OHR.HaghartsinMonastery_FR-CA8430145744_UHD.jpg) 
