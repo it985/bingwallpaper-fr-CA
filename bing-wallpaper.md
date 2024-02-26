@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-02-27 | [Parc national du Grand Canyon, Arizona, États-Unis (© Jeremy Janus/Getty Images)](https://global.bing.com/th?id=OHR.GrandCanyonWinter_FR-CA9977236278_UHD.jpg) 
+
 2024-02-26 | [Brume dans la vallée de Cowichan depuis le mont Prevost, Duncan, île de Vancouver, Colombie-Britannique, Canada (© Kevin Oke/Alamy)](https://global.bing.com/th?id=OHR.MtPrevostDuncan_FR-CA9746512592_UHD.jpg) 
 
 2024-02-25 | [Amandiers en fleurs, Californie, États-Unis (© Jeffrey Lewis/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.AlmondBloom_FR-CA8709971386_UHD.jpg) 
