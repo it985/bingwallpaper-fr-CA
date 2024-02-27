@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-02-28 | [Oursons polaires, Kaktovik, Alaska, États-Unis (© Piriya Photography/Getty Images)](https://global.bing.com/th?id=OHR.PolarBearCubs_FR-CA0127528639_UHD.jpg) 
+
 2024-02-27 | [Parc national du Grand Canyon, Arizona, États-Unis (© Jeremy Janus/Getty Images)](https://global.bing.com/th?id=OHR.GrandCanyonWinter_FR-CA9977236278_UHD.jpg) 
 
 2024-02-26 | [Brume dans la vallée de Cowichan depuis le mont Prevost, Duncan, île de Vancouver, Colombie-Britannique, Canada (© Kevin Oke/Alamy)](https://global.bing.com/th?id=OHR.MtPrevostDuncan_FR-CA9746512592_UHD.jpg) 
