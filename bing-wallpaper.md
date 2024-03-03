@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-03-04 | [Léopard perché sur un arbre, Parc national Kruger, Afrique du Sud (© Tonino De Marco/Minden Pictures)](https://global.bing.com/th?id=OHR.KrugerLeopard_FR-CA5062998133_UHD.jpg) 
+
 2024-03-03 | [Modica, Sicile, Italie (© Sandro Bisaro/Getty Images)](https://global.bing.com/th?id=OHR.ModicaItaly_FR-CA4861122152_UHD.jpg) 
 
 2024-03-02 | [Coucher de soleil sur la rivière glacée Wheaton, Yukon, Canada (© Robert Postma/All Canada Photos/Alamy Stock Photo)](https://global.bing.com/th?id=OHR.WheatonRiverYukon_FR-CA1750282426_UHD.jpg) 
