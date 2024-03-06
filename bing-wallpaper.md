@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-03-07 | [Cascade de Wahclella dans les gorges du fleuve Columbia, Oregon, États-Unis (© Eric Vogt/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.WahclellaFalls_FR-CA5508571587_UHD.jpg) 
+
 2024-03-06 | [Rond-point et autoroute à Bangkok, Thaïlande (© Avigator Fortuner/Shutterstock)](https://global.bing.com/th?id=OHR.BangkokCircle_FR-CA5359064809_UHD.jpg) 
 
 2024-03-05 | [Volcan Arenal observé depuis Monteverde, Costa Rica (© Lukas Bischoff/Getty Images)](https://global.bing.com/th?id=OHR.ArenalCostaRica_FR-CA5199908591_UHD.jpg) 
