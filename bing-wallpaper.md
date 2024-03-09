@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-03-10 | [Bisti/De-Na-Zin Wilderness Area, New Mexico (© Ian Shive/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.BistiBlue_FR-CA0558895041_UHD.jpg) 
+
 2024-03-09 | [Musée Tate Modern illuminé à l'occasion de la Journée internationale des femmes, Londres, Angleterre (© Stephen Chung/Alamy Stock Photo)](https://global.bing.com/th?id=OHR.TateLightUp_FR-CA0620263799_UHD.jpg) 
 
 2024-03-08 | [Roques de Benet, parc naturel Els Ports, Catalogne, Espagne (© Sergi Boixader/Alamy)](https://global.bing.com/th?id=OHR.TarragonaSpain_FR-CA5706201102_UHD.jpg) 
