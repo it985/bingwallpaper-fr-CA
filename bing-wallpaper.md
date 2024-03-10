@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-03-11 | [Horloge de San Jacinto, Beaumont, Texas, États-Unis (© Richard T. Nowitz/Getty Images)](https://global.bing.com/th?id=OHR.BeaumontClock_FR-CA7147166599_UHD.jpg) 
+
 2024-03-10 | [Bisti/De-Na-Zin Wilderness Area, New Mexico (© Ian Shive/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.BistiBlue_FR-CA0558895041_UHD.jpg) 
 
 2024-03-09 | [Musée Tate Modern illuminé à l'occasion de la Journée internationale des femmes, Londres, Angleterre (© Stephen Chung/Alamy Stock Photo)](https://global.bing.com/th?id=OHR.TateLightUp_FR-CA0620263799_UHD.jpg) 
