@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-03-13 | [Parc national de Bryce Canyon, Utah, États-Unis (© Jim Patterson/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.BryceSnow_FR-CA7821881640_UHD.jpg) 
+
 2024-03-12 | [Un koala dormant sur un Eucalyptus, Australie (© Anton Rogozin/Getty Images)](https://global.bing.com/th?id=OHR.SleepyKoala_FR-CA7476339707_UHD.jpg) 
 
 2024-03-11 | [Horloge de San Jacinto, Beaumont, Texas, États-Unis (© Richard T. Nowitz/Getty Images)](https://global.bing.com/th?id=OHR.BeaumontClock_FR-CA7147166599_UHD.jpg) 
