@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-03-16 | [Champs de tulipes dans la vallée du Fraser, Abbotsford, Colombie-Britannique, Canada (© LeonU/Getty Images)](https://global.bing.com/th?id=OHR.TulipAbbotsford_FR-CA8483080928_UHD.jpg) 
+
 2024-03-15 | [Wat Phra Ngam, Parc d'Ayutthaya, Thaïlande (© boonchai wedmakawand/Alamy)](https://global.bing.com/th?id=OHR.AyutthayaTree_FR-CA8197796278_UHD.jpg) 
 
 2024-03-14 | [Flamants nains survolant le lac Magadi, Kenya (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](https://global.bing.com/th?id=OHR.MagadiFlamingos_FR-CA8007407387_UHD.jpg) 
