@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-03-25 | [Zostérops du Japon sur une branche de cerisier en fleur, Corée du Sud (© TigerSeo/Getty Images)](https://global.bing.com/th?id=OHR.WhiteEyes_FR-CA7033584242_UHD.jpg) 
+
 2024-03-24 | [Gros nuages en forme d'enclume au-dessus de l'Amazonie au Brésil (© NASA)](https://global.bing.com/th?id=OHR.AmazonClouds_FR-CA6891060570_UHD.jpg) 
 
 2024-03-23 | [Blue Spring, sentier de Te Waihou, Nouvelle-Zélande (© Ian Beattie/Alamy)](https://global.bing.com/th?id=OHR.WaikatoWater_FR-CA6553276729_UHD.jpg) 
