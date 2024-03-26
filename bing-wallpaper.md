@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-03-27 | [Eau de mer en cascade sur un ancien récif corallien, Hang Rai, Vietnam (© Thang Tat Nguyen/Getty Images)](https://global.bing.com/th?id=OHR.HangRaiVietnam_FR-CA7557188364_UHD.jpg) 
+
 2024-03-26 | [Fête des couleurs de Holi, Inde (© Avishek Das/SOPA Images/LightRocket via Getty Images)](https://global.bing.com/th?id=OHR.ColorfulHoli_FR-CA7316925467_UHD.jpg) 
 
 2024-03-25 | [Zostérops du Japon sur une branche de cerisier en fleur, Corée du Sud (© TigerSeo/Getty Images)](https://global.bing.com/th?id=OHR.WhiteEyes_FR-CA7033584242_UHD.jpg) 
