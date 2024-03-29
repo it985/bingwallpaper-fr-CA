@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-03-30 | [Phare de South Stack au coucher du soleil, Holyhead, Pays de Galles, Royaume-Uni (© mariotlr/Getty Images)](https://global.bing.com/th?id=OHR.SouthStackLight_FR-CA8578540293_UHD.jpg) 
+
 2024-03-29 | [Cerisiers en fleurs à Shanghai, Chine (© Yaorusheng/Getty Images)](https://global.bing.com/th?id=OHR.ShanghaiBlossoms_FR-CA8071376466_UHD.jpg) 
 
 2024-03-28 | [Théâtre Colón à Buenos Aires, Argentine (© Wei Hao Ho/Alamy)](https://global.bing.com/th?id=OHR.TeatroColon_FR-CA7881984396_UHD.jpg) 
