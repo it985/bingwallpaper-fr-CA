@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-04-01 | [Œufs de Pâques réalisés par Tünde Csuhaj, Szekszárd, Hongrie (© ATTILA KISBENEDEK/AFP/Getty Images)](https://global.bing.com/th?id=OHR.HungarianEggs_FR-CA5727463691_UHD.jpg) 
+
 2024-03-31 | [Paresseux à gorge brune dormant dans un arbre cécropia, Costa Rica (© Juan Carlos Vindas/Getty Images)](https://global.bing.com/th?id=OHR.SleepySloth_FR-CA3957487793_UHD.jpg) 
 
 2024-03-30 | [Phare de South Stack au coucher du soleil, Holyhead, Pays de Galles, Royaume-Uni (© mariotlr/Getty Images)](https://global.bing.com/th?id=OHR.SouthStackLight_FR-CA8578540293_UHD.jpg) 
