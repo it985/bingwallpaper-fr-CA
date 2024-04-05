@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-04-06 | [Les Bahamas vues depuis la Station spatiale internationale (© NASA)](https://global.bing.com/th?id=OHR.BahamasSpace_FR-CA0789976801_UHD.jpg) 
+
 2024-04-05 | [Troupeau de cobes de lechwe rouge traversant la plaine marécageuse du delta de l'Okavango, Botswana (© Ibrahim Suha Derbent/Getty Images)](https://global.bing.com/th?id=OHR.AntelopeBotswana_FR-CA7386810053_UHD.jpg) 
 
 2024-04-04 | [Îles Broken Group, réserve de parc national Pacific Rim, île de Vancouver, Colombie-Britannique (© Ron Watts/Design Pics/Getty Images)](https://global.bing.com/th?id=OHR.PacificRimNationalPark_FR-CA2619127702_UHD.jpg) 
