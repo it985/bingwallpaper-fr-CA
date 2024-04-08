@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-04-09 | [Éclipse solaire totale photographiée depuis Madras, Oregon, États-Unis, le 21 août 2017 (© NASA/Aubrey Gemignani)](https://global.bing.com/th?id=OHR.SolarEclipseOregon_FR-CA1333886943_UHD.jpg) 
+
 2024-04-08 | [Castor du Canada dans un étang près du lac Wonder, parc national de Denali, Alaska, États-Unis (© Paul Souders/Getty Images)](https://global.bing.com/th?id=OHR.BeaverDenali_FR-CA1157056211_UHD.jpg) 
 
 2024-04-07 | [Château de Himeji, Hyōgo, Japon (© Julian Elliott Photography/Getty Images)](https://global.bing.com/th?id=OHR.JapanHimeji_FR-CA0973604796_UHD.jpg) 
