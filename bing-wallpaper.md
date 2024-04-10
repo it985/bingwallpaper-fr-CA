@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-04-11 | [Oisillons de chevêches des terriers, Wyoming, États-Unis (© Danita Delimont/Getty Images)](https://global.bing.com/th?id=OHR.OwlSiblings_FR-CA1744834969_UHD.jpg) 
+
 2024-04-10 | [Massif montagneux de Whistler, Colombie-Britannique, Canada (© Insight Photography/Design Pics/Getty Images)](https://global.bing.com/th?id=OHR.WhistlerWSSF_FR-CA7628245051_UHD.jpg) 
 
 2024-04-09 | [Éclipse solaire totale photographiée depuis Madras, Oregon, États-Unis, le 21 août 2017 (© NASA/Aubrey Gemignani)](https://global.bing.com/th?id=OHR.SolarEclipseOregon_FR-CA1333886943_UHD.jpg) 
