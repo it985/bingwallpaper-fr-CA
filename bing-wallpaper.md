@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-04-14 | [Cerisiers en fleur, parc Queen Elizabeth, Vancouver, Canada (© Yun Han Xu/Moment Open/Getty Images)](https://global.bing.com/th?id=OHR.SakuraDaysJapanFair_FR-CA3620667456_UHD.jpg) 
+
 2024-04-13 | [Lumière du soir sur la North Window avec l'arche Turret en fond, Parc national des Arches, Utah, États-Unis (© Anthony Heflin/Shutterstock)](https://global.bing.com/th?id=OHR.SunsetArchesNP_FR-CA2562295831_UHD.jpg) 
 
 2024-04-12 | [Vue aérienne de la cascade de Churun-Meru, Venezuela (© AirPano LLC/Amazing Aerial Agency)](https://global.bing.com/th?id=OHR.DragonWaterfall_FR-CA2237979317_UHD.jpg) 
