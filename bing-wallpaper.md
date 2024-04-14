@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-04-15 | [Coucher de soleil sur la plage de Bowling Ball, Californie, États-Unis (© Melo Qiao/Getty Images)](https://global.bing.com/th?id=OHR.BowlingBallCali_FR-CA3180115250_UHD.jpg) 
+
 2024-04-14 | [Cerisiers en fleur, parc Queen Elizabeth, Vancouver, Canada (© Yun Han Xu/Moment Open/Getty Images)](https://global.bing.com/th?id=OHR.SakuraDaysJapanFair_FR-CA3620667456_UHD.jpg) 
 
 2024-04-13 | [Lumière du soir sur la North Window avec l'arche Turret en fond, Parc national des Arches, Utah, États-Unis (© Anthony Heflin/Shutterstock)](https://global.bing.com/th?id=OHR.SunsetArchesNP_FR-CA2562295831_UHD.jpg) 
