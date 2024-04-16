@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-04-17 | [Union Square dans le sud de Manhattan au crépuscule, New York, États-Unis (© Sean Pavone/Getty Images)](https://global.bing.com/th?id=OHR.UnionSquareNYC_FR-CA3734243880_UHD.jpg) 
+
 2024-04-16 | [Le RedBall Project, œuvre d’art itinérante, Gare centrale, Anvers, Belgique (© Brit Worgan/Getty Images)](https://global.bing.com/th?id=OHR.RedBallBelgium_FR-CA3335673645_UHD.jpg) 
 
 2024-04-15 | [Coucher de soleil sur la plage de Bowling Ball, Californie, États-Unis (© Melo Qiao/Getty Images)](https://global.bing.com/th?id=OHR.BowlingBallCali_FR-CA3180115250_UHD.jpg) 
