@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-04-18 | [Ours noir, Parc national de Shenandoah, Virginie, États-Unis (© Scott Suriano/Getty Images)](https://global.bing.com/th?id=OHR.SpringCub_FR-CA3908165398_UHD.jpg) 
+
 2024-04-17 | [Union Square dans le sud de Manhattan au crépuscule, New York, États-Unis (© Sean Pavone/Getty Images)](https://global.bing.com/th?id=OHR.UnionSquareNYC_FR-CA3734243880_UHD.jpg) 
 
 2024-04-16 | [Le RedBall Project, œuvre d’art itinérante, Gare centrale, Anvers, Belgique (© Brit Worgan/Getty Images)](https://global.bing.com/th?id=OHR.RedBallBelgium_FR-CA3335673645_UHD.jpg) 
