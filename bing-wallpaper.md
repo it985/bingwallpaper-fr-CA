@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-04-19 | [La muraille d'Avila, Espagne (© Alberto Loyo/Getty Images)](https://global.bing.com/th?id=OHR.AvilaSpain_FR-CA4092310846_UHD.jpg) 
+
 2024-04-18 | [Ours noir, Parc national de Shenandoah, Virginie, États-Unis (© Scott Suriano/Getty Images)](https://global.bing.com/th?id=OHR.SpringCub_FR-CA3908165398_UHD.jpg) 
 
 2024-04-17 | [Union Square dans le sud de Manhattan au crépuscule, New York, États-Unis (© Sean Pavone/Getty Images)](https://global.bing.com/th?id=OHR.UnionSquareNYC_FR-CA3734243880_UHD.jpg) 
