@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-04-20 | [Le cercle de Brodgar, Orcades, Écosse (© Paul Williams - FunkyStock/Getty Images)](https://global.bing.com/th?id=OHR.OrkneyStones_FR-CA2648833702_UHD.jpg) 
+
 2024-04-19 | [La muraille d'Avila, Espagne (© Alberto Loyo/Getty Images)](https://global.bing.com/th?id=OHR.AvilaSpain_FR-CA4092310846_UHD.jpg) 
 
 2024-04-18 | [Ours noir, Parc national de Shenandoah, Virginie, États-Unis (© Scott Suriano/Getty Images)](https://global.bing.com/th?id=OHR.SpringCub_FR-CA3908165398_UHD.jpg) 
