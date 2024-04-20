@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-04-21 | [Le Grand Prismatic Spring au lever du soleil, parc national de Yellowstone, Wyoming, États-Unis (© XIN WANG/Getty Images)](https://global.bing.com/th?id=OHR.YellowstoneGeyser_FR-CA2850692513_UHD.jpg) 
+
 2024-04-20 | [Le cercle de Brodgar, Orcades, Écosse (© Paul Williams - FunkyStock/Getty Images)](https://global.bing.com/th?id=OHR.OrkneyStones_FR-CA2648833702_UHD.jpg) 
 
 2024-04-19 | [La muraille d'Avila, Espagne (© Alberto Loyo/Getty Images)](https://global.bing.com/th?id=OHR.AvilaSpain_FR-CA4092310846_UHD.jpg) 
