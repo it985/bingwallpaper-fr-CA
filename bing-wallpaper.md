@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-04-25 | [Floraison du trille blanc, Ontario, Canada (© Jun Zhang/Getty Images)](https://global.bing.com/th?id=OHR.TrilliumOntario_FR-CA4403342038_UHD.jpg) 
+
 2024-04-24 | [Bibliothèque du Trinity College de Dublin, Irlande (© Lukas Bischoff/Getty Images)](https://global.bing.com/th?id=OHR.TrinityDublin_FR-CA3633491688_UHD.jpg) 
 
 2024-04-23 | [Tortue verte, San Diego, Californie, États-Unis (© Ralph Pace/Minden Pictures)](https://global.bing.com/th?id=OHR.EarthDayTurtle_FR-CA3475454635_UHD.jpg) 
