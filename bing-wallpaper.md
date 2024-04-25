@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-04-26 | [Manchots Adélie sur un iceberg, Antarctique (© Patrick J. Endres/Getty Images)](https://global.bing.com/th?id=OHR.PenguinDirections_FR-CA4681563133_UHD.jpg) 
+
 2024-04-25 | [Floraison du trille blanc, Ontario, Canada (© Jun Zhang/Getty Images)](https://global.bing.com/th?id=OHR.TrilliumOntario_FR-CA4403342038_UHD.jpg) 
 
 2024-04-24 | [Bibliothèque du Trinity College de Dublin, Irlande (© Lukas Bischoff/Getty Images)](https://global.bing.com/th?id=OHR.TrinityDublin_FR-CA3633491688_UHD.jpg) 
