@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-04-29 | [El Capitan au lever du soleil, parc national des Guadalupe Mountains, Texas, États-Unis (© Adam Mowery/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.GuadalupeTexas_FR-CA6892889668_UHD.jpg) 
+
 2024-04-28 | [Colibri d'Anna leucistique, UC Santa Cruz Arboretum, Californie, États-Unis (© yhelfman/Getty Images)](https://global.bing.com/th?id=OHR.LeucisticHummingbird_FR-CA6720640063_UHD.jpg) 
 
 2024-04-27 | [Misool, îles Raja Ampat, Indonésie (© Giordano Cipriani/Getty Images)](https://global.bing.com/th?id=OHR.MisoolRajaAmpat_FR-CA9927295128_UHD.jpg) 
