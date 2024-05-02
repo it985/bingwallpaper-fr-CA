@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-05-03 | [Coulée de lave du Dragon Bleu, Monument national des Cratères de la Lune, Idaho, États-Unis (© Alan Majchrowicz/Getty Images)](https://global.bing.com/th?id=OHR.CratersOfTheMoon_FR-CA7743730484_UHD.jpg) 
+
 2024-05-02 | [Colliers de fleurs hawaïens (© Jotika Pun/Shutterstock)](https://global.bing.com/th?id=OHR.HawaiianLei_FR-CA7527008794_UHD.jpg) 
 
 2024-05-01 | [Guépard sous la pluie, plaines de Ndutu, zone de conservation du Ngorongoro, Tanzanie (© Paul Souders/Getty Images)](https://global.bing.com/th?id=OHR.CheetahRain_FR-CA7368056327_UHD.jpg) 
