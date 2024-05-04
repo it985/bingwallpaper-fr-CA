@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-05-05 | [Ruines d'un ancien monastère sur l'île de Skellig Michael, Irlande (© MNStudio/Getty Images)](https://global.bing.com/th?id=OHR.JediMonastery_FR-CA8250479860_UHD.jpg) 
+
 2024-05-04 | [Encelia farinose en fleur dans le désert de Sonora, Arizona, États-Unis (© Charles Harker/Getty Images)](https://global.bing.com/th?id=OHR.SonoranSpring_FR-CA8061697646_UHD.jpg) 
 
 2024-05-03 | [Coulée de lave du Dragon Bleu, Monument national des Cratères de la Lune, Idaho, États-Unis (© Alan Majchrowicz/Getty Images)](https://global.bing.com/th?id=OHR.CratersOfTheMoon_FR-CA7743730484_UHD.jpg) 
