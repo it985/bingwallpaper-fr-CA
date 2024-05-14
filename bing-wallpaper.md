@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-05-15 | [Parc national des grottes de Carlsbad, Nouveau-Mexique, États-Unis (© Doug Meek/Getty Images)](https://global.bing.com/th?id=OHR.CarlsbadNP_FR-CA2715604410_UHD.jpg) 
+
 2024-05-14 | [Canyon de la rivière Fish, Namibie (© R. M. Nunes/Getty Images)](https://global.bing.com/th?id=OHR.NamibiaCanyon_FR-CA2544302315_UHD.jpg) 
 
 2024-05-13 | [Guanaco femelle et son nouveau-né dans une prairie, province de La Pampa, Argentine (© Gabriel Rojo/Minden Pictures)](https://global.bing.com/th?id=OHR.GuanacoMother_FR-CA2387509434_UHD.jpg) 
