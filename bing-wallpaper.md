@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-05-19 | [Squelette de baleine bleue appelé Hope, Natural History Museum, Londres, Angleterre (© Bailey-Cooper Photography/Alamy)](https://global.bing.com/th?id=OHR.MuseumWhale_FR-CA3327752142_UHD.jpg) 
+
 2024-05-18 | [Une famille d'éléphants d'Afrique dans le parc national de Tarangire, en Tanzanie (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](https://global.bing.com/th?id=OHR.TarangireElephants_FR-CA3165126231_UHD.jpg) 
 
 2024-05-17 | [Œuvre « Feelings Are Facts », par l'artiste Olafur Eliasson et l'architecte Ma Yansong, Pékin, Chine (© Feng Li/Getty Images News)](https://global.bing.com/th?id=OHR.DayOfLight_FR-CA3074317909_UHD.jpg) 
