@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-05-22 | [Plantation de thé des Cameron Highlands, Malaisie (© alex cheong/Getty Images)](https://global.bing.com/th?id=OHR.MalaysiaTea_FR-CA5434995282_UHD.jpg) 
+
 2024-05-21 | [Colline du Parlement à Ottawa, Ontario (© f11photo/iStock/Getty Images)](https://global.bing.com/th?id=OHR.OttawaParliamentHill_FR-CA4060254535_UHD.jpg) 
 
 2024-05-20 | [Village de Vernazza, Cinque Terre, Ligurie, Italie (© Roberto Moiola/Sysaworld/Getty Images)](https://global.bing.com/th?id=OHR.VernazzaItaly_FR-CA3474515912_UHD.jpg) 
