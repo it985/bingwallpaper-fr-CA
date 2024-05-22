@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-05-23 | [Eucalyptus coccifera, parc national de Mount Field, Tasmanie, Australie (© Ignacio Palacios/Getty Images)](https://global.bing.com/th?id=OHR.SnowGumTasmania_FR-CA2594506577_UHD.jpg) 
+
 2024-05-22 | [Plantation de thé des Cameron Highlands, Malaisie (© alex cheong/Getty Images)](https://global.bing.com/th?id=OHR.MalaysiaTea_FR-CA5434995282_UHD.jpg) 
 
 2024-05-21 | [Colline du Parlement à Ottawa, Ontario (© f11photo/iStock/Getty Images)](https://global.bing.com/th?id=OHR.OttawaParliamentHill_FR-CA4060254535_UHD.jpg) 
