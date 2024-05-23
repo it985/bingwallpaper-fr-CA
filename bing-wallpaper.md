@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-05-24 | [Tortue étoilée d’Inde, Sri Lanka (© Robin Chittenden/Minden Pictures)](https://global.bing.com/th?id=OHR.IndianStarTortoise_FR-CA2789408116_UHD.jpg) 
+
 2024-05-23 | [Eucalyptus coccifera, parc national de Mount Field, Tasmanie, Australie (© Ignacio Palacios/Getty Images)](https://global.bing.com/th?id=OHR.SnowGumTasmania_FR-CA2594506577_UHD.jpg) 
 
 2024-05-22 | [Plantation de thé des Cameron Highlands, Malaisie (© alex cheong/Getty Images)](https://global.bing.com/th?id=OHR.MalaysiaTea_FR-CA5434995282_UHD.jpg) 
