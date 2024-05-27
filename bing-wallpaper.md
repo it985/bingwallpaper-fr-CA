@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-05-28 | [Réserve du parc national de l'Archipel-de-Mingan, Québec, Canada (© Instants/E+/Getty Images)](https://global.bing.com/th?id=OHR.MinganArchipelago_FR-CA4238646022_UHD.jpg) 
+
 2024-05-27 | [Balsamorhize à feuilles sagittées et lupins, Methow Valley, North Cascades, Washington, États-Unis (© Alan Majchrowicz/Getty Images)](https://global.bing.com/th?id=OHR.MethowWildflowers_FR-CA3284491612_UHD.jpg) 
 
 2024-05-26 | [Ksar d’Aït Benhaddou, Maroc (© Grant Faint/Getty Images)](https://global.bing.com/th?id=OHR.MoroccoBenhaddou_FR-CA3142021399_UHD.jpg) 
