@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-06-02 | [Hôtel de ville illuminé pour la San Francisco Pride, Californie, États-Unis (© Josh Edelson/AFP via Getty Images)](https://global.bing.com/th?id=OHR.PrideMonthSF_FR-CA1534901831_UHD.jpg) 
+
 2024-06-01 | [Gunnerside, Swaledale, Parc national des Yorkshire Dales, Angleterre (© Derek Croucher/Alamy)](https://global.bing.com/th?id=OHR.YorkshireDalesNP_FR-CA1216487634_UHD.jpg) 
 
 2024-05-31 | [Pins sylvestres, parc national des Everglades, Floride, États-Unis (© Jonathan Gewirtz/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.Everglades90th_FR-CA4007437491_UHD.jpg) 
