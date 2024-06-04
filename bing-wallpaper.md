@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-06-05 | [Guêpiers de Leschenault, Parc National de Bardia, Népal (© PACO COMO/Shutterstock)](https://global.bing.com/th?id=OHR.ChestnutBeeEater_FR-CA1993337218_UHD.jpg) 
+
 2024-06-04 | [Vélos à Copenhague, Danemark (© Alphotographic/Getty Images)](https://global.bing.com/th?id=OHR.CopenhagenBicycles_FR-CA1813399714_UHD.jpg) 
 
 2024-06-03 | [Colibri d'Anna femelle, Canada (© Devonyu/iStock/Getty Images)](https://global.bing.com/th?id=OHR.Annahummingbird_FR-CA8241563855_UHD.jpg) 
