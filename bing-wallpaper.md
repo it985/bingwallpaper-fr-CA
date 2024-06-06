@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-06-07 | [Monument Les Braves à Omaha Beach, Saint-Laurent-sur-Mer, Normandie (© Christopher Furlong/Getty Images)](https://global.bing.com/th?id=OHR.LesBravesNormandy_FR-CA2574694176_UHD.jpg) 
+
 2024-06-06 | [Parc National de Masoala à Madagascar (© Dennis van de Water/Shutterstock)](https://global.bing.com/th?id=OHR.MadagascarRiver_FR-CA2420761329_UHD.jpg) 
 
 2024-06-05 | [Guêpiers de Leschenault, Parc National de Bardia, Népal (© PACO COMO/Shutterstock)](https://global.bing.com/th?id=OHR.ChestnutBeeEater_FR-CA1993337218_UHD.jpg) 
