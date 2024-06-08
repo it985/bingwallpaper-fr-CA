@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-06-09 | [Skyline du centre-ville de Montréal, Québec, Canada (© benedek/E+/Getty Images)](https://global.bing.com/th?id=OHR.CanadianGP_FR-CA8468216905_UHD.jpg) 
+
 2024-06-08 | [Famille de baleines à bosse, Dutch Harbor, Alaska, États-Unis (© Jude Newkirk/Amazing Aerial Agency)](https://global.bing.com/th?id=OHR.HumpbackFamily_FR-CA2761557723_UHD.jpg) 
 
 2024-06-07 | [Monument Les Braves à Omaha Beach, Saint-Laurent-sur-Mer, Normandie (© Christopher Furlong/Getty Images)](https://global.bing.com/th?id=OHR.LesBravesNormandy_FR-CA2574694176_UHD.jpg) 
