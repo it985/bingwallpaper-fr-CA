@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-06-16 | [Surfeur sur une vague à Nazaré, Portugal (© Rui Caria/Getty Images)](https://global.bing.com/th?id=OHR.NazareWave_FR-CA8385614407_UHD.jpg) 
+
 2024-06-15 | [Phare de Peggy's Cove, Nouvelle-Écosse (© Pugalenthi/Getty Images)](https://global.bing.com/th?id=OHR.PeggysCove_FR-CA8227992158_UHD.jpg) 
 
 2024-06-14 | [Façade en mosaïque sur la place Registan, Samarkand, Ouzbékistan (© da-kuk/Getty Images)](https://global.bing.com/th?id=OHR.RegistanUzbekistan_FR-CA6306584690_UHD.jpg) 
