@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-06-17 | [Renard roux mâle et son renardeau, Washington, États-Unis (© Chase Dekker/Minden Pictures)](https://global.bing.com/th?id=OHR.RedFoxDad_FR-CA8573396547_UHD.jpg) 
+
 2024-06-16 | [Surfeur sur une vague à Nazaré, Portugal (© Rui Caria/Getty Images)](https://global.bing.com/th?id=OHR.NazareWave_FR-CA8385614407_UHD.jpg) 
 
 2024-06-15 | [Phare de Peggy's Cove, Nouvelle-Écosse (© Pugalenthi/Getty Images)](https://global.bing.com/th?id=OHR.PeggysCove_FR-CA8227992158_UHD.jpg) 
