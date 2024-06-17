@@ -17,7 +17,7 @@
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
-            <version>2.0.20.graal</version>
+            <version>2.0.51</version>
         </dependency>
     </dependencies>
 
