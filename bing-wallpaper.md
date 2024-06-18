@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-06-19 | [Champs de lupins et église au lever du soleil, péninsule de Snæfellsnes, Islande (© Matteo Colombo/Getty Images)](https://global.bing.com/th?id=OHR.LupinIceland_FR-CA9374842030_UHD.jpg) 
+
 2024-06-18 | [Colibri Brillant fer-de-lance près d’un chardon aux ânes, Cerro de la Muerte, Costa Rica (© adrian hepworth/Alamy)](https://global.bing.com/th?id=OHR.HummingThistle_FR-CA8782540465_UHD.jpg) 
 
 2024-06-17 | [Renard roux mâle et son renardeau, Washington, États-Unis (© Chase Dekker/Minden Pictures)](https://global.bing.com/th?id=OHR.RedFoxDad_FR-CA8573396547_UHD.jpg) 
