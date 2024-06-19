@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-06-20 | [Château d'eau à Cuxhaven, Allemagne (© Andreas Vogel/Alamy)](https://global.bing.com/th?id=OHR.CuxhavenTower_FR-CA9531347179_UHD.jpg) 
+
 2024-06-19 | [Champs de lupins et église au lever du soleil, péninsule de Snæfellsnes, Islande (© Matteo Colombo/Getty Images)](https://global.bing.com/th?id=OHR.LupinIceland_FR-CA9374842030_UHD.jpg) 
 
 2024-06-18 | [Colibri Brillant fer-de-lance près d’un chardon aux ânes, Cerro de la Muerte, Costa Rica (© adrian hepworth/Alamy)](https://global.bing.com/th?id=OHR.HummingThistle_FR-CA8782540465_UHD.jpg) 
