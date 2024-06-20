@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-06-21 | [Kokino, ancien observatoire mégalithique, Macédoine du Nord (© stoimilov/Shutterstock)](https://global.bing.com/th?id=OHR.KokinoMacedonia_FR-CA9739761147_UHD.jpg) 
+
 2024-06-20 | [Château d'eau à Cuxhaven, Allemagne (© Andreas Vogel/Alamy)](https://global.bing.com/th?id=OHR.CuxhavenTower_FR-CA9531347179_UHD.jpg) 
 
 2024-06-19 | [Champs de lupins et église au lever du soleil, péninsule de Snæfellsnes, Islande (© Matteo Colombo/Getty Images)](https://global.bing.com/th?id=OHR.LupinIceland_FR-CA9374842030_UHD.jpg) 
