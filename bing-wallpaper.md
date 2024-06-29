@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-06-30 | [Cyclistes du Tour de France 2013, Corse (© Pascal Pochard-Casabianca/AFP via Getty Images)](https://global.bing.com/th?id=OHR.TourCorsica_FR-CA4580963850_UHD.jpg) 
+
 2024-06-29 | [Drapeaux de la fierté au parc Christopher Street, monument national de Stonewall, New York, États-Unis (© Noam Galai/Getty Images)](https://global.bing.com/th?id=OHR.ChristopherPark_FR-CA0383341384_UHD.jpg) 
 
 2024-06-28 | [Cathédrale Santa Maria del Fiore au crépuscule, Florence, Italie (© Elena Pueyo/Getty Images)](https://global.bing.com/th?id=OHR.FlorenceDuomo_FR-CA4457797022_UHD.jpg) 
