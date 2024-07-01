@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-07-02 | [Feu d'artifice de la fête du Canada derrière le Musée des beaux-arts du Canada, Ottawa (© gqxue/iStock Editorial/Gettty Images)](https://global.bing.com/th?id=OHR.CanadaDayOttawa_FR-CA8632022668_UHD.jpg) 
+
 2024-07-01 | [Sculpture sur pierre dans un temple à Ubud, Bali, Indonésie (© R. Schönebaum/plainpicture)](https://global.bing.com/th?id=OHR.UbudBali_FR-CA5056160520_UHD.jpg) 
 
 2024-06-30 | [Cyclistes du Tour de France 2013, Corse (© Pascal Pochard-Casabianca/AFP via Getty Images)](https://global.bing.com/th?id=OHR.TourCorsica_FR-CA4580963850_UHD.jpg) 
