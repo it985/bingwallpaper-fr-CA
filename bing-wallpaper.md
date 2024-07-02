@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-07-03 | [Ancienne ville romaine de Italica à Santiponce, Séville,  Espagne (© Moses Palermo/Amazing Aerial Agency)](https://global.bing.com/th?id=OHR.ItalicaRuins_FR-CA5707908565_UHD.jpg) 
+
 2024-07-02 | [Feu d'artifice de la fête du Canada derrière le Musée des beaux-arts du Canada, Ottawa (© gqxue/iStock Editorial/Gettty Images)](https://global.bing.com/th?id=OHR.CanadaDayOttawa_FR-CA8632022668_UHD.jpg) 
 
 2024-07-01 | [Sculpture sur pierre dans un temple à Ubud, Bali, Indonésie (© R. Schönebaum/plainpicture)](https://global.bing.com/th?id=OHR.UbudBali_FR-CA5056160520_UHD.jpg) 
