@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-07-15 | [Site néolithique de Skara Brae, Orcades, Écosse (© Paul Williams - FunkyStock/Getty Images)](https://global.bing.com/th?id=OHR.AncientOrkney_FR-CA6666648624_UHD.jpg) 
+
 2024-07-14 | [Cheminées de fées et habitations troglodytes en Cappadoce, Turquie (© Storm Is Me/Shutterstock)](https://global.bing.com/th?id=OHR.CappadociaRocks_FR-CA8969564790_UHD.jpg) 
 
 2024-07-13 | [Fleurs sauvages dans le parc national du Mont Rainier, Washington, États-Unis (© RomanKhomlyak/Getty Images)](https://global.bing.com/th?id=OHR.RainierWildflowers_FR-CA8731017819_UHD.jpg) 
