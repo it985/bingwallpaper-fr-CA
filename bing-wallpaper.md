@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-07-18 | [Ville médiévale de Rothenburg ob der Tauber, Allemagne (© kanuman/Getty Images)](https://global.bing.com/th?id=OHR.MedievalRothenburg_FR-CA9754425092_UHD.jpg) 
+
 2024-07-17 | [Voie lactée au-dessus des badlands, Parc provincial Dinosaur, Alberta (© Alan Dyer/Stocktrek Images/Getty Images)rk, Albert](https://global.bing.com/th?id=OHR.DinosaurProvPark_FR-CA9600205303_UHD.jpg) 
 
 2024-07-16 | [Parc de Tateishi, préfecture de Kanagawa, Japon (© blew_s/Shutterstock)](https://global.bing.com/th?id=OHR.TateishiPark_FR-CA9395273190_UHD.jpg) 
