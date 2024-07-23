@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-07-24 | [Château de Méthoni, Messénie, Grèce (© Andrew Mayovskyy/Shutterstock)](https://global.bing.com/th?id=OHR.MethoniCastle_FR-CA0782109984_UHD.jpg) 
+
 2024-07-23 | [Campement dans un hamac au bord d'un lac en Floride, États-Unis (© Mac Stone/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.HammockCamping_FR-CA0644251921_UHD.jpg) 
 
 2024-07-22 | [Bateaux de pêche en bois, village de Kendwa, Zanzibar, Tanzanie (© Lubos Paukeje/Alamy)](https://global.bing.com/th?id=OHR.ZanzibarBoats_FR-CA0477237134_UHD.jpg) 
