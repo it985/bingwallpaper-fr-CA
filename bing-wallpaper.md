@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-07-25 | [Troupeau de moutons de Swaledale dans le Yorkshire du Nord, Angleterre (© R A Kearton/Getty Images)](https://global.bing.com/th?id=OHR.SheepCousins_FR-CA0942728657_UHD.jpg) 
+
 2024-07-24 | [Château de Méthoni, Messénie, Grèce (© Andrew Mayovskyy/Shutterstock)](https://global.bing.com/th?id=OHR.MethoniCastle_FR-CA0782109984_UHD.jpg) 
 
 2024-07-23 | [Campement dans un hamac au bord d'un lac en Floride, États-Unis (© Mac Stone/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.HammockCamping_FR-CA0644251921_UHD.jpg) 
