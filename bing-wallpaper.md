@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-08-01 | [Cheminées de fée, Sunset Point, Parc national de Bryce Canyon, Utah, États-Unis  (© Tim Fitzharris/Minden Pictures)](https://global.bing.com/th?id=OHR.HoodoosBryce_FR-CA6799802149_UHD.jpg) 
+
 2024-07-31 | [Impala et pic-bœuf à bec rouge, Afrique du Sud (© Matrishva Vyas/Getty Images)](https://global.bing.com/th?id=OHR.ImpalaOxpecker_FR-CA6322540400_UHD.jpg) 
 
 2024-07-30 | [Tigres dans le parc national de Jim Corbett, Uttarakhand, Inde (© Sourabh Bharti/Getty Images)](https://global.bing.com/th?id=OHR.CorbettTigers_FR-CA5951173663_UHD.jpg) 
