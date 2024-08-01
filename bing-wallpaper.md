@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-08-02 | [Marché flottant, lac Kaptai, Rangamati, Bangladesh (© Azim Khan Ronnie/Amazing Aerial Agency)](https://global.bing.com/th?id=OHR.KaptaiLake_FR-CA6950833575_UHD.jpg) 
+
 2024-08-01 | [Cheminées de fée, Sunset Point, Parc national de Bryce Canyon, Utah, États-Unis  (© Tim Fitzharris/Minden Pictures)](https://global.bing.com/th?id=OHR.HoodoosBryce_FR-CA6799802149_UHD.jpg) 
 
 2024-07-31 | [Impala et pic-bœuf à bec rouge, Afrique du Sud (© Matrishva Vyas/Getty Images)](https://global.bing.com/th?id=OHR.ImpalaOxpecker_FR-CA6322540400_UHD.jpg) 
