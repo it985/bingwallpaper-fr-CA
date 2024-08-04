@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-08-05 | [San Gimignano, Sienne, Toscane, Italie (© MNStudio/Shutterstock)](https://global.bing.com/th?id=OHR.GimignanoTuscany_FR-CA7468650523_UHD.jpg) 
+
 2024-08-04 | [Les Trois Ponts naturels, parc géologique national du karst de Wulong, Chine (© Pav-Pro Photography Ltd/Shutterstock)](https://global.bing.com/th?id=OHR.WulongKarst_FR-CA7306306659_UHD.jpg) 
 
 2024-08-03 | [Une famille d'oies canadiennes nageant dans un lac du parc national de Banff, Alberta (© Chase Dekker Wild-Life Images/Moment/Getty Images)](https://global.bing.com/th?id=OHR.GeesefamilyBanff_FR-CA7121100228_UHD.jpg) 
