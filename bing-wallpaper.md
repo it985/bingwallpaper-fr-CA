@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-08-06 | [Champ de lavande, Hertfordshire, Angleterre, Royaume-Uni (© George W Johnson/Getty Images)](https://global.bing.com/th?id=OHR.HertfordshireLavender_FR-CA7927832263_UHD.jpg) 
+
 2024-08-05 | [San Gimignano, Sienne, Toscane, Italie (© MNStudio/Shutterstock)](https://global.bing.com/th?id=OHR.GimignanoTuscany_FR-CA7468650523_UHD.jpg) 
 
 2024-08-04 | [Les Trois Ponts naturels, parc géologique national du karst de Wulong, Chine (© Pav-Pro Photography Ltd/Shutterstock)](https://global.bing.com/th?id=OHR.WulongKarst_FR-CA7306306659_UHD.jpg) 
