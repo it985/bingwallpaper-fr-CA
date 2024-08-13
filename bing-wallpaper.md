@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-08-14 | [Falaises du parc naturel de Telascica, île de Dugi Otok, Croatie (© Ilija Ascic/Shutterstock)](https://global.bing.com/th?id=OHR.DugiOtokCroatia_FR-CA6202299977_UHD.jpg) 
+
 2024-08-13 | [Éléphants d'Afrique, parc national d'Amboseli, Kenya (© Ruzdi Ekenheim/Getty Images)](https://global.bing.com/th?id=OHR.ElephantsAmboseli_FR-CA6073879669_UHD.jpg) 
 
 2024-08-12 | [Sentier en bois menant au lac Kennedy, île de Vancouver, Colombie-Britannique, Canada (© EB Adventure Photography/Shutterstock)](https://global.bing.com/th?id=OHR.TofinoVancouver_FR-CA4474347930_UHD.jpg) 
