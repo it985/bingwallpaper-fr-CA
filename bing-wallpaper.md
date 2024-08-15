@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-08-16 | [Grotte de Hang Son Doong, Parc national de Phong Nha-Ke Bang, Vietnam (© Geng Xu/Getty Images)](https://global.bing.com/th?id=OHR.HangCave_FR-CA6512887337_UHD.jpg) 
+
 2024-08-15 | [Diable épineux, parc national de Watarrka, Australie (© Yva Momatiuk and John Eastcott/Minden Pictures)](https://global.bing.com/th?id=OHR.WatarrkaLizard_FR-CA6361686885_UHD.jpg) 
 
 2024-08-14 | [Falaises du parc naturel de Telascica, île de Dugi Otok, Croatie (© Ilija Ascic/Shutterstock)](https://global.bing.com/th?id=OHR.DugiOtokCroatia_FR-CA6202299977_UHD.jpg) 
