@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-08-19 | [Quai de Huntington Beach, Californie, États-Unis (© Stan Moniz Photography/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.HuntingtonBeach_FR-CA9451571426_UHD.jpg) 
+
 2024-08-18 | [Phare d'Alfanzina, Algarve, Portugal (© Andreas Kunz/Getty Images)](https://global.bing.com/th?id=OHR.AlfanzinaLighthouse_FR-CA6758531395_UHD.jpg) 
 
 2024-08-17 | [Spectacle aérien international du Canada à l'Exposition nationale canadienne, Toronto, Ontario (© Tony Florio/Alamy Stock Photo)](https://global.bing.com/th?id=OHR.CNE2024_FR-CA3077002584_UHD.jpg) 
