@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-08-20 | [Deux macareux moines, Elliston, Terre-Neuve, Canada (© Daphne Roberts Photography/Getty Images)](https://global.bing.com/th?id=OHR.TwoPuffins_FR-CA3198296112_UHD.jpg) 
+
 2024-08-19 | [Quai de Huntington Beach, Californie, États-Unis (© Stan Moniz Photography/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.HuntingtonBeach_FR-CA9451571426_UHD.jpg) 
 
 2024-08-18 | [Phare d'Alfanzina, Algarve, Portugal (© Andreas Kunz/Getty Images)](https://global.bing.com/th?id=OHR.AlfanzinaLighthouse_FR-CA6758531395_UHD.jpg) 
