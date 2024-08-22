@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-08-23 | [Vue aérienne d’Ocean City au lever du soleil, Maryland, États-Unis (© Kevin Olson/Amazing Aerial Agency)](https://global.bing.com/th?id=OHR.OceanCityMD_FR-CA0021472787_UHD.jpg) 
+
 2024-08-22 | [Fou de Grant, île Wolf, îles Galápagos, Équateur (© Tui De Roy/Minden Pictures)](https://global.bing.com/th?id=OHR.NazcaBooby_FR-CA9861813590_UHD.jpg) 
 
 2024-08-21 | [Lever de soleil dans le parc national de Grand Teton, Wyoming, États-Unis (© Kurt Budliger/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.TetonSunrise_FR-CA9634398524_UHD.jpg) 
