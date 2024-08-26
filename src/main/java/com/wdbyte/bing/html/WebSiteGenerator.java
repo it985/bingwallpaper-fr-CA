@@ -9,6 +9,7 @@ import com.wdbyte.bing.BingFileUtils;
 import com.wdbyte.bing.Images;
 import com.wdbyte.bing.html.HtmlConstant.Head;
 import com.wdbyte.bing.html.HtmlConstant.ImgCard;
+import com.wdbyte.bing.html.HtmlConstant.ImgDetail;
 import com.wdbyte.bing.html.HtmlConstant.MonthHistory;
 import com.wdbyte.bing.html.HtmlConstant.Sidebar;
 
@@ -25,6 +26,7 @@ public class WebSiteGenerator {
         WebSiteGenerator generator = new WebSiteGenerator();
         generator.htmlGeneratorIndex(bingImages, monthMap);
         generator.htmlGeneratorMonth(monthMap);
+        generator.htmlGeneratorImgDetail(bingImages);
     }
 
     public void htmlGenerator() throws IOException {
@@ -33,6 +35,7 @@ public class WebSiteGenerator {
         Map<String, List<Images>> monthMap = BingFileUtils.convertImgListToMonthMap(bingImages);
         htmlGeneratorIndex(bingImages, monthMap);
         htmlGeneratorMonth(monthMap);
+        htmlGeneratorImgDetail(bingImages);
     }
 
     public void htmlGeneratorIndex(List<Images> bingImages, Map<String, List<Images>> monthMap) throws IOException {
@@ -42,11 +45,23 @@ public class WebSiteGenerator {
         // 替换侧边目录
         indexHtml = replaceSidebar(indexHtml, monthMap, null);
         // 替换图片列表
-        indexHtml = replaceImgList(indexHtml, bingImages.subList(0, 30));
+        indexHtml = replaceImgList(indexHtml, bingImages.size() > 30 ? bingImages.subList(0, 30) : bingImages);
         // 替换底部月度历史
         indexHtml = replaceMonthHistory(indexHtml, monthMap, null);
         // 写到文件
         HtmlFileUtils.writeIndexHtml(indexHtml);
+    }
+
+    public void htmlGeneratorImgDetail(List<Images> bingImages) throws IOException {
+        String templateFile = HtmlFileUtils.readDetailTemplateFile();
+        for (Images bingImage : bingImages) {
+            String detailHtml = templateFile.replace(ImgDetail.HEAD_TITLE, bingImage.getDesc());
+            detailHtml = detailHtml.replace(ImgDetail.IMG_URL, bingImage.getSimpleUrl());
+            detailHtml = detailHtml.replace(ImgDetail.IMG_DATE, bingImage.getDate());
+            detailHtml = detailHtml.replace(ImgDetail.IMG_DESC, bingImage.getDesc());
+            // 写到文件
+            HtmlFileUtils.writeDetailHtml(detailHtml, bingImage.getDetailUrlPath());
+        }
     }
 
     public void htmlGeneratorMonth(Map<String, List<Images>> monthMap) throws IOException {
@@ -87,7 +102,7 @@ public class WebSiteGenerator {
      * @return
      */
     public String replaceHead(String html, Images images, String month) {
-        html = html.replace(Head.HEAD_IMG_URL, images.getUrl());
+        html = html.replace(Head.HEAD_IMG_URL, images.getSimpleUrl());
         html = html.replace(Head.HEAD_IMG_DESC, images.getDesc());
         if (month != null) {
             html = html.replace(Head.HEAD_TITLE, "Bing Wallpaper(" + month + ")");
@@ -100,7 +115,7 @@ public class WebSiteGenerator {
     public String replaceImgList(String html, List<Images> bingImages) {
         StringBuilder imgList = new StringBuilder();
         for (Images bingImage : bingImages) {
-            imgList.append(ImgCard.getImgCard(bingImage.getUrl(), bingImage.getDate()));
+            imgList.append(ImgCard.getImgCard(bingImage));
         }
         return html.replace(ImgCard.VAR_IMG_CARD_LIST, imgList.toString());
     }

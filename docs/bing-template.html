@@ -5,7 +5,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="每日必应超清壁纸（4K）">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="keywords" content="bing wallpaper, 必应壁纸, 必应4k壁纸, 必应超清壁纸, 壁纸">
     <link rel="stylesheet" href="/css/w3.css">
     <link rel="icon" href="/img/fav.jpg">
@@ -57,7 +56,7 @@
 <!-- Header -->
 <header class="w3-display-container w3-content w3-center" style="max-width:100%" height="600">
     <img class="w3-image smallImg" src="${head_img_url}&pid=hp&w=100" width="100%" >
-    <img class="w3-image bigImg" onload="imgloading(this)" src="${head_img_url}&pid=hp&w=2000" width="100%">
+    <img class="w3-image bigImg" onload="imgloading(this)" src="${head_img_url}&pid=hp&w=1890" width="100%">
     <div class="w3-display-middle w3-padding-large w3-wide w3-text-light-grey w3-center">
         <h1 class="w3-hide-medium w3-hide-small w3-xxxlarge">${head_title}</h1>
         <div class=" w3-padding-large w3-text-light-grey" style="max-width: 800px">
@@ -72,8 +71,9 @@
     <div class="w3-bar w3-light-grey w3-round w3-display-bottommiddle" style="bottom:-16px">
         <a href="/" class="w3-bar-item w3-button">首页</a>
         <a href="#portfolio" class="w3-bar-item w3-button w3-hover-text-green"  onclick="w3_open()">归档</a>
-        <a href="https://www.wdbyte.com/bing-wallpaper-400.html" target="_blank" class="w3-bar-item w3-button w3-hover-text-green">关于</a>
+        <a href="/zh-cn/" class="w3-bar-item w3-button w3-hover-text-green">中国</a>
         <a href="https://github.com/niumoo/bing-wallpaper" target="_blank" class="w3-bar-item w3-button w3-hover-text-green  w3-hide-small">GitHub</a>
+        <a href="https://www.wdbyte.com/bing-wallpaper-400.html" target="_blank" class="w3-bar-item w3-button w3-hover-text-green w3-hide-small">关于</a>
     </div>
 </header>
 
@@ -97,13 +97,21 @@
 
 <!-- Footer -->
 <footer class="w3-center w3-light-grey w3-padding-48 w3-large">
-    <p>Powered by <a href="https://github.com/niumoo/bing-wallpaper" title="W3.CSS" target="_blank" class="w3-hover-text-green">Github.com/niumoo</a>
+    <p>本站所有图片均来源于必应搜索
         <br/>
-        本站所有图片均来源于必应搜索
+        Powered by <a href="https://github.com/niumoo/bing-wallpaper" title="W3.CSS" target="_blank" class="w3-hover-text-green">Github.com/niumoo</a>，<a href="/chat.html" target="_blank" class="w3-text-green">功能请求(Discuss)</a>
         <br/>
         本网站已经开源，采用 Apache License 2.0 许可协议，复制请注明来自 <a href="https://github.com/niumoo/bing-wallpaper">bing-wallpaper</a>！
     </p>
 </footer>
+<div style="position: fixed; bottom: 10px; right: 15px; padding: 10px;display:none" id="wenjuan">
+    <a href="https://wj.qq.com/s2/15064293/69e0/" target="_blank" title="问卷调查">
+        <svg t="1722943125534" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="2057" width="45" height="45">
+            <path d="M849.170732 0c97.404878 0 174.829268 77.42439 174.829268 174.829268v674.341464c0 97.404878-77.42439 174.829268-174.829268 174.829268H174.829268c-97.404878 0-174.829268-77.42439-174.829268-174.829268V174.829268c0-97.404878 77.42439-174.829268 174.829268-174.829268h674.341464z m-44.956098 694.321951H219.785366v64.936586h584.429268v-64.936586z m-444.565854-237.268292h-94.907317v197.307317h94.907317v-197.307317z m132.370732-199.804879h-94.907317v399.609757h94.907317v-399.609757z m134.868293 119.882927h-94.907317v277.229269h94.907317V377.131707z m132.370732 177.32683h-94.907317v99.902439h94.907317v-99.902439z" fill="#38c059" p-id="2058">
+            </path>
+        </svg>
+    </a>
+</div>
 <script>
     // Script to open and close sidebar
     function w3_open() {
@@ -113,6 +121,15 @@
     function w3_close() {
         document.getElementById("mySidebar").style.display = "none";
     }
+    // 监听滚动事件
+    window.addEventListener('scroll', function () {
+        var wenjuan = document.getElementById('wenjuan');
+        if (window.scrollY > 400) { // 如果向下滚动超过100px
+            wenjuan.style.display = 'block'; // 显示该div
+        } else {
+            wenjuan.style.display = 'none'; // 否则隐藏
+        }
+    });
 
 </script>
 
