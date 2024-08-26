@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-08-27 | [Réserve naturelle nationale de l'atoll de Palmyra, océan Pacifique central (© Ian Shive/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.PalmyraAtoll_FR-CA6386990840_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-08-26 | [Lever de soleil sur le lac Swiftcurrent, parc national des Glaciers, Montana, États-Unis  (© Jason Savage/Tandem Stills + Motion)](https://global.bing.com/th?id=OHR.SwiftcurrentLake_FR-CA5079501446_UHD.jpg) 
 
 2024-08-25 | [Katahdin Woods and Waters National Monument, comté de Penobscot, Maine, États-Unis (© Cavan Images/Alamy)](https://global.bing.com/th?id=OHR.KatahdinWoods_FR-CA5672777513_UHD.jpg) 
