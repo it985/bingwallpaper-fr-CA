@@ -35,8 +35,8 @@ jobs:
           ls -la
           echo "Listing files in the docs directory:"
           ls -la docs
-          echo "Listing files in the en-gb directory:"
-          ls -la en-gb
+          echo "Listing files in the fr-ca directory:"
+          ls -la fr-ca
       - name: current date
         run: date
       - name: Build with Maven
@@ -70,7 +70,7 @@ jobs:
           git add bing-wallpaper.md
           git add picture/*
           git add docs/*
-          git add en-gb/*
+          git add fr-ca/*
           git commit -m "update readme.md" || echo "No changes to commit"
 
       - name: Push changes
