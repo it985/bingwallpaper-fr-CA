@@ -27,10 +27,7 @@ public class WebSiteGenerator {
     }
 
     public void htmlGenerator(List<Images> bingImages, Map<String, List<Images>> monthMap) throws IOException {
-        // 删除之前生成的所有 HTML 文件
-        HtmlFileUtils.deleteAllHtmlFiles(HtmlFileUtils.BING_HTML_ROOT);
-
-        // 生成新的 HTML 文件
+        HtmlFileUtils.deleteOldFiles();  // 删除旧文件
         htmlGeneratorIndex(bingImages, monthMap);
         htmlGeneratorMonth(monthMap);
         htmlGeneratorImgDetail(bingImages);
