@@ -18,15 +18,22 @@ import com.wdbyte.bing.html.HtmlConstant.Sidebar;
  * @date 2022/07/31
  */
 public class WebSiteGenerator {
-
     public static void main(String[] args) throws IOException {
         List<Images> bingImages = BingFileUtils.readBing();
         bingImages = bingImages.stream().filter(img -> img.getUrl() != null).collect(Collectors.toList());
         Map<String, List<Images>> monthMap = BingFileUtils.convertImgListToMonthMap(bingImages);
         WebSiteGenerator generator = new WebSiteGenerator();
-        generator.htmlGeneratorIndex(bingImages, monthMap);
-        generator.htmlGeneratorMonth(monthMap);
-        generator.htmlGeneratorImgDetail(bingImages);
+        generator.htmlGenerator(bingImages, monthMap);
+    }
+
+    public void htmlGenerator(List<Images> bingImages, Map<String, List<Images>> monthMap) throws IOException {
+        // 删除之前生成的所有 HTML 文件
+        HtmlFileUtils.deleteAllHtmlFiles(HtmlFileUtils.BING_HTML_ROOT);
+
+        // 生成新的 HTML 文件
+        htmlGeneratorIndex(bingImages, monthMap);
+        htmlGeneratorMonth(monthMap);
+        htmlGeneratorImgDetail(bingImages);
     }
 
     public void htmlGenerator() throws IOException {
