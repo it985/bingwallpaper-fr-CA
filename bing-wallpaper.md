@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-09-05 | [Grand-duc de Coromandel, Pakistan (© zahoor salmi/Getty Images)](https://cn.bing.com/th?id=OHR.DuskyOwls_FR-CA2960210318_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-09-04 | [Lac Crystal dans les Enchantments, Alpine Lakes Wilderness, Washington, États-Unis (© Mitch Pittman/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.AlpineLakes_FR-CA6843222529_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-09-03 | [Voie lactée au-dessus de la rivière Elbow dans le sud de l'Alberta, Canada (© Alan Dyer/Stocktrek Images/Getty Images)](https://cn.bing.com/th?id=OHR.ElbowRiver_FR-CA9207316956_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
