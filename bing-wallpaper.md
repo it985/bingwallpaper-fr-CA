@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-09-07 | [Vieux hêtres, parc forestier de Glenariff, comté d'Antrim, Irlande du Nord (© Dawid K Photography/Shutterstock)](https://cn.bing.com/th?id=OHR.GlenariffPark_FR-CA4962368501_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-09-06 | [Vue de la ville de Toronto depuis le lac Ontario, Canada (© Roberto Machado Noa/Getty Images)](https://cn.bing.com/th?id=OHR.TIFF2024_FR-CA3341034241_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-09-05 | [Grand-duc de Coromandel, Pakistan (© zahoor salmi/Getty Images)](https://cn.bing.com/th?id=OHR.DuskyOwls_FR-CA2960210318_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
