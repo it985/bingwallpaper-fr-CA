@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-09-10 | [Chutes d'Iguazu à la frontière entre l'Argentine et le Brésil (© AirPano LLC/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.IguazuRainbow_FR-CA6693865671_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-09-09 | [Intérieur de la bibliothèque publique de Stockholm, Suède (© Andrei Hrabun/Alamy)](https://cn.bing.com/th?id=OHR.StockholmLibrary_FR-CA6494149468_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-09-08 | [Colibri d'Anna, Santa Cruz, Californie, États-Unis (© yhelfman/Getty Images)](https://cn.bing.com/th?id=OHR.SantaCruzHummer_FR-CA6245951052_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
