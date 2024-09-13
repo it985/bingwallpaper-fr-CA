@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-09-14 | [Phare de l’aire côtière protégée de Point Reyes, Californie, États-Unis (© RMB Images/Photography by Robert Bowman/Getty Images)](https://cn.bing.com/th?id=OHR.PointReyes_FR-CA7458901989_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-09-13 | [Pod de dauphins près de l'île de la Réunion, océan Indien (© Joost van Uffelen/Shutterstock)](https://cn.bing.com/th?id=OHR.DolphinReunion_FR-CA7174667169_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-09-12 | [Mère renard roux câlinant son renardeau, Canada (© pchoui/Getty Images)](https://cn.bing.com/th?id=OHR.RedFoxMother_FR-CA7012903357_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
