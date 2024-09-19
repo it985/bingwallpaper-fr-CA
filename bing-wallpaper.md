@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-09-20 | [Aire de jeux du phare d'Obereversand à Dorum-Neufeld, Allemagne (© INGO WAGNER/DPA/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.PiratePlayground_FR-CA8074747017_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-09-19 | [Château de Gujō Hachiman, préfecture de Gifu, Japon (© ta2funk ito/500px/Getty Images)](https://cn.bing.com/th?id=OHR.GujoHachiman_FR-CA9471618597_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-09-18 | [Fête de la mi-automne aux Jardins de la baie, Singapour (© Victor Y. Zhuo/Alamy)](https://cn.bing.com/th?id=OHR.MidAutumnSingapore_FR-CA9250185650_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
