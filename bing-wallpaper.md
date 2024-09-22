@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-09-23 | [Buttermere, Parc national du Lake District, Angleterre, Royaume-Uni (© Alan Novelli/Alamy)](https://cn.bing.com/th?id=OHR.AutumnCumbria_FR-CA8192995525_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-09-22 | [Panorama sur l’Oktoberfest au coucher du soleil, Munich, Allemagne (© AllesSuper21/iStock/Getty Images)](https://cn.bing.com/th?id=OHR.MunichBeerfest_FR-CA5538075531_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-09-21 | [Phare de l’île d'Ocracoke, Caroline du Nord, États-Unis (© Chansak Joe/Getty Images)](https://cn.bing.com/th?id=OHR.OcracokeLight_FR-CA4567567437_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
