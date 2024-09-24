@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-09-25 | [Cascade de Skaftafell, Parc national du Vatnajökull, Islande (© Nopasorn Kowathanakul/Getty Images)](https://cn.bing.com/th?id=OHR.SkaftafellWaterfall_FR-CA8805376620_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-09-24 | [Loutre de mer, baie de Prince William Sound, Alaska, États-Unis (© Gerald Corsi/Getty Images)](https://cn.bing.com/th?id=OHR.IcebergOtter_FR-CA8578551199_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-09-23 | [Buttermere, Parc national du Lake District, Angleterre, Royaume-Uni (© Alan Novelli/Alamy)](https://cn.bing.com/th?id=OHR.AutumnCumbria_FR-CA8192995525_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
