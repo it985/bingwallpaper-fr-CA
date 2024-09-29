@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-09-30 | [Pont couvert de West Cornwall, Connecticut, États-Unis (© pabradyphoto/Getty Images)](https://cn.bing.com/th?id=OHR.ConnecticutBridge_FR-CA4375434996_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-09-29 | [Plage au lever du soleil, Gulf Islands National Seashore, Floride, États-Unis (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.FloridaSeashore_FR-CA6560650769_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-09-28 | [Vue aérienne du Grand Canal et de la Basilique de Santa Maria della Salute, Venise, Italie (© Bachir Moukarzel/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.VeniceAerial_FR-CA9399407048_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
