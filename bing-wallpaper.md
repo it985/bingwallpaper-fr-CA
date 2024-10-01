@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-10-02 | [L’automne dans les monts Ogilvie, Yukon (© Theo Allofs/Minden Pictures)](https://cn.bing.com/th?id=OHR.YukonAutumn_FR-CA6405737720_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-10-01 | [Troupeau de morses dans le nord du Spitzberg, archipel du Svalbard, Norvège (© AWL Images/Danita Delimont)](https://cn.bing.com/th?id=OHR.WalrusNorway_FR-CA4532815287_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-09-30 | [Pont couvert de West Cornwall, Connecticut, États-Unis (© pabradyphoto/Getty Images)](https://cn.bing.com/th?id=OHR.ConnecticutBridge_FR-CA4375434996_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
