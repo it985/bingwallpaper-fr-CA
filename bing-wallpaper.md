@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-10-06 | [Éléphants d'Afrique dans le parc national de Tsavo East, Kenya (© Neil Bowman/Minden Pictures)](https://cn.bing.com/th?id=OHR.ElephantTeacher_FR-CA0466901926_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-10-05 | [Toronto, Nathan Phillips Square, Canada (© Bruce Christie/Moment/Getty Images)](https://cn.bing.com/th?id=OHR.NuitBlanche24_FR-CA0087595387_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-10-04 | [Taj Mahal à Agra, Uttar Pradesh, Inde (© Tanarch/Getty Images)](https://cn.bing.com/th?id=OHR.TajMahalReflection_FR-CA4845950919_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
