@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-10-10 | [Peuplier tremble près de Marble, Colorado, États-Unis (© Jason Hatfield/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.AspensColorado_FR-CA2915675941_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-10-09 | [Amphioctopus, Lembeh Strait, Indonésie (© Howard Chew/Alamy)](https://cn.bing.com/th?id=OHR.MototiOctopus_FR-CA2506642758_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-10-08 | [Philharmonie de l'Elbe, Hambourg, Allemagne (© Canetti/Shutterstock)](https://cn.bing.com/th?id=OHR.ElbePhilharmonic_FR-CA1576968664_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
