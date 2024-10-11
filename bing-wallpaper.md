@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-10-12 | [Hautes-Terres-du-Cap-Breton, Nouvelle-Écosse, Canada (© Cavan Images/Alamy)](https://cn.bing.com/th?id=OHR.CelticColours_FR-CA3805586495_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-10-11 | [Sorano, Toscane, Italie (© Luigi Vaccarella/eStock Photo)](https://cn.bing.com/th?id=OHR.SoranoItaly_FR-CA3347453712_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-10-10 | [Peuplier tremble près de Marble, Colorado, États-Unis (© Jason Hatfield/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.AspensColorado_FR-CA2915675941_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
