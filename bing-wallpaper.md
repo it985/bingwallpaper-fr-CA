@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-10-20 | [Temple d'Hathor, complexe du temple de Dendera, Qena, Égypte (© Nick Brundle Photography/Getty Images)](https://cn.bing.com/th?id=OHR.DenderaTemple_FR-CA2260090471_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-10-19 | [Voie lactée au-dessus du lac Pyramid, parc national de Jasper, Alberta, Canada (© Salted Fish Studio/iStock/Getty Images)](https://cn.bing.com/th?id=OHR.JasperDark_FR-CA5254493695_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-10-18 | [Plante kochia, préfecture d'Ibaraki, Japon (© DigiPub/Getty Images)](https://cn.bing.com/th?id=OHR.KochiaJapan_FR-CA6883202795_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
