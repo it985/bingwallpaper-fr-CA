@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-10-23 | [Palais Zuccari, Rome, Italie (© Photon-Photos/Getty Images)](https://cn.bing.com/th?id=OHR.MonsterDoor_FR-CA3004602263_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-10-22 | [Cyprès chauves dans le parc d'État George L. Smith, Géorgie, États-Unis (© Chris Moore/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.AutumnCypress_FR-CA2779617301_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-10-21 | [Paresseux à trois doigts au Costa Rica (© Harry Collins/Getty Images)](https://cn.bing.com/th?id=OHR.SmilingSloth_FR-CA2515050272_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
