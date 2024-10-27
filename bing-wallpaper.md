@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-10-28 | [Ourse polaire avec son ourson, Churchill, Manitoba, Canada (© Design Pics/plainpicture)](https://cn.bing.com/th?id=OHR.PolarBearHug_FR-CA3969980199_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-10-27 | [Fôret de Gespensterwald, Nienhagen, Mecklembourg-Poméranie-Occidentale, Allemagne (© mauritius images GmbH/Alamy)](https://cn.bing.com/th?id=OHR.GhostForest_FR-CA3800284768_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-10-26 | [Massif du Mont-Blanc, Chamonix (© Simon Schöpf/Getty Images)](https://cn.bing.com/th?id=OHR.MontBlancMassif_FR-CA3630976248_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
