@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-10-31 | [Vue du château d'Édimbourg depuis un cimetière en Écosse, Royaume-Uni (© Chris Dorney/Alamy)](https://cn.bing.com/th?id=OHR.HauntedEdinburgh_FR-CA4547077323_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-10-30 | [Grand-duc d’Amérique (© Mark Newman/Getty Images)](https://cn.bing.com/th?id=OHR.GreatOwl_FR-CA4373577672_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-10-29 | [Champ de citrouilles, Victoria, Colombie-Britannique, Canada (© Shaun Cunningham/Alamy)](https://cn.bing.com/th?id=OHR.PumpkinMist_FR-CA3413645612_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
