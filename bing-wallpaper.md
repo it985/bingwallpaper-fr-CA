@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-11-02 | [Vue aérienne de vignobles en automne, Varnhalt, Forêt-Noire, Allemagne (© Sabine Gerold/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.VineyardsBlackForestFall_FR-CA7375208375_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-11-01 | [Chimères de la cathédrale Notre-Dame de Paris (© scaliger/Getty Images)](https://cn.bing.com/th?id=OHR.GargoyleParis_FR-CA4719321760_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-10-31 | [Vue du château d'Édimbourg depuis un cimetière en Écosse, Royaume-Uni (© Chris Dorney/Alamy)](https://cn.bing.com/th?id=OHR.HauntedEdinburgh_FR-CA4547077323_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
