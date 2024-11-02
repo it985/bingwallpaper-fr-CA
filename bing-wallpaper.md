@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-11-03 | [Bison d’Amérique, parc national de Yellowstone, Wyoming, États-Unis (© Ian Shive/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.BisonYellowstone_FR-CA7570080999_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-11-02 | [Vue aérienne de vignobles en automne, Varnhalt, Forêt-Noire, Allemagne (© Sabine Gerold/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.VineyardsBlackForestFall_FR-CA7375208375_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-11-01 | [Chimères de la cathédrale Notre-Dame de Paris (© scaliger/Getty Images)](https://cn.bing.com/th?id=OHR.GargoyleParis_FR-CA4719321760_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
