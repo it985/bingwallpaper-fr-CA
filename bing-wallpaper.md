@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-11-04 | [Œufs de flamants roses des Caraïbes dans leur nid, Réserve de biosphère de Ría Lagartos, Yucatán, Mexique (© Claudio Contreras/Minden Pictures)](https://cn.bing.com/th?id=OHR.YucatanBiosphere_FR-CA7861757179_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-11-03 | [Bison d’Amérique, parc national de Yellowstone, Wyoming, États-Unis (© Ian Shive/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.BisonYellowstone_FR-CA7570080999_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-11-02 | [Vue aérienne de vignobles en automne, Varnhalt, Forêt-Noire, Allemagne (© Sabine Gerold/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.VineyardsBlackForestFall_FR-CA7375208375_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
