@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-11-06 | [Coucher de soleil dans le parc national de Lençóis Maranhenses, Maranhão, Brésil (© thanosquest/Shutterstock)](https://cn.bing.com/th?id=OHR.LencoisMaranhao_FR-CA9225991831_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-11-05 | [Grasmere, Lake District, Cumbria, Angleterre (© Thomas Molyneux/Getty Images)](https://cn.bing.com/th?id=OHR.CumbriaAutumn_FR-CA8087428882_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-11-04 | [Œufs de flamants roses des Caraïbes dans leur nid, Réserve de biosphère de Ría Lagartos, Yucatán, Mexique (© Claudio Contreras/Minden Pictures)](https://cn.bing.com/th?id=OHR.YucatanBiosphere_FR-CA7861757179_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
