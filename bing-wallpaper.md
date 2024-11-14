@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-11-15 | [Manarola, Parc national des Cinque Terre, Ligurie, Italie (© John_Silver/Shutterstock)](https://cn.bing.com/th?id=OHR.ManarolaItaly_FR-CA2770338170_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-11-14 | [Lion de mer dans une forêt de varech géant, Basse-Californie, Mexique (© Claudio Contreras/Minden Pictures)](https://cn.bing.com/th?id=OHR.KelpForest_FR-CA2577806446_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-11-13 | [Double Arch vue à travers Cove Arch, parc national des Arches, Utah, États-Unis (© Jeff Foott/Minden Pictures)](https://cn.bing.com/th?id=OHR.CoveArch_FR-CA2004655005_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
