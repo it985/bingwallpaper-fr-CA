@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-11-16 | [Festival des lanternes de Yi Peng, Chiang Mai, Thaïlande (© tampatra/Getty Images)](https://cn.bing.com/th?id=OHR.YiPengLanterns_FR-CA2324998357_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-11-15 | [Manarola, Parc national des Cinque Terre, Ligurie, Italie (© John_Silver/Shutterstock)](https://cn.bing.com/th?id=OHR.ManarolaItaly_FR-CA2770338170_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-11-14 | [Lion de mer dans une forêt de varech géant, Basse-Californie, Mexique (© Claudio Contreras/Minden Pictures)](https://cn.bing.com/th?id=OHR.KelpForest_FR-CA2577806446_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
