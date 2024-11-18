@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-11-19 | [Phare de Porthcawl, Pays de Galles, Royaume-Uni (© Leighton Collins/Alamy)](https://cn.bing.com/th?id=OHR.PorthcawlLighthouse_FR-CA2947887858_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-11-18 | [Cerf élaphe dans la forêt calédonienne, Glen Affric, Highlands, Écosse (© Terry Whittaker/Alamy)](https://cn.bing.com/th?id=OHR.RedStag_FR-CA2767952011_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-11-17 | [Le littoral de la mer des Wadden, Frise, Pays-Bas (© Ron ter Burg/Minden Pictures)](https://cn.bing.com/th?id=OHR.FrieslandNetherlands_FR-CA2531468545_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
