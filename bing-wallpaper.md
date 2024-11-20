@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-11-21 | [Fresque géante « Beyond Crisis » de Saype, Leysin, Suisse (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)](https://cn.bing.com/th?id=OHR.BeyondSaype_FR-CA5362056492_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-11-20 | [Arche de Tasmans Tasmanie, Australie (© Gary Bell/Minden Pictures)](https://cn.bing.com/th?id=OHR.TasmansArch_FR-CA4703673291_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-11-19 | [Phare de Porthcawl, Pays de Galles, Royaume-Uni (© Leighton Collins/Alamy)](https://cn.bing.com/th?id=OHR.PorthcawlLighthouse_FR-CA2947887858_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
