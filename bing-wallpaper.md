@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-11-24 | [Aloès en spirale, île Kangaroo, Australie (© Michael Melford/Alamy)](https://cn.bing.com/th?id=OHR.FibonacciAloe_FR-CA8173645848_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-11-23 | [Château de Zafra, Guadalajara, Espagne (© Eduard Gene/Getty Images)](https://cn.bing.com/th?id=OHR.ZafraCastle_FR-CA7635985017_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-11-22 | [Peupliers trembles en automne, route Stewart-Cassiar, Colombie-Britannique (© Yva Momatiuk and John Eastcott/Minden Pictures)](https://cn.bing.com/th?id=OHR.AspenTrees_FR-CA5793421150_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
