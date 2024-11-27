@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-11-28 | [Tombeau des Géants en automne, Bouillon, Belgique (© David Briard/Getty)](https://cn.bing.com/th?id=OHR.SemoisRiver_FR-CA9191574002_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-11-27 | [Oliveraie, vallée d'Itria, Pouilles, Italie (© Massimo Santi/Shutterstock)](https://cn.bing.com/th?id=OHR.TrulliGrove_FR-CA8975860465_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-11-26 | [Girafes Masai, parc national d'Amboseli, Kenya (© Art Wolfe/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.AmboseliGiraffes_FR-CA7584281914_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
