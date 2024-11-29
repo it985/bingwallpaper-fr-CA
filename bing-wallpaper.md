@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-11-30 | [Mont Saint-Michel, Normandie (© Captain Skyhigh/Getty Images)](https://cn.bing.com/th?id=OHR.MtStMichel_FR-CA3710121218_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-11-29 | [Tempête au coucher du soleil, parc provincial du mont Assiniboine, Colombie-Britannique (© Jeff Lewis/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.AssiniboineTS_FR-CA9587536433_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-11-28 | [Tombeau des Géants en automne, Bouillon, Belgique (© David Briard/Getty)](https://cn.bing.com/th?id=OHR.SemoisRiver_FR-CA9191574002_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
