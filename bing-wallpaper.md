@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-12-01 | [Reflet du château de Kilchurn à Loch Awe, Argyll et Bute, Écosse (© Tom Mackie/plainpicture)](https://cn.bing.com/th?id=OHR.KilchurnAutumn_FR-CA4166920204_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-11-30 | [Mont Saint-Michel, Normandie (© Captain Skyhigh/Getty Images)](https://cn.bing.com/th?id=OHR.MtStMichel_FR-CA3710121218_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-11-29 | [Tempête au coucher du soleil, parc provincial du mont Assiniboine, Colombie-Britannique (© Jeff Lewis/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.AssiniboineTS_FR-CA9587536433_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
