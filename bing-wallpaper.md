@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-12-08 | [Lac Ontario en hiver, Toronto (© Brendan Riley/Shutterstock)](https://cn.bing.com/th?id=OHR.TorontoWinterSkyline_FR-CA4116512200_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-12-07 | [Vieille ville d'Helsinki, Finlande (© Oleksiy Mark/Shutterstock)](https://cn.bing.com/th?id=OHR.HelsinkiDusk_FR-CA2777107787_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-12-06 | [Cheminées de fées sur le lac Mono, Californie, États-Unis (© Susanna Patras/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.MonoTufa_FR-CA2264462783_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
