@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-12-10 | [Guanacos, parc national Torres del Paine, Chili (© Floris van Breugel/NPL/Minden Pictures)](https://cn.bing.com/th?id=OHR.GuanacosChile_FR-CA0938601929_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-12-09 | [Cathédral Notre-Dame de Paris (© Julien Fromentin/Getty Images)](https://cn.bing.com/th?id=OHR.ReopeningNotreDame_FR-CA5489836690_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-12-08 | [Lac Ontario en hiver, Toronto (© Brendan Riley/Shutterstock)](https://cn.bing.com/th?id=OHR.TorontoWinterSkyline_FR-CA4116512200_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
