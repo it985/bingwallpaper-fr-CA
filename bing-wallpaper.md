@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-12-15 | [Hibou des Marais, Canada (© pchoui/Getty Images)](https://cn.bing.com/th?id=OHR.NorthernHawkOwl_FR-CA4030609030_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-12-14 | [Marché de Noël, basilique Saint-Étienne, Budapest, Hongrie (© Calin Stan/Shutterstock)](https://cn.bing.com/th?id=OHR.ChristmasBudapest_FR-CA8168719338_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-12-13 | [Poinsettia ou Fleur de Noël (© David Hosking/NPL/Minden Pictures)](https://cn.bing.com/th?id=OHR.WildPoinsettia_FR-CA2997084184_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
