@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-12-17 | [Salzbourg, Autriche (© bluejayphoto/Getty Images)](https://cn.bing.com/th?id=OHR.SalzburgSnow_FR-CA8518855447_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-12-16 | [Lac Misurina, Dolomites, Italie (© Marco Bottigelli/Getty Images)](https://cn.bing.com/th?id=OHR.MisurinaLake_FR-CA4286276291_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-12-15 | [Hibou des Marais, Canada (© pchoui/Getty Images)](https://cn.bing.com/th?id=OHR.NorthernHawkOwl_FR-CA4030609030_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
