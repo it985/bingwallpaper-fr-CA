@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-12-25 | [Marché de Noël en Allemagne (© Cyril Gosselin/Getty Images)](https://cn.bing.com/th?id=OHR.SantaSnowglobe_FR-CA6593059116_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-12-24 | [Grues du Japon, Kushiro, Hokkaido, Japon (© Wirestock, Inc./Alamy)](https://cn.bing.com/th?id=OHR.FestivusCranes_FR-CA6325415770_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-12-23 | [Arbre de Noël à Crystal Pier, Pacific Beach, San Diego, Californie, États-Unis (© SamAntonioPhotography/Getty Images)](https://cn.bing.com/th?id=OHR.CrystalPier_FR-CA7850031267_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
