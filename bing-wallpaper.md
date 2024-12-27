@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-12-28 | [Lac de Bled, Slovénie (© Kesu01/Getty Images)](https://cn.bing.com/th?id=OHR.LakeBledSnow_FR-CA6860271239_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-12-27 | [Horloge à vapeur de Gastown à Vancouver, Colombie-Britannique (© J Duquette/iStock/Getty Images)](https://cn.bing.com/th?id=OHR.BoxingDay24_FR-CA1518470041_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-12-26 | [Arbres de Noël avec la montagne Three Sisters en arrière-plan, Canmore, Alberta (© Nick Fitzhardinge/Moment/Getty Images)](https://cn.bing.com/th?id=OHR.Christmas24_FR-CA6807039694_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
