@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-12-29 | [Tortue verte, océan Pacifique, Nouvelle-Calédonie (© Damsea/Shutterstock)](https://cn.bing.com/th?id=OHR.CoralTurtle_FR-CA6869883059_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-12-28 | [Lac de Bled, Slovénie (© Kesu01/Getty Images)](https://cn.bing.com/th?id=OHR.LakeBledSnow_FR-CA6860271239_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-12-27 | [Horloge à vapeur de Gastown à Vancouver, Colombie-Britannique (© J Duquette/iStock/Getty Images)](https://cn.bing.com/th?id=OHR.BoxingDay24_FR-CA1518470041_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
