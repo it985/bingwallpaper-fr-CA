@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-12-31 | [Eucalyptus coccifera et pandanus, parc national de Mount Field, Tasmanie, Australie (© Whitworth Images/Getty Images)](https://cn.bing.com/th?id=OHR.MountFieldNP_FR-CA7134371574_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-12-30 | [Temple de Borobudur, Java, Indonésie (© Robertharding/Shutterstock)](https://cn.bing.com/th?id=OHR.BorobudurBells_FR-CA7089103759_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-12-29 | [Tortue verte, océan Pacifique, Nouvelle-Calédonie (© Damsea/Shutterstock)](https://cn.bing.com/th?id=OHR.CoralTurtle_FR-CA6869883059_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
