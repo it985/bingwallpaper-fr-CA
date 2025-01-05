@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-01-06 | [Perruche à tête de prune, Shimoga, Karnataka, Inde (© Hira Punjabi/Alamy)](https://cn.bing.com/th?id=OHR.PlumParakeet_FR-CA9102129073_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-01-05 | [Chutes de Ban Gioc, Vietnam  (© Shane P. White/Minden Pictures)](https://cn.bing.com/th?id=OHR.VietnamFalls_FR-CA8861500399_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-01-04 | [Radcliffe Camera et All Souls College, Université d'Oxford, Angleterre (© atiger/Shutterstock)](https://cn.bing.com/th?id=OHR.TolkienOxford_FR-CA8637685822_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
