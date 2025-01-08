@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-01-09 | [La Grande Muraille enneigée, Chine (© View Stock/Alamy)](https://cn.bing.com/th?id=OHR.GreatWallStairs_FR-CA6576775955_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-01-08 | [Moeraki Boulders, Île du Sud, Nouvelle-Zélande (© Douglas Pearson/eStock Photo)](https://cn.bing.com/th?id=OHR.BouldersNZ_FR-CA6332854398_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-01-07 | [Crypte sous l’eau, Basilique Saint-François de Ravenne, Italie (© Andrea Pucci/Getty Images)](https://cn.bing.com/th?id=OHR.RavennaBasilica_FR-CA6339830538_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
