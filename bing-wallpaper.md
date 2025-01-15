@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-01-16 | [Lac Supérieur en hiver, Thunder Bay, Ontario (© Susan Dykstra/plainpicture)](https://cn.bing.com/th?id=OHR.FrozenLakeSuperior_FR-CA1047293623_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-01-15 | [Zahara de la Sierra, Cadix, Espagne (© SEN LI/Getty Images)](https://cn.bing.com/th?id=OHR.CadizSpain_FR-CA2371424829_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-01-14 | [Cottage et phare de Tŵr Mawr, Ynys Llanddwyn, Pays de Galles, Royaume-Uni (© Westend61 on Offset/Shutterstock)](https://cn.bing.com/th?id=OHR.CoastalWales_FR-CA2076537409_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
