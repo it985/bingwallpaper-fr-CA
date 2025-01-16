@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-01-17 | [Parc national des Pinnacles, comté de San Benito, Californie, États-Unis (© yhelfman/Getty Images)](https://cn.bing.com/th?id=OHR.PinnaclesPeaks_FR-CA2746152794_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-01-16 | [Lac Supérieur en hiver, Thunder Bay, Ontario (© Susan Dykstra/plainpicture)](https://cn.bing.com/th?id=OHR.FrozenLakeSuperior_FR-CA1047293623_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-01-15 | [Zahara de la Sierra, Cadix, Espagne (© SEN LI/Getty Images)](https://cn.bing.com/th?id=OHR.CadizSpain_FR-CA2371424829_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
