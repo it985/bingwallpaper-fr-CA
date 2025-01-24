@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-01-25 | [Geyser Strokkur, Islande (© John and Tina Reid/Getty Images)](https://cn.bing.com/th?id=OHR.IcelandGeyser_FR-CA8164450943_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-01-24 | [Deer Valley au crépuscule, Park City, Utah, États-Unis (© Adventure_Photo/Getty Images)](https://cn.bing.com/th?id=OHR.DeerValley_FR-CA1426119767_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-01-23 | [Ad-Deir, Pétra, Jordanie (© Punnawit Suwuttananun/Getty Images)](https://cn.bing.com/th?id=OHR.PetraMonastery_FR-CA4480470167_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
