@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-02-09 | [Tours médiévales, Mestia, Haute-Svaneti, Géorgie (© photoaliona/Getty Images)](https://cn.bing.com/th?id=OHR.SnowySvaneti_FR-CA7435205782_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-02-08 | [Heure bleue à Trondheim, Norvège (© Jeanny Mueller/Getty Images)](https://cn.bing.com/th?id=OHR.BlueNorway_FR-CA3240346092_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-02-07 | [Îles Archway, plage de Wharariki, Tasman, Nouvelle-Zélande (© Francesco Vaninetti/AWL/plainpicture)](https://cn.bing.com/th?id=OHR.WhararikiBeach_FR-CA4266393826_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
