@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-02-11 | [Installation artistique de parapluies, Borough Market, Londres, Angleterre (© Malcolm P Chapman/Getty Images)](https://cn.bing.com/th?id=OHR.UmbrellaDay_FR-CA7989925636_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-02-10 | [Alstrom Point, lac Powell, Utah, États-Unis (© T.M. Schultze/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.AlstromPoint_FR-CA6255476346_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-02-09 | [Tours médiévales, Mestia, Haute-Svaneti, Géorgie (© photoaliona/Getty Images)](https://cn.bing.com/th?id=OHR.SnowySvaneti_FR-CA7435205782_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
