@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-02-15 | [Deux manchots de Magellan, îles Malouines (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](https://cn.bing.com/th?id=OHR.PenguinLove_FR-CA6502160876_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-02-14 | [Lac Tyrrell, Victoria, Australie (© Monica Bertolazzi/Getty Images)](https://cn.bing.com/th?id=OHR.LakeTyrrell_FR-CA2558878475_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-02-13 | [Iguanes marins, îles Galápagos, Équateur (© helovi/Getty Images)](https://cn.bing.com/th?id=OHR.GalapagosIguana_FR-CA2196736682_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
