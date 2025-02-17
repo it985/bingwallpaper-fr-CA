@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-02-18 | [Parc national Banff, Alberta, Canada (© Waitforlight/Moment/Getty Images)](https://cn.bing.com/th?id=OHR.BanffSnow25_FR-CA1053265371_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-02-17 | [Baleine à bosse et son baleineau, Tonga (© Chase Dekker/Minden Pictures)](https://cn.bing.com/th?id=OHR.HumpbackMother_FR-CA7899995357_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-02-16 | [Stalactites de Misotsuchi, Chichibu, Japon (© watayu0821/shutterstock)](https://cn.bing.com/th?id=OHR.Misotsuchi2025_FR-CA6882256212_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
