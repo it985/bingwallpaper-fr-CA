@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-02-21 | [Cerf élaphe, Canada (© Delbars/Getty Images)](https://cn.bing.com/th?id=OHR.CanadaDeer_FR-CA2132440731_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-02-20 | [Loutre d'Europe, Lelystad, Pays-Bas (© Ernst Dirksen/Minden Pictures)](https://cn.bing.com/th?id=OHR.IceHoleOtter_FR-CA1911250698_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-02-19 | [Le Grand Trou Bleu, Belize (© JamiesOnAMission/Shutterstock)](https://cn.bing.com/th?id=OHR.BlueBelize_FR-CA1406479043_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
