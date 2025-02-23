@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-02-24 | [Lever de soleil au mont Fuji, Lac Kawaguchi, Japon (© Twenty47studio/Getty Images)](https://cn.bing.com/th?id=OHR.MtFujiSunrise_FR-CA7965780124_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-02-23 | [Gateway Arch à Saint-Louis, Missouri, États-Unis (© f11photo/Getty Images)](https://cn.bing.com/th?id=OHR.StLouisArch_FR-CA3387365822_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-02-22 | [Bassin de Champaka Sarasi, Karnataka, Inde (© Amith Nag Photography/Getty Images)](https://cn.bing.com/th?id=OHR.ChampakaSarasi_FR-CA3071619722_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
