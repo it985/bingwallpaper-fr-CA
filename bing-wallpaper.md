@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-02-27 | [Château de Stalker sur le loch Laich, Argyll, Écosse (© WLDavies/Getty Images)](https://cn.bing.com/th?id=OHR.ArgyllStalker_FR-CA9572525309_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-02-26 | [Pont Walterdale à Edmonton, Alberta (© ronniechua/Getty Images)](https://cn.bing.com/th?id=OHR.WalterdaleBridge_FR-CA9281333446_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-02-25 | [Groupe de seiches géantes dans le golfe Spencer, au large de Whyalla, Australie-Méridionale (© Gary Bell/Minden Pictures)](https://cn.bing.com/th?id=OHR.GiantCuttlefish_FR-CA8314855616_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
