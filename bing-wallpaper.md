@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-03-01 | [Monastère Taktshang, Bhoutan (© Baron Reznik/Getty Images)](https://cn.bing.com/th?id=OHR.BhutanMonastery_FR-CA0854071680_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-02-28 | [Ourson polaire, Churchill, Manitoba, Canada (© Eric Baccega/NPL/Minden Pictures)](https://cn.bing.com/th?id=OHR.PolarCub_FR-CA0698654822_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-02-27 | [Château de Stalker sur le loch Laich, Argyll, Écosse (© WLDavies/Getty Images)](https://cn.bing.com/th?id=OHR.ArgyllStalker_FR-CA9572525309_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
