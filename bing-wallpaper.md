@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-03-08 | [Fleurs de prunier, Chine (© zhikun sun/Getty Images)](https://cn.bing.com/th?id=OHR.PlumBlossom_FR-CA9701270466_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-03-07 | [Mouflon du désert dans le parc d'État Valley of Fire, Nevada, États-Unis (© Rachid Dahnoun/Cavan Images)](https://cn.bing.com/th?id=OHR.NevadaBigHorns_FR-CA6323329151_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-03-06 | [Vue aérienne du parc national de Khao Sok, Surat Thani, Thaïlande (© Peetatham Kongkapech/Getty Images)](https://cn.bing.com/th?id=OHR.SuratThani_FR-CA5392385177_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
