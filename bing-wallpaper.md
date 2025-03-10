@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-03-11 | [Lion au repos, parc national Queen Elizabeth, Ouganda (© Gunter Nuyts/Getty Images)](https://cn.bing.com/th?id=OHR.NappingLion_FR-CA0315235699_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-03-10 | [Tour de l'horloge de Saint-Marc, Venise, Italie (© scaliger/Getty Images)](https://cn.bing.com/th?id=OHR.ItalyClock_FR-CA0091042756_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-03-09 | [Statue « Fearless Girl » face à Wall Street, New York, États-Unis (© JOHANNES EISELE/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.FearlessWomen_FR-CA3083178240_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
