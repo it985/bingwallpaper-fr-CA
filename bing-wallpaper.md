@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-03-24 | [Éclair et nuages d'orage au coucher du soleil près de Bowman, Nebraska, États-Unis (© john finney photography/Getty Images)](https://cn.bing.com/th?id=OHR.NebraskaStorm_FR-CA7356220380_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-03-23 | [Nénuphars à la surface du Cenote Nicte-Ha, Tulum, Mexique (© Franco Banfi/NPL/Minden)](https://cn.bing.com/th?id=OHR.CenoteLilies_FR-CA7140965973_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-03-22 | [Brume sur la forêt tropicale de plaine, vallée de Danum, Sabah, Bornéo, Malaisie (© Nick Garbutt/Alamy)](https://cn.bing.com/th?id=OHR.DanumValley_FR-CA6929731535_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
