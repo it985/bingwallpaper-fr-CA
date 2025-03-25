@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-03-26 | [Trou de hobbit sur le plateau de tournage de Hobbiton, Waikato, Nouvelle-Zélande (© Kim Petersen/Alamy)](https://cn.bing.com/th?id=OHR.HobbitHole_FR-CA8203213295_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-03-25 | [Éléphant du désert et son petit se nourrissant d'herbes hautes, Namibie (© Christophe Courteau/Minden Pictures)](https://cn.bing.com/th?id=OHR.ElephantGrass_FR-CA8064485353_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-03-24 | [Éclair et nuages d'orage au coucher du soleil près de Bowman, Nebraska, États-Unis (© john finney photography/Getty Images)](https://cn.bing.com/th?id=OHR.NebraskaStorm_FR-CA7356220380_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
