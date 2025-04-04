@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-04-05 | [Cerisiers en fleurs, Washington DC, États-Unis (© f11photo/Getty Images)](https://cn.bing.com/th?id=OHR.CherryBlossomDC_FR-CA9304920775_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-04-04 | [Colibri roux, île de Salt Spring, Colombie-Britannique, Canada (© Dave Hutchison Photography/Getty Images)](https://cn.bing.com/th?id=OHR.RufousHummingbird_FR-CA8727304764_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-04-03 | [Formations de grès dans les badlands près de Caineville, Utah, États-Unis (© Chris Moore/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.UtahBadlands_FR-CA1740090528_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
