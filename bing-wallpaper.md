@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-04-09 | [Femmes en costume traditionnel lors du festival Paro Tshechu au Bhoutan (© Richard I'Anson/Getty Images)](https://cn.bing.com/th?id=OHR.ParoTsechu_FR-CA5633759949_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-04-08 | [Montagnes de Whistler et de Blackcomb, Colombie-Britannique (© Pierre Leclerc/Shutterstock)](https://cn.bing.com/th?id=OHR.WhistlerSnowboard_FR-CA2302818424_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-04-07 | [Paruline du Canada (© mirceax/Getty Images)](https://cn.bing.com/th?id=OHR.YellowWarbler_FR-CA2010153906_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
