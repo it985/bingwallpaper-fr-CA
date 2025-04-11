@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-04-12 | [Champs de tulipes, Pays-Bas (© 1111IESPDJ/Getty Images)](https://cn.bing.com/th?id=OHR.TulipsWindmill_FR-CA8325142207_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-04-11 | [Renardeaux près de leur tanière (© WildMedia/Shutterstock)](https://cn.bing.com/th?id=OHR.LittleFoxes_FR-CA7956538809_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-04-10 | [Heure bleue à Naxos, Cyclades, Grèce (© Sizun Eye/Getty Images)](https://cn.bing.com/th?id=OHR.BlueNaxos_FR-CA7619118944_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
