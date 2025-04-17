@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-04-18 | [Coq-de-roche péruvien, Écuateur (© Kit Day/Alamy)](https://cn.bing.com/th?id=OHR.EcuadorBird_FR-CA4387782439_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-04-17 | [Pont Kachina, monument national des National Bridges, Utah, États-Unis (© Alan Majchrowicz/Getty Images)](https://cn.bing.com/th?id=OHR.KachinaBridge_FR-CA2353131733_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-04-16 | [Beach art sur la plage de Sauveterre par Zarpo, Les Sables-d'Olonne, France (© Hemis/Alamy)](https://cn.bing.com/th?id=OHR.BeachArt_FR-CA1945523130_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
