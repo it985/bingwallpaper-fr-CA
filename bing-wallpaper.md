@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-04-20 | [Parc national de Zion, Utah, États-Unis (© Simon Dannhauer/Getty Images)](https://cn.bing.com/th?id=OHR.ZionValley_FR-CA5154039067_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-04-19 | [Montgolfières, parc national de Göreme, Cappadoce, Turquie (© Anton Petrus/Getty Images)](https://cn.bing.com/th?id=OHR.GoremeTurkey_FR-CA7490534798_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-04-18 | [Coq-de-roche péruvien, Écuateur (© Kit Day/Alamy)](https://cn.bing.com/th?id=OHR.EcuadorBird_FR-CA4387782439_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
