@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-04-24 | [Théâtre du Globe, Londres, Angleterre (© Peter Dazeley/Getty Images)](https://cn.bing.com/th?id=OHR.GlobeTheatre_FR-CA4288984351_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-04-23 | [Grand Prismatic Spring, parc national de Yellowstone, Wyoming, États-Unis (© Ajith Kumar/Getty Images)](https://cn.bing.com/th?id=OHR.YellowstoneSpring_FR-CA1960442919_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-04-22 | [Arbres de Josué sous la Voie lactée, Californie, États-Unis (© Chao Zhang/Getty Images)](https://cn.bing.com/th?id=OHR.JoshuaStars_FR-CA1371442285_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
