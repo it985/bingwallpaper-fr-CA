@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-04-30 | [Jardins du château de Villandry, Vallée de la Loire (© Mint Images/Getty Images)](https://cn.bing.com/th?id=OHR.GardensVillandry_FR-CA0608759870_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-04-29 | [Impala dans la réserve de Moremi, Botswana (© Paul Souders/Getty Images)](https://cn.bing.com/th?id=OHR.OrangeImpala_FR-CA0295710042_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-04-28 | [Bosquet de séquoias côtiers dans les parcs nationaux de Redwood, Californie, États-Unis (© Bob Pool/Getty Images)](https://cn.bing.com/th?id=OHR.RedwoodGrove_FR-CA2674343788_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
