@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-05-01 | [John Coltrane et son groupe en 1961, Londres, Angleterre (© Popperfoto/Getty Images)](https://cn.bing.com/th?id=OHR.ColtraneBand_FR-CA0892756164_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-04-30 | [Jardins du château de Villandry, Vallée de la Loire (© Mint Images/Getty Images)](https://cn.bing.com/th?id=OHR.GardensVillandry_FR-CA0608759870_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-04-29 | [Impala dans la réserve de Moremi, Botswana (© Paul Souders/Getty Images)](https://cn.bing.com/th?id=OHR.OrangeImpala_FR-CA0295710042_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
