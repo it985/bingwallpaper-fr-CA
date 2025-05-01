@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-05-02 | [Fleurs de frangipanier, Hawaï, États-Unis (© Miranda Jans/Getty Images)](https://cn.bing.com/th?id=OHR.PinkPlumeria_FR-CA9550937196_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-05-01 | [John Coltrane et son groupe en 1961, Londres, Angleterre (© Popperfoto/Getty Images)](https://cn.bing.com/th?id=OHR.ColtraneBand_FR-CA0892756164_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-04-30 | [Jardins du château de Villandry, Vallée de la Loire (© Mint Images/Getty Images)](https://cn.bing.com/th?id=OHR.GardensVillandry_FR-CA0608759870_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
