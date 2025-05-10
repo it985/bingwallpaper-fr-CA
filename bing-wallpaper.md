@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-05-11 | [Capitole de l'État du Minnesota, St. Paul, États-Unis (© lavin photography/Getty Images)](https://cn.bing.com/th?id=OHR.MinnesotaRotunda_FR-CA0618783883_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-05-10 | [Festival Canadien des tulipes, Ottawa (© Danielle Donders/Getty Images)](https://cn.bing.com/th?id=OHR.Tulip25Fest_FR-CA1899692626_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-05-09 | [Ânes dans une vallée près de Rhyolite, Nevada, États-Unis (© Moelyn Photos/Getty Images)](https://cn.bing.com/th?id=OHR.RhyoliteDonkeys_FR-CA4100487057_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
