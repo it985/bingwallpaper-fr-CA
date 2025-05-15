@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-05-16 | [Big Ben et le Parlement, Palais de Westminster, Londres, Angleterre (© Puthipong Worasaran/Getty Images)](https://cn.bing.com/th?id=OHR.LondonParliament_FR-CA5953075678_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-05-15 | [Porto Flavia, Sulcis-Iglesiente, Sardaigne, Italie (© Francesco Riccardo Iacomino/Getty Images)](https://cn.bing.com/th?id=OHR.SardiniaFlavia_FR-CA4957926816_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-05-14 | [Mont Burgess et lac Emerald dans le parc national de Yoho, Colombie-Britannique (© Feng Wei Photography/Getty Images)](https://cn.bing.com/th?id=OHR.YohoNP_FR-CA1947033491_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
