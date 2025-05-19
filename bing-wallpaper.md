@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-05-20 | [Édifices du Parlement de la Colombie-Britannique, Victoria (© bluejayphoto/Getty Images)](https://cn.bing.com/th?id=OHR.Victoria25Day_FR-CA2242242739_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-05-19 | [« La Fée Électricité » de Raoul Dufy, Musée d'art moderne, Paris (© BERTRAND GUAY/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.DufyRoom_FR-CA2079016869_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-05-18 | [Delta de la lagune vénitienne, Italie (© Dimitri Weber/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.VeniceLagoon_FR-CA1959274931_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
