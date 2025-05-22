@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-05-23 | [Baobabs au coucher du soleil, allée des Baobabs, Madagascar (© Framalicious/Shutterstock)](https://cn.bing.com/th?id=OHR.BaobabAvenue_FR-CA2722897206_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-05-22 | [Jardin de thé au village de Yangjiatang, comté de Songyang, Chine (© feng xu/Getty Images)](https://cn.bing.com/th?id=OHR.SongyangTeaGarden_FR-CA2527567665_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-05-21 | [Abeille sur des fleurs de lavande (© Anthony Brown/Alamy)](https://cn.bing.com/th?id=OHR.HoneyBeeLavender_FR-CA2376203032_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
