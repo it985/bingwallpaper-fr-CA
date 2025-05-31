@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-06-01 | [Réserve naturelle de Knuthöjdsmossen, Suède (© Sven Halling/DEEPOL/plainpicture)](https://cn.bing.com/th?id=OHR.SwedenReserve_FR-CA5126483209_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-05-31 | [Little Pigeon River, Parc national des Great Smoky Mountains, Tennessee, États-Unis (© GreenStock/Getty Images)](https://cn.bing.com/th?id=OHR.LittlePigeonRiver_FR-CA3848084356_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-05-30 | [Miravet sur le fleuve Èbre, Tarragone, Catalogne, Espagne (© Eloi_Omella/Getty Images)](https://cn.bing.com/th?id=OHR.MiravetSpain_FR-CA4536791904_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
