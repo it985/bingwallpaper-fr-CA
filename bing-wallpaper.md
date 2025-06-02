@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-06-03 | [Île Fogo, Terre-Neuve-et-Labrador (© Greg Johnston/Photodisc/Getty Images)](https://cn.bing.com/th?id=OHR.Fogoisland_FR-CA5436745588_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-06-02 | [Récif barrière au large de la Grande Terre, Nouvelle-Calédonie (© Karsten Wrobel/Getty Images)](https://cn.bing.com/th?id=OHR.GrandeTerreReef_FR-CA5296140258_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-06-01 | [Réserve naturelle de Knuthöjdsmossen, Suède (© Sven Halling/DEEPOL/plainpicture)](https://cn.bing.com/th?id=OHR.SwedenReserve_FR-CA5126483209_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
