@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-06-09 | [Lions de mer de Steller, île de Vancouver, Colombie-Britannique, Canada (© Steve Woods Photography/Getty Images)](https://cn.bing.com/th?id=OHR.StellarSeaLions_FR-CA6755982430_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-06-08 | [Sommet de Pine Mountain, Forêt nationale d’Angeles, Californie, États-Unis (© Matthew Kuhns/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.PacificCrestTrail_FR-CA6650916972_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-06-07 | [Plage du débarquement d’Arromanches-les-Bains, Normandie (© Horia Merla/Getty Images)](https://cn.bing.com/th?id=OHR.NormandyBeach_FR-CA6105817274_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
