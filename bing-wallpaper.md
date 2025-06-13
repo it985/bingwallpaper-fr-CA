@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-06-14 | [Silhouette urbaine de Montréal sur le fleuve Saint-Laurent, Québec (© Walter Bibikow/Stone/Getty Images)](https://cn.bing.com/th?id=OHR.CanadianGPQuebec_FR-CA7810531088_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-06-13 | [Chisos Mountains, Parc national de Big Bend, Texas, État-Unis (© Dean Fikar/Getty Images)](https://cn.bing.com/th?id=OHR.BigBendChisos_FR-CA7282814155_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-06-12 | [Flamants roses, Lüderitz, Namibie (© Karine Aigner/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.FlamingosNamibia_FR-CA7147241890_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
