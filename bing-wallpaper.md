@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-06-16 | [Nandou de Darwin mâle avec ses petits, parc national Torres del Paine, Patagonie, Chili (© Ignacio Yufera/Minden Pictures)](https://cn.bing.com/th?id=OHR.RheaDad_FR-CA9162374279_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2025-06-15 | [Cinque Torri, Dolomites, Italie (© usabin/Getty Images)](https://cn.bing.com/th?id=OHR.DolomitiEstate_FR-CA9009811227_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2025-06-14 | [Silhouette urbaine de Montréal sur le fleuve Saint-Laurent, Québec (© Walter Bibikow/Stone/Getty Images)](https://cn.bing.com/th?id=OHR.CanadianGPQuebec_FR-CA7810531088_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
